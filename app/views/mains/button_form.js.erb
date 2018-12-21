@@ -1,0 +1,13 @@
+$('#button_f').html(
+    "<%=
+    escape_javascript render 'mains/button_f', recruitment: @recruitment, view_com_num: @view_com_num, view_num: @view_num
+   %>"
+);
+$('#button_f2').html(
+    "<%=
+    if @view_com_num == '5'
+     escape_javascript render partial: 'mains/form', locals:{recruitment: @recruitment, inputtag: @inputtag, view_com_num: @view_com_num, view_num: @view_num}
+     elsif @view_com_num == '6'
+     escape_javascript render partial: 'mains/form_r', locals:{recruitment: @recruitment, inputtag: @inputtag, view_com_num: @view_com_num, view_num: @view_num}
+    end %>"
+);

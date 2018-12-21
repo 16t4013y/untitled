@@ -1,0 +1,7 @@
+$('#decide_answer').html(
+    "<%=escape_javascript(render partial: 'recruitments/decide_answer', locals: {recruitment: @recruitment, answer: nil})%>"
+);
+$('<%= "#" + @comment.id.to_s %>').html(
+    "<%= escape_javascript(render partial: 'recruitments/select', locals: {comment: @comment}) %>"
+);
+$('.selected').attr("class", "select");

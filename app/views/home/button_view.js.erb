@@ -1,0 +1,16 @@
+$('#button_v2').html(
+    "<%= escape_javascript render 'home/button_v', view_num: @view_num, acc_id: @account.acc_id %>"
+);
+$('#button_v3').html(
+    "<%=
+    if @view_num == '1'
+    escape_javascript render 'mains/view_t', recruitments: @recruitments
+    elsif @view_num == '2'
+    escape_javascript render 'mains/view_t', recruitments: @recruitments
+    elsif @view_num == '3'
+    escape_javascript render 'mains/view_t', recruitments: @recruitments
+    elsif @view_num == '4'
+    escape_javascript render 'mains/view_t', recruitments: @recruitments
+    end
+    %>"
+);

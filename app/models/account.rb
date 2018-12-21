@@ -7,8 +7,15 @@ class Account < ApplicationRecord
 
   attr_accessor :login
 
+  has_many :recruitments, dependent: :destroy
+  has_many :comments, dependent: :destroy
+  has_many :entry_chats, dependent: :destroy
+  has_many :chat_comments, dependent: :destroy
+  has_many :bookmarks, dependent: :destroy
+  has_many :bookmark_recruitments, through: :bookmarks, source: :recruitment
+
   before_save { self.acc_id = acc_id.downcase }
-  validates :acc_id       , presence: true, length: { maximum: 20}, format:{with: /\A\w+\z/i}, uniqueness: { case_sensitive: false }
+  validates :acc_id       , presence: true, length: { maximum: 20}, format:{with: /\A[a-z0-9]+\z/i}, uniqueness: { case_sensitive: false }
   validates :name         , presence: true, length: { maximum: 20}
   validates :university   , presence: true, length: { maximum: 20}
   validates :faculty      , presence: true, length: { maximum: 20}

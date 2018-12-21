@@ -1,0 +1,8 @@
+$('#button_v3').append(
+    "<%=
+    escape_javascript(render 'mains/view_t', recruitments: @recruitments)
+    %>"
+);
+$('#button_v4').html(
+    "<%= escape_javascript button_to "もっと読み込む", mains_add_path(@recruitments.size.to_s), method: :get, params:{school:@inputtag.school,faculty:@inputtag.faculty,department:@inputtag.department,tag1:@inputtag.tag1,tag2:@inputtag.tag2,tag3:@inputtag.tag3,tag4:@inputtag.tag4,tag5:@inputtag.tag5,tag6:@inputtag.tag6,tag7:@inputtag.tag7,tag8:@inputtag.tag8,tag9:@inputtag.tag9,tag10:@inputtag.tag10, oldest:@recruitments.last.updated_at.utc.to_s, view_num: @view_num}, remote: true %>"
+);

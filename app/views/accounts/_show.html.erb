@@ -1,0 +1,47 @@
+<%= form_with(model: account, local: true) do |form| %>
+
+  <p>
+    <strong>アカウントID</strong>
+    <%= @account.acc_id %>
+  </p>
+
+  <p>
+    <strong>アカウント名</strong>
+    <%= @account.name %>
+  </p>
+
+  <p>
+    <strong>大学名</strong>
+    <%= @account.university %>
+  </p>
+
+  <p>
+    <strong>学部名</strong>
+    <%= @account.faculty %>
+  </p>
+
+  <p>
+    <strong>学科名</strong>
+    <%= @account.department %>
+  </p>
+
+  <p>
+    <strong>学年</strong>
+    <%= @account.grade %>
+  </p>
+
+  <p>
+    <strong>大学メールアドレス</strong>
+    <%= @account.email %>
+  </p>
+
+  <p>
+    <strong>最終ログイン</strong>
+    <%= @account.last_login %>>
+  </p>
+
+  <p>
+    <strong>紹介文</strong>
+    <%= @account.self_introduction %>
+  </p>
+<% end %>

@@ -1,6 +1,6 @@
 <h2>新規登録</h2>
 
-<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+<%= form_for(@account, url: {action: "confirm"}) do |f| %>
   <%= devise_error_messages! %>
 
   <!--  ↓追加分↓-->
@@ -15,20 +15,27 @@
     <%= f.text_field :name %>
   </div>
 
+  <!--============================================================================================-->
   <div class="field">
     <%= f.label :university, "大学名" %><br />
-    <%= f.text_field :university %>
+    <%= f.text_field :university ,id: 'university',list: 'school-name'%>
+    <datalist id="school-name">
+      <% Univinfo.where(stat: '0').distinct.order(tag_id: :desc).each do |tag1| %>
+        <option value=<%= tag1.name %>>
+      <% end %>
+    </datalist>
   </div>
 
   <div class="field">
     <%= f.label :faculty, "学部名"%><br />
-    <%= f.text_field :faculty %>
+    <%= f.select :faculty, [], {},{id: 'faculty'}%>
   </div>
 
   <div class="field">
     <%= f.label :department, "学科名" %><br />
-    <%= f.text_field :department %>
+    <%= f.select :department, [],{}, {id:'department'}%>
   </div>
+  <!--============================================================================================-->
 
   <div class="field">
     <%= f.label :grade, "学年" %><br />
@@ -57,8 +64,107 @@
   </div>
 
   <div class="actions">
-    <%= f.submit "登録" %>
+    <%= f.submit "確認" %>
   </div>
 <% end %>
 
 <%= render "devise/shared/links" %>
+
+<script>
+    setTimeout('get_faculty_tag()',100);
+
+    $("#university").on({
+        "input" : function() {//大学タグ入力欄に変更があった場合、学部情報を取得する
+            //alert("");
+            get_faculty_tag();
+
+        }
+    });
+    $("#faculty").on({
+        "input" : function() {//学部タグ入力欄に変更があった場合、学部情報を取得する
+            get_department_tag();
+        }
+    });
+
+    function get_faculty_tag() {//学部タグのリストを取得して、データリストに追加する
+        if(check_univ()) {
+            var faculty_request = new XMLHttpRequest();
+            var param = "faculty=&school="+ document.getElementById('university').value + "&type=1";//パラメータ指定
+            faculty_request.open("GET", `/univtag/list?`+ param);
+            faculty_request.addEventListener("load", (event) => {//学部情報取得時の処理
+                var s = JSON.parse(event.target.responseText)
+
+                document.getElementById('faculty').value = "";
+                recreate_list(document.getElementById('faculty'), s);//学部リストの更新
+                get_department_tag();
+            });
+            faculty_request.addEventListener("error", (event) => {//ネットワークエラー時
+                alert("ネットワークエラー：大学情報を取得できませんでした。通信状況を確認してください。")
+            })
+            faculty_request.send();
+        }else{//大学入力欄に存在しない大学が入っている場合、学部学科をリセットする
+            remove_list(document.getElementById('faculty'));
+            remove_list(document.getElementById('department'));
+        }
+    }
+
+    function get_department_tag() {//学科タグのリストを取得して、データリストに追加する
+        var department_request = new XMLHttpRequest();
+        var param = "school="+ document.getElementById('university').value + "&faculty=" + document.getElementById('faculty').value + "&type=2";
+        department_request.open("GET", `/univtag/list?`+ param);
+        department_request.addEventListener("load", (event) => {//学部情報取得時の処理
+            var s = JSON.parse(event.target.responseText)
+
+            document.getElementById('department').value = "";
+            recreate_list(document.getElementById('department'), s);//学部リストの更新
+        });
+        department_request.addEventListener("error", (event) => {//ネットワークエラー時
+            alert("ネットワークエラー：大学情報を取得できませんでした。通信状況を確認してください。")
+        })
+        department_request.send();
+    }
+
+    //datalistのデータリストを削除する
+    function remove_list(select){
+        var options = select.options;
+        for (var i = options.length-1; 0 <= i; --i) {
+            select.removeChild(options[i]);
+        }
+    }
+
+    //selectのデータリストを削除して、新たなリストを作成する
+    function recreate_list(select, array){
+        remove_list(select);
+        for(var i = 0; i < array.length; i++){
+            add_list(select, array[i]);
+        }
+    }
+    //selectのデータリストに要素を追加する
+    function add_list(select, name){
+        var elem = document.createElement("option");
+        elem.setAttribute("value", name);
+        elem.innerHTML = name;
+        select.appendChild(elem);
+    }
+
+    //selectのデータリストに選択不可要素を追加する
+    function add_disabled(select, name){
+        var elem = document.createElement("option");
+        elem.setAttribute("disabled selected value", "");
+        elem.innerHTML = name;
+        select.appendChild(elem);
+    }
+
+    function check_univ() {//大学名の存在チェック
+        var inputname = document.getElementById('university').value;
+        if (inputname == "") {
+            return false;
+        } else {//入力が空でなければ大学名が存在するかチェック
+            for(var i = 0 ; i < document.getElementById('university').list.options.length; i++) {
+                if (inputname == document.getElementById('university').list.options[i].getAttribute('value')){
+                    return true;
+                }
+            }
+        }
+    }
+</script>

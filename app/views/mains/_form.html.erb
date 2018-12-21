@@ -1,0 +1,41 @@
+<%= stylesheet_link_tag "box.css", :media => "all" %>
+<!--======================発言フォーム==========================-->
+<%= form_with(model: recruitment, url: recruitments_create_path(5)) do |form| %>
+
+  <div class="form_layout">
+    <div style="padding: 0px" class="form_layout_item-textarea">
+      <%= form.text_area :detail,maxlength:"1000", placeholder: "本文を入力して下さい", id: "talk_input_form"%>
+<!--
+      <div class="field">
+            <%= form.label :添付 %>
+            <%= form.number_field :file_id %>
+
+      </div>
+-->
+    </div>
+    <div class="form_layout_item-submit">
+      ,<!--<div class="actions">-->
+        <!--====================タグ検索情報====================-->
+        <input type="hidden" name="school" value="<%=@inputtag.school %>">
+        <input type="hidden" name="faculty" value="<%=@inputtag.faculty %>">
+        <input type="hidden" name="department" value="<%=@inputtag.department %>">
+        <input type="hidden" name="tag1" value="<%=@inputtag.tag1 %>">
+        <input type="hidden" name="tag2" value="<%=@inputtag.tag2 %>">
+        <input type="hidden" name="tag3" value="<%=@inputtag.tag3 %>">
+        <input type="hidden" name="tag4" value="<%=@inputtag.tag4 %>">
+        <input type="hidden" name="tag5" value="<%=@inputtag.tag5 %>">
+        <input type="hidden" name="tag6" value="<%=@inputtag.tag6 %>">
+        <input type="hidden" name="tag7" value="<%=@inputtag.tag7 %>">
+        <input type="hidden" name="tag8" value="<%=@inputtag.tag8 %>">
+        <input type="hidden" name="tag9" value="<%=@inputtag.tag9 %>">
+        <input type="hidden" name="tag10" value="<%=@inputtag.tag10 %>">
+        <input type="hidden" name="view_num" value="<%=@view_num %>">
+        <!--====================タグ検索情報====================-->
+        <!--<div class="button1">-->
+        <!--<div class="on">-->
+        <%= form.submit"送信📤", id: "talk_input_form_submit"%>
+
+      <!--</div>-->
+    </div>
+  </div>
+<% end %>

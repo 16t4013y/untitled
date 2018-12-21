@@ -1,0 +1,3 @@
+$('#recruitment_error').html("<%=escape_javascript(render partial: 'recruitments/recruitment_error', locals: {recruitment: @recruitment}) %>")
+$('.form_tabpanels').html("<%=escape_javascript(render partial: 'recruitments/recruitment_form',
+locals: {recruitment: @recruitment, inputtag: @inputtag, view_com_num: @view_com_num, view_num: @view_num})%>")

@@ -1,0 +1,172 @@
+.button{
+    margin:0 0 10px;
+}
+
+.button input[type=submit] {
+    background-color: #FFF;
+    border: 2px solid #444;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: #444;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    height: 27px;
+    width: 180px;
+    float:left;
+    font-weight: bold;
+}
+.button on input[type=submit]:hover {
+    outline: 0;
+    border-color: orange;
+    color: orange;
+    /*opacity: 0.5;*/
+}
+.button input[disabled=disabled] {
+    background-color: #FFDFAA;
+    border: 2px solid orange;
+    color:  #444;
+    cursor: default;
+}
+
+.button1{
+     margin:0 0 10px;
+ }
+.button1 input[type=submit] {
+    background-color: #FFF;
+    border: 2px solid #444;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: #444;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    height: 27px;
+    width: 110px;
+    float:left;
+    font-weight: bold;
+}
+.button1 on input[type=submit]:hover {
+    outline: 0;
+    border-color: orange;
+    color: orange;
+    /*opacity: 0.5;*/
+}
+.button1 input[disabled=disabled] {
+    background-color: #FFDFAA;
+    border: 2px solid orange;
+    color:  #444;
+    cursor: default;
+}
+
+.view{
+    width: 100%;
+    height: 100px;
+    background-color: orange;
+    overflow-y: scroll;
+}
+
+.box1{
+    display:block;
+}
+
+.box2{
+    float: left;
+}
+
+.box3{
+    width: 100%;
+    height: 500px;
+    background-color: aliceblue;
+    border: none;
+    box-sizing: border-box;
+    text-align: left;
+    line-height: 15px;
+    overflow-y: scroll;
+    font-size: 15px;
+}
+
+.box_comment {
+    padding: 1em 2em;
+    margin: 1em 0em;
+    color: #5989cf;
+    background: #c6e4ff;
+    border-bottom: solid 6px #aac5de;
+    border-radius: 10px;
+}
+.box_comment .box-title {
+    font-size: 1.5em;
+    background: royalblue;
+    padding: 15px 15px;
+    margin: 8px 0;
+    text-align: left;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border-radius: 10px;/*角の丸み*/
+}
+
+.box_comment p {
+    margin: 0;
+    padding: 0;
+}
+
+.box_comment2 {
+    padding: 2px 5px;
+    margin: 2em 0.5em;
+    color: #2c2c2f;
+    background: #c6e4ff;
+    border-bottom: solid 2px #5989cf;
+}
+.box_comment2 p {
+    margin: 0;
+    padding: 0;
+}
+
+.box_comment3 {
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    font-weight: bold;
+    color: #2c2c2f;/*文字色*/
+    background: aliceblue;
+    border: solid 2px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.box_comment3 p {
+    margin: 0;
+    padding: 0;
+}
+
+.box_comment4 {
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 3px #62c1ce;
+}
+.box_comment4 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -27px;
+    left: -3px;
+    padding: 0 9px;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    font-size: 17px;
+    background: #62c1ce;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px 5px 0 0;
+}
+.box_comment4 p {
+    margin: 0;
+    padding: 0;
+}

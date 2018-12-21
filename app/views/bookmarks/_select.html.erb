@@ -1,0 +1,4 @@
+<%= form_with(model: bookmark, method: :post) do |f| %>
+  <%= f.hidden_field :recruitment_id, value: recruitment_id %>
+  <%= f.submit '☆' , data: { disable_with: '処理中...'}%>
+<% end %>

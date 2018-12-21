@@ -1,0 +1,26 @@
+
+<div class="result">
+  <table width="100%" border="3" rules="none">
+    <tr>
+      <td>
+          <%= result.account.name %>
+      </td>
+      <td>
+        <%= result.account.acc_id %>
+      </td>
+      <td>
+        <%= result.created_at %>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3"><%= simple_format(result.message) %></td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <div id=<%= result.id.to_s %> class="select">
+          <%= render partial: 'recruitments/select', locals: {comment: result} %>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

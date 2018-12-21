@@ -1,0 +1,2 @@
+class Univinfo < ApplicationRecord
+end

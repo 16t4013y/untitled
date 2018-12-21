@@ -1,0 +1,47 @@
+<%= stylesheet_link_tag "box.css", :media => "all" %>
+<h1 align="left">チャット画面</h1>
+<table width="100%">
+  <tr>
+    <td  class="button">
+      <div class="button1">
+        <div class="on">
+          <%= button_to '参加者', members_path(@chat_num), method: :get %>
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="box3">
+      <% @chat_comments.each do |chat_comment| %>
+        <table width="100%" class="box_comment">
+          <tr>
+            <td class="box_comment2">
+              <%= chat_comment.account.acc_id %>
+            </td>
+            <td class="box_comment2">
+              <%= chat_comment.created_at %>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" class="box_comment3">
+              <%= chat_comment.comment %>
+            </td>
+          </tr>
+          <% if current_account.acc_id == chat_comment.account.acc_id  || current_account.acc_id == 'administrator' %>
+            <tr>
+              <td colspan="2">
+                <%= button_to '削除', chat_comment, method: :delete, data: { confirm: '本当に削除しますか?' } %>
+              </td>
+            </tr>
+          <%end %>
+        </table>
+     <% end %>
+    </td>
+  </tr>
+
+</table>
+
+<br>
+
+<%= render partial: 'form', locals:{chat_comment: @chat_comment} %>

@@ -1,0 +1,31 @@
+<%= stylesheet_link_tag "box.css", :media => "all" %>
+<span class="button1">
+  <% if @view_num == '1' %>
+    <%= button_to 'タイムライン', mains_button_view_path(1), method: :get, disabled: :disabled ,remote: true%>
+  <% else %>
+    <span class="on">
+    <%= button_to 'タイムライン', mains_button_view_path(1), method: :get, params:{school:@inputtag.school,faculty:@inputtag.faculty,department:@inputtag.department,tag1:@inputtag.tag1,tag2:@inputtag.tag2,tag3:@inputtag.tag3,tag4:@inputtag.tag4,tag5:@inputtag.tag5,tag6:@inputtag.tag6,tag7:@inputtag.tag7,tag8:@inputtag.tag8,tag9:@inputtag.tag9,tag10:@inputtag.tag10,view_num:1}, remote: true %>
+    </span>
+  <% end %>
+  <% if @view_num == '2' %>
+  <%= button_to '発言', mains_button_view_path(2), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '発言', mains_button_view_path(2), method: :get, params:{school:@inputtag.school,faculty:@inputtag.faculty,department:@inputtag.department,tag1:@inputtag.tag1,tag2:@inputtag.tag2,tag3:@inputtag.tag3,tag4:@inputtag.tag4,tag5:@inputtag.tag5,tag6:@inputtag.tag6,tag7:@inputtag.tag7,tag8:@inputtag.tag8,tag9:@inputtag.tag9,tag10:@inputtag.tag10,view_num:2}, remote: true %>
+    </span>
+  <% end %>
+  <% if @view_num == '3' %>
+  <%= button_to '募集', mains_button_view_path(3), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '募集', mains_button_view_path(3), method: :get, params:{school:@inputtag.school,faculty:@inputtag.faculty,department:@inputtag.department,tag1:@inputtag.tag1,tag2:@inputtag.tag2,tag3:@inputtag.tag3,tag4:@inputtag.tag4,tag5:@inputtag.tag5,tag6:@inputtag.tag6,tag7:@inputtag.tag7,tag8:@inputtag.tag8,tag9:@inputtag.tag9,tag10:@inputtag.tag10,view_num:3}, remote: true %>
+    </span>
+  <% end %>
+  <% if @view_num == '4' %>
+  <%= button_to '募集解決済み', mains_button_view_path(4), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '募集解決済み', mains_button_view_path(4), method: :get, params:{school:@inputtag.school,faculty:@inputtag.faculty,department:@inputtag.department,tag1:@inputtag.tag1,tag2:@inputtag.tag2,tag3:@inputtag.tag3,tag4:@inputtag.tag4,tag5:@inputtag.tag5,tag6:@inputtag.tag6,tag7:@inputtag.tag7,tag8:@inputtag.tag8,tag9:@inputtag.tag9,tag10:@inputtag.tag10,view_num:3}, remote: true %>
+    </span>
+  <% end %>
+</span>

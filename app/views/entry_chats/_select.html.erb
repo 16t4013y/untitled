@@ -1,0 +1,5 @@
+<%= form_with(model: entry_chat) do |f|%>
+  <%= f.hidden_field :recruitment_id, value: recruitment_id %>
+  <%= f.hidden_field :account_id, value: result_account_id %>
+  <%= f.submit '選択', data: { disable_with: '処理中...'} , class:"all_disable"%>
+<% end %>

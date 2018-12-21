@@ -1,0 +1,4 @@
+<%= form_with(model: recruitment, local: true) do |f| %>
+  <%= f.hidden_field :answer, value: answer %>
+  <%= f.submit "結果決定" %>
+<% end %>

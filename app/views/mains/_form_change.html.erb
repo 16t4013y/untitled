@@ -1,0 +1,13 @@
+<!--
+発言と募集フォームの切り替え
+-->
+<div class="form_tab">
+  <input type="radio" name="form_tab" id="form_tab_1" aria-controls="first_tab02" checked>
+  <label for="form_tab_1">発言</label>
+  <input type="radio" name="form_tab" id="form_tab_2" aria-controls="second_tab02">
+  <label for="form_tab_2">募集</label>
+  <div class="form_tabpanels">
+    <%= render 'recruitments/recruitment_form', recruitment: @recruitment, inputtag: @inputtag, view_com_num: @view_com_num, view_num: @view_num %>
+  </div>
+</div>
+

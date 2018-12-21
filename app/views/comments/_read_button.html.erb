@@ -1,0 +1,16 @@
+<div >
+  <% if last_comment.nil? %>
+    <% if offset_time.nil? or offset_time == '0000-01-01 00:00:00' %>
+      <!-- 返信が無い場合、もっと読み込むボタンは無し -->
+      <%= button_to "更新", comments_add_path(params[:recruitment_id], '0000-01-01 00:00:00'), method: :post,
+                    data: { disable_with: "処理中..." }, remote: true , class: "read_button"%>
+    <% else %>
+      <!-- 追加の返信がない場合-->
+      <%= button_to "もっと読み込む", comments_add_path(params[:recruitment_id], params[:offset_time]), method: :post,
+                    data: { disable_with: "処理中..." }, remote: true , class: "read_button"%>
+    <% end %>
+  <% else %>
+    <%= button_to "もっと読み込む", comments_add_path(params[:recruitment_id], @comments.last.updated_at.to_s), method: :post,
+                  data: { disable_with: "処理中..." }, remote: true , class: "read_button"%>
+  <% end %>
+</div>

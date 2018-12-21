@@ -1,0 +1,358 @@
+
+
+<table width="100%" border="3" rules="none" style="margin-bottom : 0px; padding :0px;"><!---->
+  <tr>
+    <td style="padding-bottom: 0px">
+      <%= form_for @inputtag, :url => {:action=>"update", :controller=>"tags"}, html: {id: 'tag_form',onsubmit: 'return _submit()'} do |f| %>
+        <table width="100%" style="margin-top : 10px;">
+          <tr>
+            <td valign="center" style="padding-bottom: 0px">
+
+              <%= f.text_field :school, id: 'school_tag',list: 'school-name' ,placeholder: "大学名を入力して下さい" ,:size=>"22"%>
+              <datalist id="school-name">
+                <% Univinfo.select(:name).where(stat: '0').distinct.order(tag_id: :desc).each do |tag1| %>
+                  <option value=<%= tag1.name %>>
+                <% end %>
+              </datalist>
+
+              <%= f.text_field :faculty, id: 'faculty_tag', list: 'faculty-name' ,placeholder: "学部名を入力して下さい" ,:size=>"22" %>
+              <datalist id="faculty-name">
+                <% univ = Univinfo.find_by(name: @inputtag.school)%>
+                <% if univ.present? %>
+                  <% Univinfo.select(:name).where(p_id: univ.id).distinct.order(tag_id: :desc).each do |tag2| %>
+                    <option value=<%= tag2.name %>>
+                  <% end %>
+                <% else %>
+                  <% Univinfo.select(:name).where(stat: '1').distinct.order(tag_id: :desc).each do |tag2| %>
+                    <option value=<%= tag2.name %>>
+                  <% end %>
+                <%end %>
+              </datalist>
+
+              <%= f.text_field :department, id: 'department_tag', list: 'department-name' ,placeholder: "学科名を入力して下さい" ,:size=>"22" %>
+              <datalist id="department-name">
+                <% if univ.present? then %>
+                  <% dpt = Univinfo.find_by(p_id: univ.id, name: @inputtag.faculty) %>
+                  <% if dpt.present? %>
+                    <% Univinfo.select(:name).where(p_id: dpt.id).order(tag_id: :desc).each do |tag3| %>
+                      <option value=<%= tag3.name %>>
+                    <% end %>
+                  <% else %>
+                    <% Univinfo.select(:name).where(stat: '2').distinct.order(tag_id: :desc).each do |tag3| %>
+                      <option value=<%= tag3.name %>>
+                    <% end %>
+                  <% end %>
+                <% else %>
+                  <% Univinfo.select(:name).where(stat: '2').distinct.order(tag_id: :desc).each do |tag3| %>
+                    <option value=<%= tag3.name %>>
+                  <% end %>
+                <% end %>
+              </datalist>
+
+              <!--==========================================================折りたたみ部分====================================================================-->
+              <div id="open1" style="display:none;clear:both;">
+                <input type="hidden" name="freetagnum" id="freetagnum" value="<%=@inputtag.freetagnum %>">
+                <%= f.text_field :tag1, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22", id: 'inputtag_tag1', style: 'display:none' %>
+                <datalist id="freetaglist">
+                  <% Tag.where(tag_type: false).order(id: :desc).each do |tag1| %>
+                    <option value=<%= tag1.tag_name %>>
+                  <% end %>
+                </datalist>
+
+                <%= f.text_field :tag2, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag2', style: 'display:none' %>
+                <%= f.text_field :tag3, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag3', style: 'display:none' %>
+                <%= f.text_field :tag4, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag4', style: 'display:none' %>
+                <%= f.text_field :tag5, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag5', style: 'display:none' %>
+                <%= f.text_field :tag6, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag6', style: 'display:none' %>
+                <%= f.text_field :tag7, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag7', style: 'display:none' %>
+                <%= f.text_field :tag8, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag8', style: 'display:none' %>
+                <%= f.text_field :tag9, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag9', style: 'display:none' %>
+                <%= f.text_field :tag10, list: 'freetaglist' ,placeholder: "タグを入力して下さい" ,:size=>"22" , id: 'inputtag_tag10', style: 'display:none' %>
+
+                <input type="button" value="ー" onclick="remove()" id="tagformremove">
+                <input type="button" value="＋" onclick="add()" id="tagformadd">
+              </div>
+              <!--==========================================================折りたたみ部分====================================================================-->
+            </td>
+            <td valign="bottom" align="right" style="padding-bottom: 0px">
+              <div class="actions" style="margin-bottom: 4px">
+                <input type="hidden" name="type" value="input">
+                <input type="hidden" name="view_num" value=<%= @view_num %>>
+                <input name="commit" type="submit" value="検索" style="margin : 0px; padding : 0px;" style="margin-bottom: 0px">
+              </div>
+            </td>
+          </tr>
+
+        </table>
+      <% end %>
+    </td>
+  </tr>
+  <tr>
+    <% if account_signed_in? %>
+      <td><!--.where.not(display: nil)-->
+        <!--==========================================================折りたたみ部分====================================================================-->
+        <div id="open2" style="display:none;clear:both;">
+          <%= form_for @taghistoryid, :url => {:action=>"update", :controller=>"tags"}, html: {:style=>"margin-left : 7px;"} do |f| %>
+            <%= f.collection_select :id,  Taghistory.where(acc_id: current_account.acc_id).where.not(display: nil).order(updated_at:"DESC").limit(10), :id, :display, :prompt => "タグ検索履歴", :style => "width:80%"%>
+            <input type="hidden" name="type" value="history">
+            <input type="hidden" name="view_num" value=<%= @view_num %>>
+            <input name="commit" type="submit" value="履歴で検索" ><!--style="width:150px; height:23px"-->
+          <% end %>
+        </div>
+        <!--==========================================================折りたたみ部分====================================================================-->
+      </td>
+    <% else %>
+      <td>
+        <div id="open2" style="display:none;clear:both;"></div>
+      </td>
+    <% end %>
+  </tr>
+</table>
+
+<!-- 折り畳み展開ポインタ -->
+<div align="right">
+  <a onclick="open_fome()" id="open-close-text">▽自由タグを追加する</a>
+</div>
+<!--// 折り畳み展開ポインタ -->
+
+<!--======================================================================================================================-->
+
+
+<script>
+    window.addEventListener('popstate', function (e) {
+        get_faculty_tag();
+        get_department_tag();
+    });
+
+  var tagformcnt = document.getElementById("freetagnum").value;
+  if(tagformcnt >= 10){
+      document.getElementById("tagformadd").style.display = "none";
+      tagformcnt = 10;
+  }else if(tagformcnt <= 1){
+      document.getElementById("tagformremove").style.display = "none";
+      tagformcnt = 1;
+  }
+  for ( var i = 0  ; i < tagformcnt ; i++){//使っていないタグ入力欄を閉じる
+      var formname = "inputtag_tag" + (i+1);
+      document.getElementById(formname).style.display = "";
+  }
+
+  function add() {
+      if(tagformcnt < 10) {
+          var formname = "inputtag_tag" + (tagformcnt+1);
+          document.getElementById(formname).style.display = "";
+          if(tagformcnt == 9) document.getElementById("tagformadd").style.display = "none";
+          if(tagformcnt == 0 || tagformcnt == 1) document.getElementById("tagformremove").style.display = "";
+          tagformcnt++;
+      }
+  }
+  function remove() {
+      if(tagformcnt > 0) {
+          var formname = "inputtag_tag" + tagformcnt;
+          document.getElementById(formname).style.display = "none";
+          document.getElementById(formname).value = "";
+          if(tagformcnt == 10) document.getElementById("tagformadd").style.display = "";
+          if(tagformcnt == 1 || tagformcnt == 2) document.getElementById("tagformremove").style.display = "none";
+          tagformcnt--;
+      }
+  }
+
+
+  function _submit() {
+      var target = document.getElementById("tag_form");
+      var i = 0;
+      var inputname = "";
+      var str = "";
+      var school_stat = false;
+      var faculty_stat = false;
+      var department_stat = false;
+      var school_length = document.getElementById('school_tag').value.length;
+      var faculty_length = document.getElementById('faculty_tag').value.length;
+      var department_length = document.getElementById('department_tag').value.length;
+      var tag_length = new Array();
+      tag_length[0] = document.getElementById('inputtag_tag1').value.length;
+      tag_length[1] = document.getElementById('inputtag_tag2').value.length;
+      tag_length[2] = document.getElementById('inputtag_tag3').value.length;
+      tag_length[3] = document.getElementById('inputtag_tag4').value.length;
+      tag_length[4] = document.getElementById('inputtag_tag5').value.length;
+      tag_length[5] = document.getElementById('inputtag_tag6').value.length;
+      tag_length[6] = document.getElementById('inputtag_tag7').value.length;
+      tag_length[7] = document.getElementById('inputtag_tag8').value.length;
+      tag_length[8] = document.getElementById('inputtag_tag9').value.length;
+      tag_length[9] = document.getElementById('inputtag_tag10').value.length;
+
+      //文字数超過チェック
+      if(school_length < 31 && faculty_length <31 && department_length < 31 && tag_length[0] <31 && tag_length[1] <31 && tag_length[2] <31 && tag_length[3] <31 && tag_length[4] <31 && tag_length[5] <31 && tag_length[6] <31 && tag_length[7] <31 && tag_length[8] <31 && tag_length[9] <31) {
+          inputname = document.getElementById('school_tag').value;
+          if(document.getElementById('school_tag').value != "") {
+              school_stat = check_data('school_tag');//入力大学名の存在チェック
+          }else{
+              school_stat = true
+          }
+          if(document.getElementById('faculty_tag').value != "") {
+              faculty_stat = check_data('faculty_tag');//入力学部の存在チェック
+          }else{
+              faculty_stat = true
+          }
+          if(document.getElementById('department_tag').value != "") {
+              department_stat = check_data('department_tag');//入力学科の存在チェック
+          }else{
+              department_stat = true
+          }
+
+          if (!school_stat || !faculty_stat || !department_stat) {
+              if (!school_stat) {
+                  str = str + "\"" + document.getElementById('school_tag').value + "\" " + "は存在しない大学です" + "\n";
+                  document.getElementById('school_tag').style.backgroundColor = 'RED';
+              }
+              if (!faculty_stat) {
+                  if(document.getElementById('school_tag').value == "") {
+                      str = str + "\"" + document.getElementById('faculty_tag').value + "\" " + "は存在しない学部です" + "\n";
+                  }else{
+                      str = str + "\"" + document.getElementById('school_tag').value + "\" に \"" + document.getElementById('faculty_tag').value + "\" " + "は存在しません" + "\n";
+                  }
+                  document.getElementById('faculty_tag').style.backgroundColor = 'RED';
+              }
+              if (!department_stat) {
+                  if(document.getElementById('faculty_tag').value == "") {
+                      str = str + "\"" + document.getElementById('department_tag').value + "\" " + "は存在ない学科です";
+                  }else{
+                      str = str + "\"" + document.getElementById('faculty_tag').value + "\" に \"" + document.getElementById('department_tag').value + "\" " + "は存在しません" + "\n";
+                  }
+                  document.getElementById('department_tag').style.backgroundColor = 'RED';
+              }
+              alert(str);
+          } else {//文字数超過しておらず、入力された大学名、学部名、学科名が存在すればsubmit
+              return true;
+          }
+      }else{
+          var max = 30;
+          if (school_length > max) {
+              str = str + "大学名が文字数制限を超過しています("+school_length+"/"+max+")\n";
+              document.getElementById('school_tag').style.backgroundColor = 'RED';
+          }
+          if (faculty_length > max) {
+              str = str + "学科名が文字数制限を超過しています("+faculty_length+"/"+max+")\n";
+              document.getElementById('faculty_tag').style.backgroundColor = 'RED';
+          }
+          if (department_length > max) {
+              str = str + "学科名が文字数制限を超過しています("+department_length+"/"+max+")\n";
+              document.getElementById('department_tag').style.backgroundColor = 'RED';
+          }
+          for ( var i = 0  ; i < 10 ; i++) {
+              if (tag_length[i] > max) {
+                  str = str + (i+1) +"つ目のタグが文字数制限を超過しています(" + tag_length[i] + "/" + max + ")\n";
+                  document.getElementById("inputtag_tag"+(i+1)).style.backgroundColor = 'RED';
+              }
+          }
+          alert(str);
+      }
+      return false;
+  }
+
+  $("#school_tag").on({//
+      "input" : function() {//大学タグ入力欄に変更があった場合、学部情報を取得する
+          get_faculty_tag();
+      }
+  });
+
+  $("#faculty_tag").on({//学部タグ入力欄に変更があった場合、学科情報を取得する
+      "input" : function() {
+          get_department_tag();
+      }
+  });
+
+  function get_faculty_tag() {//学部タグのリストを取得して、データリストに追加する
+      var faculty_request = new XMLHttpRequest();
+      if(document.getElementById('school_tag').value != "") {
+          if(check_data('school_tag')) {
+              var param = "faculty=&school=" + document.getElementById('school_tag').value + "&type=1";
+              faculty_request.open("GET", `/univtag/list?` + param);
+              //alert(param);
+          }else{
+              return;
+          }
+      }else{
+          faculty_request.open("GET", `/univtag/list?faculty=&school=&type=1`);
+      }
+      faculty_request.addEventListener("load", (event) => {//学部情報取得時の処理
+          var s = JSON.parse(event.target.responseText)
+
+          document.getElementById('faculty_tag').value = "";
+          recreate_list(document.getElementById('faculty_tag').list, s);//学部リストの更新
+      });
+      faculty_request.addEventListener("error", (event) => {//ネットワークエラー時
+          alert("ネットワークエラー：大学情報を取得できませんでした。通信状況を確認してください。")
+      })
+      faculty_request.send();
+  }
+
+  function get_department_tag() {//学科タグのリストを取得して、データリストに追加する
+      var department_request = new XMLHttpRequest();
+      if(document.getElementById('faculty_tag').value != "") {
+          var param = "school="+ document.getElementById('school_tag').value +"&faculty=" +document.getElementById('faculty_tag').value + "&type=2";
+          department_request.open("GET", `/univtag/list?`+ param);
+          //alert(param);
+      }else{
+          department_request.open("GET", `/univtag/list?faculty=&school=&type=2`);
+      }
+      department_request.addEventListener("load", (event) => {//学科情報取得時の処理
+          var s = JSON.parse(event.target.responseText)
+
+          document.getElementById('department_tag').value = "";
+          recreate_list(document.getElementById('department_tag').list, s);//学科リストの更新
+      });
+      department_request.addEventListener("error", (event) => {//ネットワークエラー時
+          alert("ネットワークエラー：大学情報を取得できませんでした。通信状況を確認してください。")
+      })
+      department_request.send();
+  }
+
+  //datalistのデータリストを削除する
+  function remove_list(datalist){
+      var options = datalist.options;
+      for (var i = options.length-1; 0 <= i; --i) {
+          datalist.removeChild(options[i]);
+      }
+  }
+
+  //datalistのデータリストを削除して、新たなリストを作成する
+  function recreate_list(datalist, array){
+      remove_list(datalist);
+      for(var i = 0; i < array.length; i++){
+          add_list(datalist, array[i]);
+      }
+  }
+  //datalistのデータリストに要素を追加する
+  function add_list(datalist, name){
+      var elem = document.createElement("option");
+      elem.setAttribute("value", name);
+      datalist.appendChild(elem);
+  }
+
+  function check_data(id) {//入力が内容がデータリストに存在するかチェック
+      var inputname = document.getElementById(id).value;
+      if (inputname == "") {
+          return false;
+      } else {//入力が空でなければ入力がリストに存在するかチェック
+          for(var i = 0 ; i < document.getElementById(id).list.options.length; i++) {
+              if (inputname == document.getElementById(id).list.options[i].getAttribute('value')){
+                  return true;
+              }
+          }
+      }
+  }
+  function open_fome() {
+      var obj1=document.getElementById('open1').style;
+      var obj2=document.getElementById('open2').style;
+      if(obj1.display == 'none'){//開く
+          obj1.display = 'block';
+          obj2.display = 'block';
+          document.getElementById('open-close-text').textContent = "△クリックで閉じる";
+      }else{//閉じる
+          obj1.display = 'none';
+          obj2.display = 'none';
+          document.getElementById('open-close-text').textContent = "▽自由タグを追加する";
+      }
+  }
+</script>

@@ -1,0 +1,41 @@
+<!-- 16t4032n 田中裕隆 -->
+<h2>返信</h2>
+
+<table width="100%">
+  <tr>
+    <td>
+      <%= render partial: 'comments/recruitment', locals: {recruitment: @recruitment} %>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <table class="box3">
+        <tr>
+          <td>
+            <div id="add_comments">
+              <%= render partial: "comment", collection: @comments %>
+            </div>
+            <table width="100%">
+              <tr>
+                <td>
+                  <div id="request_add_comments">
+                    <%= render partial: 'comments/read_button', locals: { recruitment_id: params[:recruitment_id], last_comment: @comments.last, offset_time: nil } %>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <% if account_signed_in? %>
+    <tr>
+      <td>
+        <%= render 'comments/new', comment: @comment %>
+      </td>
+    </tr>
+  <% end %>
+</table>

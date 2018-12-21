@@ -1,0 +1,11 @@
+$('#decide_answer').html(
+    "<%=escape_javascript(render partial: 'recruitments/decide_answer', locals: {recruitment: @recruitment, answer: @comment.message})%>"
+);
+var selected_id = $('.selected').attr("id")
+$('.selected').html("<form class=\"button_to\" method=\"get\" action=\"/recruitments/select/"+ "<%=escape_javascript(@recruitment.id.to_s)%>" +"/"+ selected_id +"\" data-remote=\"true\"><input data-disable-with=\"処理中...\" class=\"select\" type=\"submit\" value=\"選択\"></form>")
+$('<%= "#" + @comment.id.to_s %>').html(
+    "<%= escape_javascript(render partial: 'recruitments/selected', locals: {comment: @comment}) %>"
+);
+$('<%= "#" + @comment.id.to_s %>').attr(
+    "class", "selected"
+)

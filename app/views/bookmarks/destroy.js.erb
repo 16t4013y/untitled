@@ -1,0 +1,3 @@
+$('<%= escape_javascript("#bookmark_" + @new_bookmark.recruitment.id.to_s) %>').html(
+    "<%= escape_javascript(render partial: 'bookmarks/select', locals: {bookmark: @new_bookmark, recruitment_id: @new_bookmark.recruitment.id }) %>"
+);

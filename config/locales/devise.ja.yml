@@ -66,6 +66,7 @@ ja:
   activerecord:
     models:
       account: "アカウント"
+      comment: "返信"
     attributes:
       account:
         acc_id: "アカウントID"
@@ -79,3 +80,8 @@ ja:
         password: "パスワード"
         password_confirmation: "パスワード確認"
         current_password: "現在のパスワード"
+      comment:
+        message: "内容"
+      recruitment:
+        detail: "本文"
+        title: "タイトル"

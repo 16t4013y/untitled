@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+<%= link_to '編集', edit_picture_path(@picture) %> |
+<%= link_to '戻る', pictures_path %>
+<p>
+  <strong>説明:</strong>
+  <%= @picture.name %>
+</p>
+
+<!-- 追加箇所 開始-->
+<p>
+  <strong>File:</strong>
+  <!--- Modelのstyleで指定した :midium など渡すことでサイズを指定できる -->
+  <%= link_to 'ファイルを表示する', @picture.photo.url%>
+</p>
+<!-- 追加箇所 終了-->

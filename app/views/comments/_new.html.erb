@@ -1,0 +1,29 @@
+<div id="comment_form">
+  <%= form_with(model: comment) do |form| %>
+    <% if comment.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= comment.errors.count %> 個のエラーがあります</h2>
+
+        <ul>
+          <% comment.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <table class="form" align="left">
+      <tr>
+        <td>
+          <%= form.text_area :message , placeholder: '返信を入力', rows:'3',cols:'80',maxlength:'1000'%>
+          <%= form.hidden_field :recruitment_id, value: comment.recruitment_id %>
+        </td>
+        <td>
+          <div class="actions">
+            <%= form.submit '送信' %>
+          </div>
+        </td>
+      </tr>
+    </table>
+  <% end %>
+</div>

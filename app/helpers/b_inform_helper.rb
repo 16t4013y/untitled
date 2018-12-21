@@ -1,0 +1,2 @@
+module BInformHelper
+end

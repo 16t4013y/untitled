@@ -1,13 +1,95 @@
-<%= render 'devise/shared/accounts_accessor' %>
 
-<h2> アカウント詳細 </h2>
+<h2> アカウント情報 </h2>
 
-<% if account_signed_in? %>
-  アカウントID：<%= current_account.acc_id %><br />
-  アカウント名：<%= current_account.name %><br />
-  大学名：<%= current_account.university %><br />
-  学部名：<%= current_account.faculty %><br />
-  学科名：<%= current_account.department %><br />
-  学年：<%= current_account.grade %><br />
-  紹介文：<%= current_account.introduction %><br />
+<table width="100%" border="3" rules="none">
+  <tr>
+    <td>
+      アカウントID
+    </td>
+    <td>
+      <%= @account.acc_id %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      アカウント名
+    </td>
+    <td>
+      <%= @account.name %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      大学名
+    </td>
+    <td>
+      <%= @account.university %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      学部名
+    </td>
+    <td>
+      <%= @account.faculty %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      学科名
+    </td>
+    <td>
+      <%= @account.department %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      学年
+    </td>
+    <td>
+      <%= @account.grade %>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      紹介文
+    </td>
+    <td>
+      <%= simple_format(@account.introduction) %>
+    </td>
+  </tr>
+  <% if account_signed_in? %>
+    <% if current_account.id == @account.id or current_account.acc_id == 'administrator' %>
+      <tr>
+        <td>
+          <%= button_to "アカウント情報更新", edit_account_registration_path %>
+        </td>
+        <td>
+          <%= button_to "アカウント削除", account_delete_path(current_account.acc_id) %>
+        </td>
+      </tr>
+    <% end %>
+  <% end %>
+
+</table>
+
+
+
+<br>
+  <div>
+    <%= render 'button', acc_id: @account.acc_id %>
+  </div>
+<br>
+<br>
+<% if @home_button == '1' %>
+    <div id="button_v2">
+      <%= render 'home/button_v', view_num: @view_num, acc_id: @account.acc_id %>
+    </div>
+  <div class="box3" id="button_v3">
+    <%= render 'mains/view_t', recruitments: @recruitments %>  <!--個人の発言-->
+  </div>
+<% elsif @home_button == '2' %>
+  <%= render 'mains/view_t',recruitment: @recruitments %> <!--ブックマーク-->
+<% elsif @home_button == '3' %>
+  <%= render 'view_c',entry_chats: @entry_chats %> <!--チャット一覧-->
 <% end %>

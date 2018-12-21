@@ -1,0 +1,35 @@
+<%= stylesheet_link_tag "box.css", :media => "all" %>
+<div id="chat_form">
+<%= form_with(model: chat_comment, url: chat_comments_create_path(chat_comment.recruitment.id),action: :create) do |form| %>
+  <% if chat_comment.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= chat_comment.errors.count %>個のエラーがあります:</h2>
+
+      <ul>
+      <% chat_comment.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :チャット入力 %>
+    <%= form.text_field :comment %>
+  </div>
+<!--
+  <div class="field">
+    <%= form.label :添付 %>
+    <%= form.number_field :file_id %>
+  </div>
+-->
+  <div class="actions">
+    <div class="button1">
+      <div class="on">
+    <%= form.submit"送信📤" %>
+      </div>
+    </div>
+  </div>
+<% end %>
+
+</div>

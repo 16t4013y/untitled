@@ -1,0 +1,27 @@
+<table width="100%" class="box_comment">
+  <tr>
+    <td class="box_comment2">
+      <%= link_to account_show_path(comment.account.acc_id) do %>
+        <%= comment.account.name %>
+      <% end %>
+    </td>
+    <td class="box_comment2">
+      <%= comment.account.acc_id %>
+    </td>
+    <td><%= comment.created_at %></td>
+  </tr>
+  <tr >
+    <td colspan="3" class="box_comment3">
+      <%= simple_format(comment.message) %>
+    </td>
+  </tr>
+  <% if account_signed_in? %>
+    <% if comment.account.id == current_account.id or current_account.acc_id == 'administrator' %>
+      <tr>
+        <td colspan="3">
+          <%= button_to '削除', comment, method: :delete, data: { confirm: '返信を本当に削除しますか?' } %>
+        </td>
+      </tr>
+    <% end %>
+  <% end %>
+</table>

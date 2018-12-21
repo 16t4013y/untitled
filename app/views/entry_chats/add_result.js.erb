@@ -1,0 +1,8 @@
+$('#add_comments').append(
+    "<%= escape_javascript(render partial: 'entry_chats/comment', collection: @comments, locals: {entry_chat: @entry_chat}) %>"
+);
+$('#request_add_comments').html(
+    "<%=escape_javascript(render partial: 'entry_chats/read_button',
+    locals: {recruitment_id: params[:recruitment_id], last_comment:@comments.last, offset_time: params[:offset_time]})%>"
+);
+$('[type="submit"].all_disable').prop('disabled',false);//ボタンを有効化する

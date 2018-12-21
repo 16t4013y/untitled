@@ -1,0 +1,33 @@
+<%= stylesheet_link_tag "box.css", :media => "all" %>
+<div class ="box1">
+<div class="button1">
+  <% if view_num == '1' %>
+    <%= button_to 'タイムライン', home_button_view_path(acc_id, 1), method: :get, disabled: :disabled ,remote: true%>
+  <% else %>
+    <span class="on">
+      <%= button_to 'タイムライン', home_button_view_path(acc_id, 1), method: :get, remote: true %>
+    </span>
+  <% end %>
+  <% if view_num == '2' %>
+    <%= button_to '発言', home_button_view_path(acc_id, 2), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '発言', home_button_view_path(acc_id, 2), method: :get, remote: true %>
+    </span>
+  <% end %>
+  <% if view_num == '3' %>
+    <%= button_to '募集', home_button_view_path(acc_id, 3), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '募集', home_button_view_path(acc_id, 3), method: :get, remote: true %>
+    </span>
+  <% end %>
+  <% if view_num == '4' %>
+    <%= button_to '募集解決済み', home_button_view_path(acc_id, 4), method: :get, disabled: :disabled ,remote: true %>
+  <% else %>
+    <span class="on">
+      <%= button_to '募集解決済み', home_button_view_path(acc_id, 4), method: :get, remote: true %>
+    </span>
+  <% end %>
+</div>
+</div>

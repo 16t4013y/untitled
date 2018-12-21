@@ -1,0 +1,34 @@
+
+<div>
+  <table width="100%" class="box_comment">
+    <tr>
+      <td class="box_comment2">
+        <%= link_to account_show_path(comment.account.acc_id) do %>
+          <%= comment.account.name %>
+        <% end %>
+      </td>
+      <td class="box_comment2">
+        <%= comment.account.acc_id %>
+      </td>
+      <td><%= comment.created_at %></td>
+    </tr>
+    <tr >
+      <td colspan="3" class="box_comment3">
+        <%= simple_format(comment.message) %>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <div class=<%= "comment_" + comment.account.id.to_s%>>
+          <% if comment.account.id == current_account.id %>
+            <%= button_to '募集者', root_path, disabled: :true %>
+          <% elsif (find = EntryChat.find_by(chat_id: comment.recruitment.id, acc_id: comment.account.acc_id)).nil? %>
+            <%= render partial: "select", locals: {entry_chat: entry_chat, recruitment_id: comment.recruitment.id, result_account_id: comment.account.id } %>
+          <% else %>
+            <%= render partial: "selected", locals: {entry_chat: find } %>
+          <% end %>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

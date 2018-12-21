@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Untitled</title>
+
+    <title>学生向けコミュニティシステム</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -10,10 +12,29 @@
   </head>
 
   <body>
-    <p class="notice"><%= notice %></p>
-    <p class="alert"><%= alert %></p>
+    <%= stylesheet_link_tag "common_layout.css", :media => "all" %>
+    <header><!------ヘッダー------>
+      <p class="header_title"><%= link_to "学生向けコミュニティシステム", root_path %></p>
+      <nav>
+        <ul class="header_menu">
+          <li><%= render 'devise/shared/accounts_accessor' %></li>
+        </ul>
+      </nav>
+    </header><!--ヘッダーここまで-->
 
-    <%= link_to "メイン画面", root_path %>
-    <%= yield %>
+    <div class="container">
+      <% if notice.present? %>
+        <div id="notice_panel"><p class="notice"><%= notice %></p></div>
+      <%end %>
+      <% if alert.present? %>
+        <div id="alert_panel"><p class="alert"><%= alert %></p></div>
+      <%end %>
+      <span class="common_style">
+        <%= yield %>
+      </span>
+    </div>
+
+    <footer><!-------フッダー-- ---->
+    </footer><!---フッダーここまで--->
   </body>
 </html>

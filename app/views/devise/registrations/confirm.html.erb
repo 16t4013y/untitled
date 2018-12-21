@@ -1,0 +1,84 @@
+
+<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+
+  <!--  ↓追加分↓-->
+
+  <h2>登録確認</h2>
+
+  <div class="field">
+    <table border="2">
+      <tr>
+        <td>
+          <%= f.label :acc_id, "アカウントID" %>
+        </td>
+        <td>
+          <%= @account.acc_id %>
+          <%= f.hidden_field :acc_id , value: @account.acc_id%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :name, "アカウント名" %>
+        </td>
+        <td>
+          <%= @account.name %>
+          <%= f.hidden_field :name , value: @account.name%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :university, "大学名" %>
+        </td>
+        <td>
+          <%= @account.university %>
+          <%= f.hidden_field :university , value: @account.university%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :faculty, "学部名"%>
+        </td>
+        <td>
+          <%= @account.faculty %>
+          <%= f.hidden_field :faculty , value: @account.faculty%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :department, "学科名" %>
+        </td>
+        <td>
+          <%= @account.department %>
+          <%= f.hidden_field :department , value: @account.department%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :grade, "学年" %>
+        </td>
+        <td>
+          <%= @account.grade %>
+          <%= f.hidden_field :grade , value: @account.grade%>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :email , "メールアドレス"%>
+        </td>
+        <td>
+          <%= @account.email %>
+          <%= f.hidden_field :email , value: @account.email%>
+          <%= f.hidden_field :password , value: @account.password%>
+          <%= f.hidden_field :password_confirmation , value: @account.password_confirmation%>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="actions">
+    <%= f.submit "登録" %>
+  </div>
+
+<% end %>
+<%= button_to "戻る", new_account_registration_path %>
+<%= render "devise/shared/links" %>

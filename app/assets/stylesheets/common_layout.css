@@ -1,0 +1,515 @@
+
+
+
+/*inputのスタイル===============================================-*/
+.common_style input {
+    margin-bottom : 4px;
+    margin-left: 0px;
+    background-color: #FFF;
+    border: 1.5px solid #333;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: #333;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    height: 28px;
+}
+.common_style input:hover {
+    outline: 0;
+    border-color: orange;
+}
+.common_style input:focus {
+    outline: 0;
+    border-color: orange;
+}
+
+.common_style input[disabled=disabled] {
+    opacity: 0.5;
+}
+.common_style input[disabled=disabled]:hover {
+    opacity: 0.5;
+    outline: 0;
+    background-color: #FFF;
+    border: 1.5px solid #333;
+    color: #333;
+}
+
+.common_style input[disabled] {
+    opacity: 0.5;
+}
+.common_style input[disabled]:hover {
+    opacity: 0.5;
+    outline: 0;
+    background-color: #FFF;
+    border: 1.5px solid #333;
+    color: #333;
+}
+
+.common_style input[type=submit] {
+    width: 150px;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+}
+
+.common_style input[type=submit].read_button {
+    width: 100%;
+}
+
+.common_style input[type=submit]:focus {
+    color: orange;
+}
+.common_style input[type=submit]:hover {
+    color: orange;
+}
+.common_style input[type=button]:focus {
+    color: orange;
+}
+.common_style input[type=button]:hover {
+    color: orange;
+}
+.common_style input[type=submit][disabled=disabled]:hover {
+    color: #333;
+}
+
+.common_style input[type=text]{
+    width: 160px;
+}
+.common_style input[type=text]:hover {
+    background-color: #FFFFEE;
+}
+.common_style input[type=text]:focus {
+    background-color: #FFFFCC;
+}
+
+.common_style input[type=password]{
+    width: 160px;
+}
+.common_style input[type=password]:hover {
+    background-color: #FFFFEE;
+}
+.common_style input[type=password]:focus {
+    background-color: #FFFFCC;
+}
+
+.common_style input[type=email]{
+    width: 160px;
+}
+.common_style input[type=email]:hover {
+    background-color: #FFFFEE;
+}
+.common_style input[type=email]:focus {
+    background-color: #FFFFCC;
+}
+
+/*textareaのスタイル=======================================*/
+/*スクロールバー全体*/
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+/*スクロールバーの軌道*/
+::-webkit-scrollbar-track {
+    border-radius: 7px;
+    box-shadow: inset 0 0 6px rgba(255, 255, 255, .5);
+}
+
+/*スクロールバーの動く部分*/
+::-webkit-scrollbar-thumb {
+    background-color: rgba(100, 100, 100, .3);
+    border-radius: 7px;
+    box-shadow:0 0 0 1px rgba(255, 255, 255, .0);
+}
+
+/*スクロールバーの動く部分*/
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(100, 100, 100);
+    border-radius: 7px;
+    box-shadow:0 0 0 1px rgba(255, 255, 255, .3);
+}
+
+.common_style textarea {
+    resize: none;
+    background-color: #FFF;
+    border: 1.5px solid #333;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: #333;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.common_style textarea:hover {
+    outline: 0;
+    border-color: orange;
+    background-color: #FFFFEE;
+    overflow-y: scroll;
+}
+.common_style textarea:focus {
+    outline: 0;
+    border-color: orange;
+    background-color: #FFFFCC;
+}
+
+/*selectのスタイル=====================================*/
+.common_style select {
+    background-color: #FFF;
+    border: 1.5px solid #333;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    color: #333;
+    font-size: 13px;
+    padding: 2px;
+    height: 28px;
+    width: 160px;
+}
+.common_style select:focus {
+    outline: 0;
+    border-color: orange;
+    /*opacity: 0.5;*/
+}
+.common_style select:hover {
+    border-color: orange;
+    /*opacity: 0.5;/**/
+}
+/*bodyとコンテンツ表示場所のスタイル============================================*/
+html {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
+    background-color: #FFFFCC; /*ヘッダーの背景色*/
+}
+.container {
+    margin: auto;
+
+    max-width: 800px;
+    min-width: 800px;
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 40px;
+    min-height: 80%;
+}
+/*headerのスタイル============================================*/
+header {
+    height: 50px; /*ヘッダーの高さ*/
+    width: 100%; /*ヘッダーの横幅*/
+    background-color: orange; /*ヘッダーの背景色*/
+    color: white; /*ヘッダーの文字の色*/
+    min-width:900px;
+}
+
+header p {
+    line-height: 25px; /*行の高さ*/
+    float: left; /*左に流す*/
+    margin-left: 5%; /*左にマージンを取っている*/
+}
+
+header nav {
+    float: right; /*左に流す*/
+    margin-right: 20px; /*左にマージンを取っている*/
+    margin-top: 0px;
+}
+
+header li {
+    line-height: 30px; /*行の高さ*/
+    float: left; /*左に流す*/
+    margin-left: 30px; /*li間の幅を開くために左にマージンを取っている*/
+    list-style: none; /*デフォルトでついているliの黒点をnoneにしている*/
+}
+
+.header_title a{
+    font-size: 30px; /*文字の大きさ*/
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.header_title a:link    { color: white; } /*未訪問のリンク*/
+.header_title a:visited { color: white; } /*訪問済みのリンク*/
+.header_title a:hover   { color: white; } /*ポイント時のリンク*/
+.header_title a:active  { color: white; } /*選択中のリンク*/
+.header_title a:hover {background-color : rgba(255,225,0,0.5); /*背景色*/}
+
+.header_menu a{
+    font-size: 17px; /*文字の大きさ*/
+    color: white;
+    text-decoration: none;
+}
+.header_menu a:link    { color: white; } /*未訪問のリンク*/
+.header_menu a:visited { color: white; } /*訪問済みのリンク*/
+.header_menu a:hover   { color: white; } /*ポイント時のリンク*/
+.header_menu a:active  { color: white; } /*選択中のリンク*/
+.header_menu a:hover {background-color : rgba(255,225,0,0.5); /*背景色*/}
+/*footerのスタイル============================================*/
+footer {
+    height: 40px; /*フッターの高さ*/
+    width: 100%; /*フッターの横幅*/
+    background-color: orange; /*フッターの背景色*/
+    color: white; /*フッターの文字の色*/
+    min-width:900px;
+
+}
+
+footer p {
+    line-height: 10px; /*行の高さ*/
+    float: left; /*左に流す*/
+    font-size: 25px; /*文字の大きさ*/
+    margin-left: 100px; /*左にマージンを取っている*/
+}
+
+footer nav {
+    float: left; /*左に流す*/
+    margin-left: 50%; /*左にマージンを取っている*/
+}
+
+footer li {
+    line-height: 100px; /*行の高さ*/
+    float: left; /*左に流す*/
+    margin-left: 30px; /*li間の幅を開くために左にマージンを取っている*/
+    list-style: none; /*デフォルトでついているliの黒点をnoneにしている*/
+}
+/*=====================================================================*/
+.form_layout {
+    display: table;
+    width: 100%;
+    padding-left: 0px;
+    margin: 0px;
+    padding-top: 7px;
+    background-color: #c6e4ff;
+}
+.form_layout_item-button {
+    display: table-cell;
+    text-align: left;
+    vertical-align: center;
+    padding: 0px;
+    width: 43px;
+}
+
+.form_layout_item-form {
+    display: table-cell;
+    text-align: left;
+    vertical-align: bottom;
+}
+.form_layout_item-textarea {
+    display: table-cell;
+    padding: 0px;
+    /*text-align: left;
+    vertical-align: bottom;*/
+}
+.form_layout_item-submit{
+    display: table-cell;
+    /*text-align: left;
+    width: 50px;*/
+    padding: 0px;
+    padding-bottom:20px;
+    vertical-align: bottom;
+}
+/*======通知パネル==============================================================================*/
+
+#notice_panel {
+    position: absolute;
+    z-index: 101;
+    top: 0px;
+    left: 0;
+    right: 0;
+    background: lightgreen;
+    text-align: center;
+    line-height: 2.5;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow:    0 0 5px black;
+    box-shadow:         0 0 5px black;
+    font-weight: bold;
+}
+@-webkit-keyframes slideDown {
+    0%, 100% { -webkit-transform: translateY(-50px); }
+    10%, 90% { -webkit-transform: translateY(0px); }
+}
+@-moz-keyframes slideDown {
+    0%, 100% { -moz-transform: translateY(-50px); }
+    10%, 90% { -moz-transform: translateY(0px); }
+}
+
+#notice_panel {
+    -webkit-transform: translateY(-50px);
+    -webkit-animation: slideDown 3.5s 1.0s 1 ease forwards;
+    -moz-transform:    translateY(-50px);
+    -moz-animation:    slideDown 3.5s 1.0s 1 ease forwards;
+}
+
+
+#alert_panel {
+    position: absolute;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: orangered;
+    text-align: center;
+    line-height: 2.5;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow:    0 0 5px black;
+    box-shadow:         0 0 5px black;
+    color:white;
+    font-weight: bold;
+}
+
+#alert_panel {
+    -webkit-transform: translateY(-50px);
+    -webkit-animation: slideDown 3.5s 1.0s 1 ease forwards;
+    -moz-transform:    translateY(-50px);
+    -moz-animation:    slideDown 3.5s 1.0s 1 ease forwards;
+}
+/*======================================================================================*/
+.form_tab *, .form_tab *:before, .form_tab *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form_tab {
+    margin: 1em auto;
+    position: relative;
+}
+.form_tab input[type='radio'] {
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    background: none;
+    -webkit-appearance: none;
+    appearance: none;
+    display: none;
+}
+.form_tab .form_tabpanel {
+    display: none;
+}
+.form_tab > input:first-child:checked ~ .form_tabpanels > .form_tabpanel:first-child,
+.form_tab > input:nth-child(3):checked ~ .form_tabpanels > .form_tabpanel:nth-child(2),
+.form_tab > input:nth-child(5):checked ~ .form_tabpanels > .form_tabpanel:nth-child(3),
+.form_tab > input:nth-child(7):checked ~ .form_tabpanels > .form_tabpanel:nth-child(4),
+.form_tab > input:nth-child(9):checked ~ .form_tabpanels > .form_tabpanel:nth-child(5),
+.form_tab > input:nth-child(11):checked ~ .form_tabpanels > .form_tabpanel:nth-child(6) {
+    display: block;
+}
+.form_tab .form_tabpanels {
+    position: absolute;
+    top:-10px;
+    left: 3em;
+    display: block;
+    height: 20px;
+}
+.form_tab > input + label {
+    position: relative;
+    z-index: 100;
+    top: -10px;
+    left: 0px;
+    display: block;
+    width: 3em;
+    margin-bottom: 0px;
+    padding: 7px;
+    padding-left: 10px;
+    cursor: pointer;
+    /*
+    border: 2px solid lightgrey;
+    border-right: 2px solid black;
+    */
+    border-radius: 6px 0 0 6px;
+    background-color: #b2cde5;
+}
+.form_tab > input + label:last-of-type {
+    margin-bottom: 0px;
+
+}
+.form_tab > label:hover,
+.form_tab > input:focus + label {
+    color: orange;
+    /*border-color: orange;*/
+}
+.form_tab > input:checked + label {
+    /*border-color: black;
+    /*border-right: 2px solid #ffffff;/*背景色と同じ*/
+    background-color: #c6e4ff;
+}
+.form_tab > input:checked:hover + label {
+    /*border-color: orange;
+    border-right: 2px solid #ffffff;/*背景色と同じ*/
+}
+
+
+.form_tab .form_tabpanel {
+    padding: 0.2em 1em;
+    /*border-left: 2px solid black;*/
+    min-height: 0px;
+}
+
+@media (max-width: 480px) {
+    .form_tab {
+        width: 100%;
+    }
+    .form_tab > input + label {
+        font-size: 0.7em;
+    }
+    .form_tab .form_tabpanels {
+        left: 7em;
+        min-width: 7em;
+    }
+}
+
+.form_tabpanel {
+    /*border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;*/
+    height: 105px;
+    width: 760px;
+    background-color: #c6e4ff;
+    border-radius: 0 6px 6px 6px;
+}
+
+/*==============================================================================*/
+#talk_input_form{
+    width: 100%;
+    height: 85px;
+    border-radius: 6px 0 0 6px;
+}
+
+#talk_input_form_submit{
+    width:55px;
+    height:85px;
+    margin:0px;
+    padding:0;
+    border-radius: 0 6px 6px 0;
+}
+
+#recruit_input_title{
+    border-bottom: 3px solid white;
+    margin:0;
+    padding: 5px;
+    width:550px;
+    height:25px;
+    border-radius: 6px 0 0 0;
+    bottom: 5px;
+}
+
+#recruit_input_form{
+    margin: 0px;
+    padding: 3px;
+    width:100%;
+    height:60px;
+    border-radius: 0 0 0 6px;
+    top: 5px;
+    border-top: 1px solid white;
+}

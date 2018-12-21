@@ -1,0 +1,7 @@
+$('#add_comments').append(
+    "<%= escape_javascript(render partial: :comment, collection: @comments) %>"
+);
+$('#request_add_comments').html(
+    "<%=escape_javascript(render partial: 'comments/read_button',
+    locals: {recruitment_id: params[:recruitment_id], last_comment:@comments.last, offset_time: params[:offset_time]})%>"
+);

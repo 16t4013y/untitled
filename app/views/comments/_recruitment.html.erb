@@ -1,0 +1,50 @@
+<div>
+  <table width="100%"  class="box_comment">
+    <tr>
+      <td colspan="3">
+        --返信先--
+      </td>
+    </tr>
+    <tr>
+      <td class="box_comment2">
+        <%= link_to account_show_path(recruitment.account.acc_id) do %>
+          <%= recruitment.account.name %>👤
+        <% end %>
+      </td>
+      <td class="box_comment2">
+        <%= recruitment.account.acc_id %>
+      </td>
+      <td class="box_comment2">
+        <%= recruitment.created_at %>
+      </td>
+    </tr>
+    <% if recruitment.re_id == '募集'%>
+      <tr>
+        <td class="box-title" colspan="2">
+          <%= recruitment.title %>
+        </td>
+        <td class="box_comment2">
+          (チャット<%= recruitment.chat %>)
+        </td>
+      </tr>
+    <% end %>
+    <tr>
+      <td class="box_comment3" colspan="3">
+        <%= simple_format(recruitment.detail) %>
+      </td>
+    </tr>
+
+    <% if recruitment.resolved == '解決' %>
+      <tr>
+        <td colspan="3">
+          <div class="box_comment4">
+            <div class="box-title">
+              回答🔍
+            </div>
+            <%= simple_format(recruitment.answer) %>
+          </div>
+        </td>
+      </tr>
+    <% end %>
+  </table>
+</div>

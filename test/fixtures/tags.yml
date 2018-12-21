@@ -1,0 +1,7770 @@
+京都教育大学:
+  tag_id: 0
+  tag_type: true
+  tag_name: 京都教育大学
+  com_count: 0
+教育学部:
+  tag_id: 1
+  tag_type: true
+  tag_name: 教育学部
+  com_count: 0
+学校教育教員養成課程:
+  tag_id: 2
+  tag_type: true
+  tag_name: 学校教育教員養成課程
+  com_count: 0
+教育学専攻:
+  tag_id: 3
+  tag_type: true
+  tag_name: 教育学専攻
+  com_count: 0
+理科領域専攻:
+  tag_id: 4
+  tag_type: true
+  tag_name: 理科領域専攻
+  com_count: 0
+幼児教育専攻:
+  tag_id: 5
+  tag_type: true
+  tag_name: 幼児教育専攻
+  com_count: 0
+技術領域専攻:
+  tag_id: 6
+  tag_type: true
+  tag_name: 技術領域専攻
+  com_count: 0
+発達障害教育専攻:
+  tag_id: 7
+  tag_type: true
+  tag_name: 発達障害教育専攻
+  com_count: 0
+家庭領域専攻:
+  tag_id: 8
+  tag_type: true
+  tag_name: 家庭領域専攻
+  com_count: 0
+国語領域専攻:
+  tag_id: 9
+  tag_type: true
+  tag_name: 国語領域専攻
+  com_count: 0
+社会領域専攻:
+  tag_id: 10
+  tag_type: true
+  tag_name: 社会領域専攻
+  com_count: 0
+音楽領域専攻:
+  tag_id: 11
+  tag_type: true
+  tag_name: 音楽領域専攻
+  com_count: 0
+英語領域専攻:
+  tag_id: 12
+  tag_type: true
+  tag_name: 英語領域専攻
+  com_count: 0
+体育領域専攻:
+  tag_id: 13
+  tag_type: true
+  tag_name: 体育領域専攻
+  com_count: 0
+数学領域専攻:
+  tag_id: 14
+  tag_type: true
+  tag_name: 数学領域専攻
+  com_count: 0
+美術領域専攻:
+  tag_id: 15
+  tag_type: true
+  tag_name: 美術領域専攻
+  com_count: 0
+島根大学:
+  tag_id: 16
+  tag_type: true
+  tag_name: 島根大学
+  com_count: 0
+医学部:
+  tag_id: 17
+  tag_type: true
+  tag_name: 医学部
+  com_count: 0
+医学科:
+  tag_id: 18
+  tag_type: true
+  tag_name: 医学科
+  com_count: 0
+看護学科:
+  tag_id: 19
+  tag_type: true
+  tag_name: 看護学科
+  com_count: 0
+学校教育課程:
+  tag_id: 20
+  tag_type: true
+  tag_name: 学校教育課程
+  com_count: 0
+初等教育開発専攻:
+  tag_id: 21
+  tag_type: true
+  tag_name: 初等教育開発専攻
+  com_count: 0
+特別支援教育専攻:
+  tag_id: 22
+  tag_type: true
+  tag_name: 特別支援教育専攻
+  com_count: 0
+共生社会教育専攻:
+  tag_id: 23
+  tag_type: true
+  tag_name: 共生社会教育専攻
+  com_count: 0
+数理基礎教育専攻:
+  tag_id: 24
+  tag_type: true
+  tag_name: 数理基礎教育専攻
+  com_count: 0
+音楽教育専攻:
+  tag_id: 25
+  tag_type: true
+  tag_name: 音楽教育専攻
+  com_count: 0
+美術教育専攻:
+  tag_id: 26
+  tag_type: true
+  tag_name: 美術教育専攻
+  com_count: 0
+自然環境教育専攻:
+  tag_id: 27
+  tag_type: true
+  tag_name: 自然環境教育専攻
+  com_count: 0
+健康・スポーツ教育専攻:
+  tag_id: 28
+  tag_type: true
+  tag_name: 健康・スポーツ教育専攻
+  com_count: 0
+言語教育専攻:
+  tag_id: 29
+  tag_type: true
+  tag_name: 言語教育専攻
+  com_count: 0
+生物資源科学部:
+  tag_id: 30
+  tag_type: true
+  tag_name: 生物資源科学部
+  com_count: 0
+生命科学科:
+  tag_id: 31
+  tag_type: true
+  tag_name: 生命科学科
+  com_count: 0
+農林生産学科:
+  tag_id: 32
+  tag_type: true
+  tag_name: 農林生産学科
+  com_count: 0
+環境共生科学科:
+  tag_id: 33
+  tag_type: true
+  tag_name: 環境共生科学科
+  com_count: 0
+総合理工学部:
+  tag_id: 34
+  tag_type: true
+  tag_name: 総合理工学部
+  com_count: 0
+数理科学科:
+  tag_id: 35
+  tag_type: true
+  tag_name: 数理科学科
+  com_count: 0
+地球科学科:
+  tag_id: 36
+  tag_type: true
+  tag_name: 地球科学科
+  com_count: 0
+物質化学科:
+  tag_id: 37
+  tag_type: true
+  tag_name: 物質化学科
+  com_count: 0
+機械・電気電子工学科:
+  tag_id: 38
+  tag_type: true
+  tag_name: 機械・電気電子工学科
+  com_count: 0
+建築デザイン学科:
+  tag_id: 39
+  tag_type: true
+  tag_name: 建築デザイン学科
+  com_count: 0
+物理・マテリアル工学科:
+  tag_id: 40
+  tag_type: true
+  tag_name: 物理・マテリアル工学科
+  com_count: 0
+知能情報デザイン学科:
+  tag_id: 41
+  tag_type: true
+  tag_name: 知能情報デザイン学科
+  com_count: 0
+法文学部:
+  tag_id: 42
+  tag_type: true
+  tag_name: 法文学部
+  com_count: 0
+言語文化学科:
+  tag_id: 43
+  tag_type: true
+  tag_name: 言語文化学科
+  com_count: 0
+社会文化学科:
+  tag_id: 44
+  tag_type: true
+  tag_name: 社会文化学科
+  com_count: 0
+現代社会コース:
+  tag_id: 45
+  tag_type: true
+  tag_name: 現代社会コース
+  com_count: 0
+歴史と考古コース:
+  tag_id: 46
+  tag_type: true
+  tag_name: 歴史と考古コース
+  com_count: 0
+法経学科:
+  tag_id: 47
+  tag_type: true
+  tag_name: 法経学科
+  com_count: 0
+人間科学部:
+  tag_id: 48
+  tag_type: true
+  tag_name: 人間科学部
+  com_count: 0
+人間科学科:
+  tag_id: 49
+  tag_type: true
+  tag_name: 人間科学科
+  com_count: 0
+心理学コース:
+  tag_id: 50
+  tag_type: true
+  tag_name: 心理学コース
+  com_count: 0
+福祉社会コース:
+  tag_id: 51
+  tag_type: true
+  tag_name: 福祉社会コース
+  com_count: 0
+身体活動・健康科学コース:
+  tag_id: 52
+  tag_type: true
+  tag_name: 身体活動・健康科学コース
+  com_count: 0
+東京藝術大学:
+  tag_id: 53
+  tag_type: true
+  tag_name: 東京藝術大学
+  com_count: 0
+音楽学部:
+  tag_id: 54
+  tag_type: true
+  tag_name: 音楽学部
+  com_count: 0
+音楽環境創造科:
+  tag_id: 55
+  tag_type: true
+  tag_name: 音楽環境創造科
+  com_count: 0
+楽理科:
+  tag_id: 56
+  tag_type: true
+  tag_name: 楽理科
+  com_count: 0
+器楽科:
+  tag_id: 57
+  tag_type: true
+  tag_name: 器楽科
+  com_count: 0
+作曲科:
+  tag_id: 58
+  tag_type: true
+  tag_name: 作曲科
+  com_count: 0
+指揮科:
+  tag_id: 59
+  tag_type: true
+  tag_name: 指揮科
+  com_count: 0
+声楽科:
+  tag_id: 60
+  tag_type: true
+  tag_name: 声楽科
+  com_count: 0
+邦楽科:
+  tag_id: 61
+  tag_type: true
+  tag_name: 邦楽科
+  com_count: 0
+美術学部:
+  tag_id: 62
+  tag_type: true
+  tag_name: 美術学部
+  com_count: 0
+デザイン科:
+  tag_id: 63
+  tag_type: true
+  tag_name: デザイン科
+  com_count: 0
+絵画科:
+  tag_id: 64
+  tag_type: true
+  tag_name: 絵画科
+  com_count: 0
+日本画専攻:
+  tag_id: 65
+  tag_type: true
+  tag_name: 日本画専攻
+  com_count: 0
+油画専攻:
+  tag_id: 66
+  tag_type: true
+  tag_name: 油画専攻
+  com_count: 0
+芸術学科:
+  tag_id: 67
+  tag_type: true
+  tag_name: 芸術学科
+  com_count: 0
+建築科:
+  tag_id: 68
+  tag_type: true
+  tag_name: 建築科
+  com_count: 0
+工芸科:
+  tag_id: 69
+  tag_type: true
+  tag_name: 工芸科
+  com_count: 0
+先端芸術表現科:
+  tag_id: 70
+  tag_type: true
+  tag_name: 先端芸術表現科
+  com_count: 0
+彫刻科:
+  tag_id: 71
+  tag_type: true
+  tag_name: 彫刻科
+  com_count: 0
+東京学芸大学:
+  tag_id: 72
+  tag_type: true
+  tag_name: 東京学芸大学
+  com_count: 0
+初等教育教員養成課程:
+  tag_id: 73
+  tag_type: true
+  tag_name: 初等教育教員養成課程
+  com_count: 0
+音楽選修:
+  tag_id: 74
+  tag_type: true
+  tag_name: 音楽選修
+  com_count: 0
+家庭選修:
+  tag_id: 75
+  tag_type: true
+  tag_name: 家庭選修
+  com_count: 0
+学校教育選修:
+  tag_id: 76
+  tag_type: true
+  tag_name: 学校教育選修
+  com_count: 0
+国語選修:
+  tag_id: 77
+  tag_type: true
+  tag_name: 国語選修
+  com_count: 0
+社会選修:
+  tag_id: 78
+  tag_type: true
+  tag_name: 社会選修
+  com_count: 0
+数学選修:
+  tag_id: 79
+  tag_type: true
+  tag_name: 数学選修
+  com_count: 0
+美術選修:
+  tag_id: 80
+  tag_type: true
+  tag_name: 美術選修
+  com_count: 0
+保健体育選修:
+  tag_id: 81
+  tag_type: true
+  tag_name: 保健体育選修
+  com_count: 0
+幼児教育選修:
+  tag_id: 82
+  tag_type: true
+  tag_name: 幼児教育選修
+  com_count: 0
+理科選修:
+  tag_id: 83
+  tag_type: true
+  tag_name: 理科選修
+  com_count: 0
+英語選修:
+  tag_id: 84
+  tag_type: true
+  tag_name: 英語選修
+  com_count: 0
+学校心理選修:
+  tag_id: 85
+  tag_type: true
+  tag_name: 学校心理選修
+  com_count: 0
+国際教育選修:
+  tag_id: 86
+  tag_type: true
+  tag_name: 国際教育選修
+  com_count: 0
+情報教育選修:
+  tag_id: 87
+  tag_type: true
+  tag_name: 情報教育選修
+  com_count: 0
+ものづくり技術選修:
+  tag_id: 88
+  tag_type: true
+  tag_name: ものづくり技術選修
+  com_count: 0
+環境教育選修:
+  tag_id: 89
+  tag_type: true
+  tag_name: 環境教育選修
+  com_count: 0
+特別支援教育教員養成課程:
+  tag_id: 90
+  tag_type: true
+  tag_name: 特別支援教育教員養成課程
+  com_count: 0
+言語障害教育専攻:
+  tag_id: 91
+  tag_type: true
+  tag_name: 言語障害教育専攻
+  com_count: 0
+聴覚障害教育専攻:
+  tag_id: 92
+  tag_type: true
+  tag_name: 聴覚障害教育専攻
+  com_count: 0
+学習障害教育専攻:
+  tag_id: 93
+  tag_type: true
+  tag_name: 学習障害教育専攻
+  com_count: 0
+中等教育教員養成課程:
+  tag_id: 94
+  tag_type: true
+  tag_name: 中等教育教員養成課程
+  com_count: 0
+英語専攻:
+  tag_id: 95
+  tag_type: true
+  tag_name: 英語専攻
+  com_count: 0
+音楽専攻:
+  tag_id: 96
+  tag_type: true
+  tag_name: 音楽専攻
+  com_count: 0
+家庭専攻:
+  tag_id: 97
+  tag_type: true
+  tag_name: 家庭専攻
+  com_count: 0
+技術専攻:
+  tag_id: 98
+  tag_type: true
+  tag_name: 技術専攻
+  com_count: 0
+国語専攻:
+  tag_id: 99
+  tag_type: true
+  tag_name: 国語専攻
+  com_count: 0
+社会専攻:
+  tag_id: 100
+  tag_type: true
+  tag_name: 社会専攻
+  com_count: 0
+書道専攻:
+  tag_id: 101
+  tag_type: true
+  tag_name: 書道専攻
+  com_count: 0
+数学専攻:
+  tag_id: 102
+  tag_type: true
+  tag_name: 数学専攻
+  com_count: 0
+美術専攻:
+  tag_id: 103
+  tag_type: true
+  tag_name: 美術専攻
+  com_count: 0
+保健体育専攻:
+  tag_id: 104
+  tag_type: true
+  tag_name: 保健体育専攻
+  com_count: 0
+理科専攻:
+  tag_id: 105
+  tag_type: true
+  tag_name: 理科専攻
+  com_count: 0
+養護教育教員養成課程:
+  tag_id: 106
+  tag_type: true
+  tag_name: 養護教育教員養成課程
+  com_count: 0
+養護教育専攻:
+  tag_id: 107
+  tag_type: true
+  tag_name: 養護教育専攻
+  com_count: 0
+教育支援課程:
+  tag_id: 108
+  tag_type: true
+  tag_name: 教育支援課程
+  com_count: 0
+教育支援専攻:
+  tag_id: 109
+  tag_type: true
+  tag_name: 教育支援専攻
+  com_count: 0
+埼玉大学:
+  tag_id: 110
+  tag_type: true
+  tag_name: 埼玉大学
+  com_count: 0
+乳幼児教育コース:
+  tag_id: 111
+  tag_type: true
+  tag_name: 乳幼児教育コース
+  com_count: 0
+特別支援教育コース:
+  tag_id: 112
+  tag_type: true
+  tag_name: 特別支援教育コース
+  com_count: 0
+小学校コース:
+  tag_id: 113
+  tag_type: true
+  tag_name: 小学校コース
+  com_count: 0
+中学校コース:
+  tag_id: 114
+  tag_type: true
+  tag_name: 中学校コース
+  com_count: 0
+養護教諭養成課程:
+  tag_id: 115
+  tag_type: true
+  tag_name: 養護教諭養成課程
+  com_count: 0
+教養学部:
+  tag_id: 116
+  tag_type: true
+  tag_name: 教養学部
+  com_count: 0
+教養学科:
+  tag_id: 117
+  tag_type: true
+  tag_name: 教養学科
+  com_count: 0
+経済学部:
+  tag_id: 118
+  tag_type: true
+  tag_name: 経済学部
+  com_count: 0
+経済学科:
+  tag_id: 119
+  tag_type: true
+  tag_name: 経済学科
+  com_count: 0
+昼間コース:
+  tag_id: 120
+  tag_type: true
+  tag_name: 昼間コース
+  com_count: 0
+夜間主コース:
+  tag_id: 121
+  tag_type: true
+  tag_name: 夜間主コース
+  com_count: 0
+工学部:
+  tag_id: 122
+  tag_type: true
+  tag_name: 工学部
+  com_count: 0
+応用化学科:
+  tag_id: 123
+  tag_type: true
+  tag_name: 応用化学科
+  com_count: 0
+機械工学・システムデザイン学科:
+  tag_id: 124
+  tag_type: true
+  tag_name: 機械工学・システムデザイン学科
+  com_count: 0
+情報工学科:
+  tag_id: 125
+  tag_type: true
+  tag_name: 情報工学科
+  com_count: 0
+電気電子物理工学科:
+  tag_id: 126
+  tag_type: true
+  tag_name: 電気電子物理工学科
+  com_count: 0
+環境社会デザイン学科:
+  tag_id: 127
+  tag_type: true
+  tag_name: 環境社会デザイン学科
+  com_count: 0
+理学部:
+  tag_id: 128
+  tag_type: true
+  tag_name: 理学部
+  com_count: 0
+基礎化学科:
+  tag_id: 129
+  tag_type: true
+  tag_name: 基礎化学科
+  com_count: 0
+数学科:
+  tag_id: 130
+  tag_type: true
+  tag_name: 数学科
+  com_count: 0
+生体制御学科:
+  tag_id: 131
+  tag_type: true
+  tag_name: 生体制御学科
+  com_count: 0
+物理学科:
+  tag_id: 132
+  tag_type: true
+  tag_name: 物理学科
+  com_count: 0
+分子生物学科:
+  tag_id: 133
+  tag_type: true
+  tag_name: 分子生物学科
+  com_count: 0
+鳴門教育大学:
+  tag_id: 134
+  tag_type: true
+  tag_name: 鳴門教育大学
+  com_count: 0
+学校教育学部:
+  tag_id: 135
+  tag_type: true
+  tag_name: 学校教育学部
+  com_count: 0
+小学校教育専修学校教育実践コース:
+  tag_id: 136
+  tag_type: true
+  tag_name: 小学校教育専修学校教育実践コース
+  com_count: 0
+小学校教育専修国語科教育コース:
+  tag_id: 137
+  tag_type: true
+  tag_name: 小学校教育専修国語科教育コース
+  com_count: 0
+小学校教育専修英語科教育コース:
+  tag_id: 138
+  tag_type: true
+  tag_name: 小学校教育専修英語科教育コース
+  com_count: 0
+小学校教育専修社会科教育コース:
+  tag_id: 139
+  tag_type: true
+  tag_name: 小学校教育専修社会科教育コース
+  com_count: 0
+小学校教育専修算数科教育コース:
+  tag_id: 140
+  tag_type: true
+  tag_name: 小学校教育専修算数科教育コース
+  com_count: 0
+小学校教育専修理科教育コース:
+  tag_id: 141
+  tag_type: true
+  tag_name: 小学校教育専修理科教育コース
+  com_count: 0
+小学校教育専修音楽科教育コース:
+  tag_id: 142
+  tag_type: true
+  tag_name: 小学校教育専修音楽科教育コース
+  com_count: 0
+小学校教育専修図画工作科教育コース:
+  tag_id: 143
+  tag_type: true
+  tag_name: 小学校教育専修図画工作科教育コース
+  com_count: 0
+小学校教育専修体育科教育コース:
+  tag_id: 144
+  tag_type: true
+  tag_name: 小学校教育専修体育科教育コース
+  com_count: 0
+小学校教育専修技術科教育コース:
+  tag_id: 145
+  tag_type: true
+  tag_name: 小学校教育専修技術科教育コース
+  com_count: 0
+小学校教育専修家庭科教育コース:
+  tag_id: 146
+  tag_type: true
+  tag_name: 小学校教育専修家庭科教育コース
+  com_count: 0
+中学校教育専修国語科教育コース:
+  tag_id: 147
+  tag_type: true
+  tag_name: 中学校教育専修国語科教育コース
+  com_count: 0
+中学校教育専修英語科教育コース:
+  tag_id: 148
+  tag_type: true
+  tag_name: 中学校教育専修英語科教育コース
+  com_count: 0
+中学校教育専修社会科教育コース:
+  tag_id: 149
+  tag_type: true
+  tag_name: 中学校教育専修社会科教育コース
+  com_count: 0
+中学校教育専修数学科教育コース:
+  tag_id: 150
+  tag_type: true
+  tag_name: 中学校教育専修数学科教育コース
+  com_count: 0
+中学校教育専修理科教育コース:
+  tag_id: 151
+  tag_type: true
+  tag_name: 中学校教育専修理科教育コース
+  com_count: 0
+中学校教育専修音楽科教育コース:
+  tag_id: 152
+  tag_type: true
+  tag_name: 中学校教育専修音楽科教育コース
+  com_count: 0
+中学校教育専修美術科教育コース:
+  tag_id: 153
+  tag_type: true
+  tag_name: 中学校教育専修美術科教育コース
+  com_count: 0
+中学校教育専修保健体育科教育コース:
+  tag_id: 154
+  tag_type: true
+  tag_name: 中学校教育専修保健体育科教育コース
+  com_count: 0
+中学校教育専修技術科教育コース:
+  tag_id: 155
+  tag_type: true
+  tag_name: 中学校教育専修技術科教育コース
+  com_count: 0
+中学校教育専修家庭科教育コース:
+  tag_id: 156
+  tag_type: true
+  tag_name: 中学校教育専修家庭科教育コース
+  com_count: 0
+特別支援教育専修:
+  tag_id: 157
+  tag_type: true
+  tag_name: 特別支援教育専修
+  com_count: 0
+幼児教育専修:
+  tag_id: 158
+  tag_type: true
+  tag_name: 幼児教育専修
+  com_count: 0
+香川大学:
+  tag_id: 159
+  tag_type: true
+  tag_name: 香川大学
+  com_count: 0
+臨床心理学科:
+  tag_id: 160
+  tag_type: true
+  tag_name: 臨床心理学科
+  com_count: 0
+農学部:
+  tag_id: 161
+  tag_type: true
+  tag_name: 農学部
+  com_count: 0
+応用生物科学科:
+  tag_id: 162
+  tag_type: true
+  tag_name: 応用生物科学科
+  com_count: 0
+法学部:
+  tag_id: 163
+  tag_type: true
+  tag_name: 法学部
+  com_count: 0
+法学科:
+  tag_id: 164
+  tag_type: true
+  tag_name: 法学科
+  com_count: 0
+創造工学部:
+  tag_id: 165
+  tag_type: true
+  tag_name: 創造工学部
+  com_count: 0
+創造工学科:
+  tag_id: 166
+  tag_type: true
+  tag_name: 創造工学科
+  com_count: 0
+北海道大学:
+  tag_id: 167
+  tag_type: true
+  tag_name: 北海道大学
+  com_count: 0
+文学部:
+  tag_id: 168
+  tag_type: true
+  tag_name: 文学部
+  com_count: 0
+人文科学科:
+  tag_id: 169
+  tag_type: true
+  tag_name: 人文科学科
+  com_count: 0
+教育学科:
+  tag_id: 170
+  tag_type: true
+  tag_name: 教育学科
+  com_count: 0
+法学課程:
+  tag_id: 171
+  tag_type: true
+  tag_name: 法学課程
+  com_count: 0
+経営学科:
+  tag_id: 172
+  tag_type: true
+  tag_name: 経営学科
+  com_count: 0
+化学科:
+  tag_id: 173
+  tag_type: true
+  tag_name: 化学科
+  com_count: 0
+生物科学科:
+  tag_id: 174
+  tag_type: true
+  tag_name: 生物科学科
+  com_count: 0
+生物学専修分野:
+  tag_id: 175
+  tag_type: true
+  tag_name: 生物学専修分野
+  com_count: 0
+高分子機能学専修分野:
+  tag_id: 176
+  tag_type: true
+  tag_name: 高分子機能学専修分野
+  com_count: 0
+地球惑星科学科:
+  tag_id: 177
+  tag_type: true
+  tag_name: 地球惑星科学科
+  com_count: 0
+保健学科:
+  tag_id: 178
+  tag_type: true
+  tag_name: 保健学科
+  com_count: 0
+看護学専攻:
+  tag_id: 179
+  tag_type: true
+  tag_name: 看護学専攻
+  com_count: 0
+放射線技術科学専攻:
+  tag_id: 180
+  tag_type: true
+  tag_name: 放射線技術科学専攻
+  com_count: 0
+検査技術科学専攻:
+  tag_id: 181
+  tag_type: true
+  tag_name: 検査技術科学専攻
+  com_count: 0
+理学療法学専攻:
+  tag_id: 182
+  tag_type: true
+  tag_name: 理学療法学専攻
+  com_count: 0
+作業療法学専攻:
+  tag_id: 183
+  tag_type: true
+  tag_name: 作業療法学専攻
+  com_count: 0
+歯学部:
+  tag_id: 184
+  tag_type: true
+  tag_name: 歯学部
+  com_count: 0
+歯学科:
+  tag_id: 185
+  tag_type: true
+  tag_name: 歯学科
+  com_count: 0
+薬学部:
+  tag_id: 186
+  tag_type: true
+  tag_name: 薬学部
+  com_count: 0
+薬科学科＜４年制＞:
+  tag_id: 187
+  tag_type: true
+  tag_name: 薬科学科＜４年制＞
+  com_count: 0
+薬学科＜６年制＞:
+  tag_id: 188
+  tag_type: true
+  tag_name: 薬学科＜６年制＞
+  com_count: 0
+応用理工系学科:
+  tag_id: 189
+  tag_type: true
+  tag_name: 応用理工系学科
+  com_count: 0
+情報エレクトロニクス学科:
+  tag_id: 190
+  tag_type: true
+  tag_name: 情報エレクトロニクス学科
+  com_count: 0
+機械知能工学科:
+  tag_id: 191
+  tag_type: true
+  tag_name: 機械知能工学科
+  com_count: 0
+環境社会工学科:
+  tag_id: 192
+  tag_type: true
+  tag_name: 環境社会工学科
+  com_count: 0
+応用生命科学科:
+  tag_id: 193
+  tag_type: true
+  tag_name: 応用生命科学科
+  com_count: 0
+生物機能化学科:
+  tag_id: 194
+  tag_type: true
+  tag_name: 生物機能化学科
+  com_count: 0
+森林科学科:
+  tag_id: 195
+  tag_type: true
+  tag_name: 森林科学科
+  com_count: 0
+畜産科学科:
+  tag_id: 196
+  tag_type: true
+  tag_name: 畜産科学科
+  com_count: 0
+生物環境工学科:
+  tag_id: 197
+  tag_type: true
+  tag_name: 生物環境工学科
+  com_count: 0
+農業経済学科:
+  tag_id: 198
+  tag_type: true
+  tag_name: 農業経済学科
+  com_count: 0
+生物資源科学科:
+  tag_id: 199
+  tag_type: true
+  tag_name: 生物資源科学科
+  com_count: 0
+獣医学部:
+  tag_id: 200
+  tag_type: true
+  tag_name: 獣医学部
+  com_count: 0
+共同獣医学課程:
+  tag_id: 201
+  tag_type: true
+  tag_name: 共同獣医学課程
+  com_count: 0
+水産学部:
+  tag_id: 202
+  tag_type: true
+  tag_name: 水産学部
+  com_count: 0
+海洋生物科学科:
+  tag_id: 203
+  tag_type: true
+  tag_name: 海洋生物科学科
+  com_count: 0
+海洋資源科学科:
+  tag_id: 204
+  tag_type: true
+  tag_name: 海洋資源科学科
+  com_count: 0
+増殖生命科学科:
+  tag_id: 205
+  tag_type: true
+  tag_name: 増殖生命科学科
+  com_count: 0
+資源機能化学科:
+  tag_id: 206
+  tag_type: true
+  tag_name: 資源機能化学科
+  com_count: 0
+鹿屋体育大学:
+  tag_id: 207
+  tag_type: true
+  tag_name: 鹿屋体育大学
+  com_count: 0
+体育学部:
+  tag_id: 208
+  tag_type: true
+  tag_name: 体育学部
+  com_count: 0
+スポーツ総合課程:
+  tag_id: 209
+  tag_type: true
+  tag_name: スポーツ総合課程
+  com_count: 0
+武道課程:
+  tag_id: 210
+  tag_type: true
+  tag_name: 武道課程
+  com_count: 0
+九州工業大学:
+  tag_id: 211
+  tag_type: true
+  tag_name: 九州工業大学
+  com_count: 0
+建設社会工学科:
+  tag_id: 212
+  tag_type: true
+  tag_name: 建設社会工学科
+  com_count: 0
+電気電子工学科:
+  tag_id: 213
+  tag_type: true
+  tag_name: 電気電子工学科
+  com_count: 0
+マテリアル工学科:
+  tag_id: 214
+  tag_type: true
+  tag_name: マテリアル工学科
+  com_count: 0
+宇宙システム工学科:
+  tag_id: 215
+  tag_type: true
+  tag_name: 宇宙システム工学科
+  com_count: 0
+情報工学部:
+  tag_id: 216
+  tag_type: true
+  tag_name: 情報工学部
+  com_count: 0
+知的システム工学科:
+  tag_id: 217
+  tag_type: true
+  tag_name: 知的システム工学科
+  com_count: 0
+物理情報工学科:
+  tag_id: 218
+  tag_type: true
+  tag_name: 物理情報工学科
+  com_count: 0
+生命化学情報工学科:
+  tag_id: 219
+  tag_type: true
+  tag_name: 生命化学情報工学科
+  com_count: 0
+知能情報工学科:
+  tag_id: 220
+  tag_type: true
+  tag_name: 知能情報工学科
+  com_count: 0
+情報・通信工学科:
+  tag_id: 221
+  tag_type: true
+  tag_name: 情報・通信工学科
+  com_count: 0
+秋田大学:
+  tag_id: 222
+  tag_type: true
+  tag_name: 秋田大学
+  com_count: 0
+教育文化学部:
+  tag_id: 223
+  tag_type: true
+  tag_name: 教育文化学部
+  com_count: 0
+教育実践コース:
+  tag_id: 224
+  tag_type: true
+  tag_name: 教育実践コース
+  com_count: 0
+英語教育コース:
+  tag_id: 225
+  tag_type: true
+  tag_name: 英語教育コース
+  com_count: 0
+理数教育コース:
+  tag_id: 226
+  tag_type: true
+  tag_name: 理数教育コース
+  com_count: 0
+こども発達コース:
+  tag_id: 227
+  tag_type: true
+  tag_name: こども発達コース
+  com_count: 0
+地域文化学科:
+  tag_id: 228
+  tag_type: true
+  tag_name: 地域文化学科
+  com_count: 0
+理工学部:
+  tag_id: 229
+  tag_type: true
+  tag_name: 理工学部
+  com_count: 0
+生命科学コース:
+  tag_id: 230
+  tag_type: true
+  tag_name: 生命科学コース
+  com_count: 0
+物質科学科:
+  tag_id: 231
+  tag_type: true
+  tag_name: 物質科学科
+  com_count: 0
+応用化学コース:
+  tag_id: 232
+  tag_type: true
+  tag_name: 応用化学コース
+  com_count: 0
+材料理工学コース:
+  tag_id: 233
+  tag_type: true
+  tag_name: 材料理工学コース
+  com_count: 0
+数理・電気電子情報学科:
+  tag_id: 234
+  tag_type: true
+  tag_name: 数理・電気電子情報学科
+  com_count: 0
+数理科学コース:
+  tag_id: 235
+  tag_type: true
+  tag_name: 数理科学コース
+  com_count: 0
+電気電子工学コース:
+  tag_id: 236
+  tag_type: true
+  tag_name: 電気電子工学コース
+  com_count: 0
+人間情報工学コース:
+  tag_id: 237
+  tag_type: true
+  tag_name: 人間情報工学コース
+  com_count: 0
+システムデザイン工学科:
+  tag_id: 238
+  tag_type: true
+  tag_name: システムデザイン工学科
+  com_count: 0
+機械工学コース:
+  tag_id: 239
+  tag_type: true
+  tag_name: 機械工学コース
+  com_count: 0
+創造生産工学コース:
+  tag_id: 240
+  tag_type: true
+  tag_name: 創造生産工学コース
+  com_count: 0
+土木環境工学コース:
+  tag_id: 241
+  tag_type: true
+  tag_name: 土木環境工学コース
+  com_count: 0
+国際資源学部:
+  tag_id: 242
+  tag_type: true
+  tag_name: 国際資源学部
+  com_count: 0
+国際資源学科:
+  tag_id: 243
+  tag_type: true
+  tag_name: 国際資源学科
+  com_count: 0
+資源政策コース:
+  tag_id: 244
+  tag_type: true
+  tag_name: 資源政策コース
+  com_count: 0
+資源地球科学コース:
+  tag_id: 245
+  tag_type: true
+  tag_name: 資源地球科学コース
+  com_count: 0
+資源開発環境コース:
+  tag_id: 246
+  tag_type: true
+  tag_name: 資源開発環境コース
+  com_count: 0
+長崎大学:
+  tag_id: 247
+  tag_type: true
+  tag_name: 長崎大学
+  com_count: 0
+小学校教育コース子ども理解実践専攻:
+  tag_id: 248
+  tag_type: true
+  tag_name: 小学校教育コース子ども理解実践専攻
+  com_count: 0
+中学校教育コース国語専攻:
+  tag_id: 249
+  tag_type: true
+  tag_name: 中学校教育コース国語専攻
+  com_count: 0
+中学校教育コース社会専攻:
+  tag_id: 250
+  tag_type: true
+  tag_name: 中学校教育コース社会専攻
+  com_count: 0
+中学校教育コース数学専攻:
+  tag_id: 251
+  tag_type: true
+  tag_name: 中学校教育コース数学専攻
+  com_count: 0
+中学校教育コース理科専攻:
+  tag_id: 252
+  tag_type: true
+  tag_name: 中学校教育コース理科専攻
+  com_count: 0
+中学校教育コース音楽専攻:
+  tag_id: 253
+  tag_type: true
+  tag_name: 中学校教育コース音楽専攻
+  com_count: 0
+中学校教育コース美術専攻:
+  tag_id: 254
+  tag_type: true
+  tag_name: 中学校教育コース美術専攻
+  com_count: 0
+中学校教育コース保健体育専攻:
+  tag_id: 255
+  tag_type: true
+  tag_name: 中学校教育コース保健体育専攻
+  com_count: 0
+中学校教育コース技術専攻:
+  tag_id: 256
+  tag_type: true
+  tag_name: 中学校教育コース技術専攻
+  com_count: 0
+中学校教育コース家庭専攻:
+  tag_id: 257
+  tag_type: true
+  tag_name: 中学校教育コース家庭専攻
+  com_count: 0
+中学校教育コース英語専攻:
+  tag_id: 258
+  tag_type: true
+  tag_name: 中学校教育コース英語専攻
+  com_count: 0
+幼稚園教育コースこども保育専攻:
+  tag_id: 259
+  tag_type: true
+  tag_name: 幼稚園教育コースこども保育専攻
+  com_count: 0
+小学校教育コース教科授業実践専攻:
+  tag_id: 260
+  tag_type: true
+  tag_name: 小学校教育コース教科授業実践専攻
+  com_count: 0
+小学校教育コースＩＣＴ活用実践専攻:
+  tag_id: 261
+  tag_type: true
+  tag_name: 小学校教育コースＩＣＴ活用実践専攻
+  com_count: 0
+小学校教育コース多文化理解実践専攻:
+  tag_id: 262
+  tag_type: true
+  tag_name: 小学校教育コース多文化理解実践専攻
+  com_count: 0
+幼稚園教育コース芸術的感性開発専攻:
+  tag_id: 263
+  tag_type: true
+  tag_name: 幼稚園教育コース芸術的感性開発専攻
+  com_count: 0
+総合経済学科＜昼間コース＞:
+  tag_id: 264
+  tag_type: true
+  tag_name: 総合経済学科＜昼間コース＞
+  com_count: 0
+総合経済学科＜夜間主コース＞:
+  tag_id: 265
+  tag_type: true
+  tag_name: 総合経済学科＜夜間主コース＞
+  com_count: 0
+工学科:
+  tag_id: 266
+  tag_type: true
+  tag_name: 工学科
+  com_count: 0
+情報工学コース:
+  tag_id: 267
+  tag_type: true
+  tag_name: 情報工学コース
+  com_count: 0
+構造工学コース:
+  tag_id: 268
+  tag_type: true
+  tag_name: 構造工学コース
+  com_count: 0
+社会環境デザイン工学コース:
+  tag_id: 269
+  tag_type: true
+  tag_name: 社会環境デザイン工学コース
+  com_count: 0
+化学・物質工学コース:
+  tag_id: 270
+  tag_type: true
+  tag_name: 化学・物質工学コース
+  com_count: 0
+環境科学部:
+  tag_id: 271
+  tag_type: true
+  tag_name: 環境科学部
+  com_count: 0
+環境科学科:
+  tag_id: 272
+  tag_type: true
+  tag_name: 環境科学科
+  com_count: 0
+水産学科:
+  tag_id: 273
+  tag_type: true
+  tag_name: 水産学科
+  com_count: 0
+多文化社会学部:
+  tag_id: 274
+  tag_type: true
+  tag_name: 多文化社会学部
+  com_count: 0
+多文化社会学科:
+  tag_id: 275
+  tag_type: true
+  tag_name: 多文化社会学科
+  com_count: 0
+オランダ特別コース:
+  tag_id: 276
+  tag_type: true
+  tag_name: オランダ特別コース
+  com_count: 0
+共生文化コース:
+  tag_id: 277
+  tag_type: true
+  tag_name: 共生文化コース
+  com_count: 0
+グローバル社会コース:
+  tag_id: 278
+  tag_type: true
+  tag_name: グローバル社会コース
+  com_count: 0
+社会動態コース:
+  tag_id: 279
+  tag_type: true
+  tag_name: 社会動態コース
+  com_count: 0
+千葉大学:
+  tag_id: 280
+  tag_type: true
+  tag_name: 千葉大学
+  com_count: 0
+園芸学部:
+  tag_id: 281
+  tag_type: true
+  tag_name: 園芸学部
+  com_count: 0
+園芸学科:
+  tag_id: 282
+  tag_type: true
+  tag_name: 園芸学科
+  com_count: 0
+応用生命化学科:
+  tag_id: 283
+  tag_type: true
+  tag_name: 応用生命化学科
+  com_count: 0
+緑地環境学科:
+  tag_id: 284
+  tag_type: true
+  tag_name: 緑地環境学科
+  com_count: 0
+食料資源経済学科:
+  tag_id: 285
+  tag_type: true
+  tag_name: 食料資源経済学科
+  com_count: 0
+看護学部:
+  tag_id: 286
+  tag_type: true
+  tag_name: 看護学部
+  com_count: 0
+学校教員養成課程:
+  tag_id: 287
+  tag_type: true
+  tag_name: 学校教員養成課程
+  com_count: 0
+小学校コース国語科選修:
+  tag_id: 288
+  tag_type: true
+  tag_name: 小学校コース国語科選修
+  com_count: 0
+中学校コース国語科教育分野:
+  tag_id: 289
+  tag_type: true
+  tag_name: 中学校コース国語科教育分野
+  com_count: 0
+小中専門教科コース音楽科教育分野:
+  tag_id: 290
+  tag_type: true
+  tag_name: 小中専門教科コース音楽科教育分野
+  com_count: 0
+養護教諭コース:
+  tag_id: 291
+  tag_type: true
+  tag_name: 養護教諭コース
+  com_count: 0
+小学校コース社会科選修:
+  tag_id: 292
+  tag_type: true
+  tag_name: 小学校コース社会科選修
+  com_count: 0
+小学校コース算数科選修:
+  tag_id: 293
+  tag_type: true
+  tag_name: 小学校コース算数科選修
+  com_count: 0
+小学校コース理科選修:
+  tag_id: 294
+  tag_type: true
+  tag_name: 小学校コース理科選修
+  com_count: 0
+小学校コース教育学選修:
+  tag_id: 295
+  tag_type: true
+  tag_name: 小学校コース教育学選修
+  com_count: 0
+小学校コース教育心理学選修:
+  tag_id: 296
+  tag_type: true
+  tag_name: 小学校コース教育心理学選修
+  com_count: 0
+小学校コースものづくり選修:
+  tag_id: 297
+  tag_type: true
+  tag_name: 小学校コースものづくり選修
+  com_count: 0
+中学校コース社会科教育分野:
+  tag_id: 298
+  tag_type: true
+  tag_name: 中学校コース社会科教育分野
+  com_count: 0
+中学校コース数学科教育分野:
+  tag_id: 299
+  tag_type: true
+  tag_name: 中学校コース数学科教育分野
+  com_count: 0
+中学校コース理科教育分野:
+  tag_id: 300
+  tag_type: true
+  tag_name: 中学校コース理科教育分野
+  com_count: 0
+中学校コース技術科教育分野:
+  tag_id: 301
+  tag_type: true
+  tag_name: 中学校コース技術科教育分野
+  com_count: 0
+小中専門教科コース図画工作・美術科教育分野:
+  tag_id: 302
+  tag_type: true
+  tag_name: 小中専門教科コース図画工作・美術科教育分野
+  com_count: 0
+小中専門教科コース保健体育科教育分野:
+  tag_id: 303
+  tag_type: true
+  tag_name: 小中専門教科コース保健体育科教育分野
+  com_count: 0
+小中専門教科コース家庭科教育分野:
+  tag_id: 304
+  tag_type: true
+  tag_name: 小中専門教科コース家庭科教育分野
+  com_count: 0
+総合工学科:
+  tag_id: 305
+  tag_type: true
+  tag_name: 総合工学科
+  com_count: 0
+建築学コース:
+  tag_id: 306
+  tag_type: true
+  tag_name: 建築学コース
+  com_count: 0
+都市環境システムコース:
+  tag_id: 307
+  tag_type: true
+  tag_name: 都市環境システムコース
+  com_count: 0
+デザインコース:
+  tag_id: 308
+  tag_type: true
+  tag_name: デザインコース
+  com_count: 0
+医工学コース:
+  tag_id: 309
+  tag_type: true
+  tag_name: 医工学コース
+  com_count: 0
+物質科学コース:
+  tag_id: 310
+  tag_type: true
+  tag_name: 物質科学コース
+  com_count: 0
+共生応用化学コース:
+  tag_id: 311
+  tag_type: true
+  tag_name: 共生応用化学コース
+  com_count: 0
+人文学科:
+  tag_id: 312
+  tag_type: true
+  tag_name: 人文学科
+  com_count: 0
+行動科学コース:
+  tag_id: 313
+  tag_type: true
+  tag_name: 行動科学コース
+  com_count: 0
+国際言語文化学コース:
+  tag_id: 314
+  tag_type: true
+  tag_name: 国際言語文化学コース
+  com_count: 0
+歴史学コース:
+  tag_id: 315
+  tag_type: true
+  tag_name: 歴史学コース
+  com_count: 0
+日本・ユーラシア文化コース:
+  tag_id: 316
+  tag_type: true
+  tag_name: 日本・ユーラシア文化コース
+  com_count: 0
+法政経学部:
+  tag_id: 317
+  tag_type: true
+  tag_name: 法政経学部
+  com_count: 0
+法政経学科:
+  tag_id: 318
+  tag_type: true
+  tag_name: 法政経学科
+  com_count: 0
+数学・情報数理学科:
+  tag_id: 319
+  tag_type: true
+  tag_name: 数学・情報数理学科
+  com_count: 0
+生物学科:
+  tag_id: 320
+  tag_type: true
+  tag_name: 生物学科
+  com_count: 0
+国際教養学部:
+  tag_id: 321
+  tag_type: true
+  tag_name: 国際教養学部
+  com_count: 0
+国際教養学科:
+  tag_id: 322
+  tag_type: true
+  tag_name: 国際教養学科
+  com_count: 0
+名古屋大学:
+  tag_id: 323
+  tag_type: true
+  tag_name: 名古屋大学
+  com_count: 0
+人間発達科学科:
+  tag_id: 324
+  tag_type: true
+  tag_name: 人間発達科学科
+  com_count: 0
+化学生命工学科:
+  tag_id: 325
+  tag_type: true
+  tag_name: 化学生命工学科
+  com_count: 0
+機械・航空宇宙工学科:
+  tag_id: 326
+  tag_type: true
+  tag_name: 機械・航空宇宙工学科
+  com_count: 0
+電気電子情報工学科:
+  tag_id: 327
+  tag_type: true
+  tag_name: 電気電子情報工学科
+  com_count: 0
+物理工学科:
+  tag_id: 328
+  tag_type: true
+  tag_name: 物理工学科
+  com_count: 0
+環境土木・建築学科:
+  tag_id: 329
+  tag_type: true
+  tag_name: 環境土木・建築学科
+  com_count: 0
+エネルギー理工学科:
+  tag_id: 330
+  tag_type: true
+  tag_name: エネルギー理工学科
+  com_count: 0
+情報学部:
+  tag_id: 331
+  tag_type: true
+  tag_name: 情報学部
+  com_count: 0
+自然情報学科:
+  tag_id: 332
+  tag_type: true
+  tag_name: 自然情報学科
+  com_count: 0
+人間・社会情報学科:
+  tag_id: 333
+  tag_type: true
+  tag_name: 人間・社会情報学科
+  com_count: 0
+コンピュータ科学科:
+  tag_id: 334
+  tag_type: true
+  tag_name: コンピュータ科学科
+  com_count: 0
+資源生物科学科:
+  tag_id: 335
+  tag_type: true
+  tag_name: 資源生物科学科
+  com_count: 0
+生物環境科学科:
+  tag_id: 336
+  tag_type: true
+  tag_name: 生物環境科学科
+  com_count: 0
+法律・政治学科:
+  tag_id: 337
+  tag_type: true
+  tag_name: 法律・政治学科
+  com_count: 0
+数理学科:
+  tag_id: 338
+  tag_type: true
+  tag_name: 数理学科
+  com_count: 0
+生命理学科:
+  tag_id: 339
+  tag_type: true
+  tag_name: 生命理学科
+  com_count: 0
+東京農工大学:
+  tag_id: 340
+  tag_type: true
+  tag_name: 東京農工大学
+  com_count: 0
+化学物理工学科:
+  tag_id: 341
+  tag_type: true
+  tag_name: 化学物理工学科
+  com_count: 0
+機械システム工学科:
+  tag_id: 342
+  tag_type: true
+  tag_name: 機械システム工学科
+  com_count: 0
+生命工学科:
+  tag_id: 343
+  tag_type: true
+  tag_name: 生命工学科
+  com_count: 0
+生体医用システム工学科:
+  tag_id: 344
+  tag_type: true
+  tag_name: 生体医用システム工学科
+  com_count: 0
+知能情報システム工学科:
+  tag_id: 345
+  tag_type: true
+  tag_name: 知能情報システム工学科
+  com_count: 0
+環境資源科学科:
+  tag_id: 346
+  tag_type: true
+  tag_name: 環境資源科学科
+  com_count: 0
+共同獣医学科:
+  tag_id: 347
+  tag_type: true
+  tag_name: 共同獣医学科
+  com_count: 0
+生物生産学科:
+  tag_id: 348
+  tag_type: true
+  tag_name: 生物生産学科
+  com_count: 0
+地域生態システム学科:
+  tag_id: 349
+  tag_type: true
+  tag_name: 地域生態システム学科
+  com_count: 0
+弘前大学:
+  tag_id: 350
+  tag_type: true
+  tag_name: 弘前大学
+  com_count: 0
+人文社会科学部:
+  tag_id: 351
+  tag_type: true
+  tag_name: 人文社会科学部
+  com_count: 0
+文化創生課程:
+  tag_id: 352
+  tag_type: true
+  tag_name: 文化創生課程
+  com_count: 0
+社会経営課程:
+  tag_id: 353
+  tag_type: true
+  tag_name: 社会経営課程
+  com_count: 0
+初等中等教育専攻小学校コース:
+  tag_id: 354
+  tag_type: true
+  tag_name: 初等中等教育専攻小学校コース
+  com_count: 0
+初等中等教育専攻中学校コース国語専修:
+  tag_id: 355
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース国語専修
+  com_count: 0
+初等中等教育専攻中学校コース社会専修:
+  tag_id: 356
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース社会専修
+  com_count: 0
+初等中等教育専攻中学校コース数学専修:
+  tag_id: 357
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース数学専修
+  com_count: 0
+初等中等教育専攻中学校コース理科専修:
+  tag_id: 358
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース理科専修
+  com_count: 0
+初等中等教育専攻中学校コース音楽専修:
+  tag_id: 359
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース音楽専修
+  com_count: 0
+初等中等教育専攻中学校コース美術専修:
+  tag_id: 360
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース美術専修
+  com_count: 0
+初等中等教育専攻中学校コース保健体育専修:
+  tag_id: 361
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース保健体育専修
+  com_count: 0
+初等中等教育専攻中学校コース技術専修:
+  tag_id: 362
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース技術専修
+  com_count: 0
+初等中等教育専攻中学校コース家庭科専修:
+  tag_id: 363
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース家庭科専修
+  com_count: 0
+初等中等教育専攻中学校コース英語専修:
+  tag_id: 364
+  tag_type: true
+  tag_name: 初等中等教育専攻中学校コース英語専修
+  com_count: 0
+物質創成化学科:
+  tag_id: 365
+  tag_type: true
+  tag_name: 物質創成化学科
+  com_count: 0
+地球環境防災学科:
+  tag_id: 366
+  tag_type: true
+  tag_name: 地球環境防災学科
+  com_count: 0
+電子情報工学科:
+  tag_id: 367
+  tag_type: true
+  tag_name: 電子情報工学科
+  com_count: 0
+機械科学科:
+  tag_id: 368
+  tag_type: true
+  tag_name: 機械科学科
+  com_count: 0
+数物科学科:
+  tag_id: 369
+  tag_type: true
+  tag_name: 数物科学科
+  com_count: 0
+自然エネルギー学科:
+  tag_id: 370
+  tag_type: true
+  tag_name: 自然エネルギー学科
+  com_count: 0
+農学生命科学部:
+  tag_id: 371
+  tag_type: true
+  tag_name: 農学生命科学部
+  com_count: 0
+分子生命科学科:
+  tag_id: 372
+  tag_type: true
+  tag_name: 分子生命科学科
+  com_count: 0
+食料資源学科:
+  tag_id: 373
+  tag_type: true
+  tag_name: 食料資源学科
+  com_count: 0
+国際園芸農学科:
+  tag_id: 374
+  tag_type: true
+  tag_name: 国際園芸農学科
+  com_count: 0
+地域環境工学科:
+  tag_id: 375
+  tag_type: true
+  tag_name: 地域環境工学科
+  com_count: 0
+室蘭工業大学:
+  tag_id: 376
+  tag_type: true
+  tag_name: 室蘭工業大学
+  com_count: 0
+システム理化学科:
+  tag_id: 377
+  tag_type: true
+  tag_name: システム理化学科
+  com_count: 0
+創造工学科（夜間主コース）:
+  tag_id: 378
+  tag_type: true
+  tag_name: 創造工学科（夜間主コース）
+  com_count: 0
+富山大学:
+  tag_id: 379
+  tag_type: true
+  tag_name: 富山大学
+  com_count: 0
+昼間主コース:
+  tag_id: 380
+  tag_type: true
+  tag_name: 昼間主コース
+  com_count: 0
+経営法学科:
+  tag_id: 381
+  tag_type: true
+  tag_name: 経営法学科
+  com_count: 0
+芸術文化学部:
+  tag_id: 382
+  tag_type: true
+  tag_name: 芸術文化学部
+  com_count: 0
+芸術文化学科:
+  tag_id: 383
+  tag_type: true
+  tag_name: 芸術文化学科
+  com_count: 0
+知能情報工学コース:
+  tag_id: 384
+  tag_type: true
+  tag_name: 知能情報工学コース
+  com_count: 0
+生命工学コース:
+  tag_id: 385
+  tag_type: true
+  tag_name: 生命工学コース
+  com_count: 0
+人間発達科学部:
+  tag_id: 386
+  tag_type: true
+  tag_name: 人間発達科学部
+  com_count: 0
+人間環境システム学科:
+  tag_id: 387
+  tag_type: true
+  tag_name: 人間環境システム学科
+  com_count: 0
+地域スポーツコース:
+  tag_id: 388
+  tag_type: true
+  tag_name: 地域スポーツコース
+  com_count: 0
+環境社会デザインコース:
+  tag_id: 389
+  tag_type: true
+  tag_name: 環境社会デザインコース
+  com_count: 0
+人間情報コミュニケーションコース:
+  tag_id: 390
+  tag_type: true
+  tag_name: 人間情報コミュニケーションコース
+  com_count: 0
+発達教育学科:
+  tag_id: 391
+  tag_type: true
+  tag_name: 発達教育学科
+  com_count: 0
+教育心理コース:
+  tag_id: 392
+  tag_type: true
+  tag_name: 教育心理コース
+  com_count: 0
+学校教育コース:
+  tag_id: 393
+  tag_type: true
+  tag_name: 学校教育コース
+  com_count: 0
+発達福祉コース:
+  tag_id: 394
+  tag_type: true
+  tag_name: 発達福祉コース
+  com_count: 0
+人文学部:
+  tag_id: 395
+  tag_type: true
+  tag_name: 人文学部
+  com_count: 0
+創薬科学科＜４年制＞:
+  tag_id: 396
+  tag_type: true
+  tag_name: 創薬科学科＜４年制＞
+  com_count: 0
+生物圏環境科学科:
+  tag_id: 397
+  tag_type: true
+  tag_name: 生物圏環境科学科
+  com_count: 0
+都市デザイン学部:
+  tag_id: 398
+  tag_type: true
+  tag_name: 都市デザイン学部
+  com_count: 0
+地球システム科学科:
+  tag_id: 399
+  tag_type: true
+  tag_name: 地球システム科学科
+  com_count: 0
+都市・交通デザイン学科:
+  tag_id: 400
+  tag_type: true
+  tag_name: 都市・交通デザイン学科
+  com_count: 0
+材料デザイン工学科:
+  tag_id: 401
+  tag_type: true
+  tag_name: 材料デザイン工学科
+  com_count: 0
+宇都宮大学:
+  tag_id: 402
+  tag_type: true
+  tag_name: 宇都宮大学
+  com_count: 0
+学校教育・特別支援教育系:
+  tag_id: 403
+  tag_type: true
+  tag_name: 学校教育・特別支援教育系
+  com_count: 0
+教科文系:
+  tag_id: 404
+  tag_type: true
+  tag_name: 教科文系
+  com_count: 0
+教科理系:
+  tag_id: 405
+  tag_type: true
+  tag_name: 教科理系
+  com_count: 0
+教科実技系:
+  tag_id: 406
+  tag_type: true
+  tag_name: 教科実技系
+  com_count: 0
+基盤工学科:
+  tag_id: 407
+  tag_type: true
+  tag_name: 基盤工学科
+  com_count: 0
+国際学部:
+  tag_id: 408
+  tag_type: true
+  tag_name: 国際学部
+  com_count: 0
+国際学科:
+  tag_id: 409
+  tag_type: true
+  tag_name: 国際学科
+  com_count: 0
+農業環境工学科:
+  tag_id: 410
+  tag_type: true
+  tag_name: 農業環境工学科
+  com_count: 0
+地域デザイン科学部:
+  tag_id: 411
+  tag_type: true
+  tag_name: 地域デザイン科学部
+  com_count: 0
+コミュニティデザイン学科:
+  tag_id: 412
+  tag_type: true
+  tag_name: コミュニティデザイン学科
+  com_count: 0
+建築都市デザイン学科:
+  tag_id: 413
+  tag_type: true
+  tag_name: 建築都市デザイン学科
+  com_count: 0
+社会基盤デザイン学科:
+  tag_id: 414
+  tag_type: true
+  tag_name: 社会基盤デザイン学科
+  com_count: 0
+東京海洋大学:
+  tag_id: 415
+  tag_type: true
+  tag_name: 東京海洋大学
+  com_count: 0
+海洋生命科学部:
+  tag_id: 416
+  tag_type: true
+  tag_name: 海洋生命科学部
+  com_count: 0
+食品生産科学科:
+  tag_id: 417
+  tag_type: true
+  tag_name: 食品生産科学科
+  com_count: 0
+海洋政策文化学科:
+  tag_id: 418
+  tag_type: true
+  tag_name: 海洋政策文化学科
+  com_count: 0
+海洋生物資源学科:
+  tag_id: 419
+  tag_type: true
+  tag_name: 海洋生物資源学科
+  com_count: 0
+海洋工学部:
+  tag_id: 420
+  tag_type: true
+  tag_name: 海洋工学部
+  com_count: 0
+海事システム工学科:
+  tag_id: 421
+  tag_type: true
+  tag_name: 海事システム工学科
+  com_count: 0
+海洋電子機械工学科:
+  tag_id: 422
+  tag_type: true
+  tag_name: 海洋電子機械工学科
+  com_count: 0
+流通情報工学科:
+  tag_id: 423
+  tag_type: true
+  tag_name: 流通情報工学科
+  com_count: 0
+海洋資源環境学部:
+  tag_id: 424
+  tag_type: true
+  tag_name: 海洋資源環境学部
+  com_count: 0
+海洋環境科学科:
+  tag_id: 425
+  tag_type: true
+  tag_name: 海洋環境科学科
+  com_count: 0
+海洋資源エネルギー学科:
+  tag_id: 426
+  tag_type: true
+  tag_name: 海洋資源エネルギー学科
+  com_count: 0
+神戸大学:
+  tag_id: 427
+  tag_type: true
+  tag_name: 神戸大学
+  com_count: 0
+海事科学部:
+  tag_id: 428
+  tag_type: true
+  tag_name: 海事科学部
+  com_count: 0
+マリンエンジニアリング学科:
+  tag_id: 429
+  tag_type: true
+  tag_name: マリンエンジニアリング学科
+  com_count: 0
+機関マネジメントコース:
+  tag_id: 430
+  tag_type: true
+  tag_name: 機関マネジメントコース
+  com_count: 0
+メカトロニクスコース:
+  tag_id: 431
+  tag_type: true
+  tag_name: メカトロニクスコース
+  com_count: 0
+海洋安全システム科学科:
+  tag_id: 432
+  tag_type: true
+  tag_name: 海洋安全システム科学科
+  com_count: 0
+グローバル輸送科学科:
+  tag_id: 433
+  tag_type: true
+  tag_name: グローバル輸送科学科
+  com_count: 0
+航海マネジメントコース:
+  tag_id: 434
+  tag_type: true
+  tag_name: 航海マネジメントコース
+  com_count: 0
+ロジスティクスコース:
+  tag_id: 435
+  tag_type: true
+  tag_name: ロジスティクスコース
+  com_count: 0
+経営学部:
+  tag_id: 436
+  tag_type: true
+  tag_name: 経営学部
+  com_count: 0
+機械工学科:
+  tag_id: 437
+  tag_type: true
+  tag_name: 機械工学科
+  com_count: 0
+情報知能工学科:
+  tag_id: 438
+  tag_type: true
+  tag_name: 情報知能工学科
+  com_count: 0
+建築学科:
+  tag_id: 439
+  tag_type: true
+  tag_name: 建築学科
+  com_count: 0
+市民工学科:
+  tag_id: 440
+  tag_type: true
+  tag_name: 市民工学科
+  com_count: 0
+食料環境システム学科:
+  tag_id: 441
+  tag_type: true
+  tag_name: 食料環境システム学科
+  com_count: 0
+生産環境工学コース:
+  tag_id: 442
+  tag_type: true
+  tag_name: 生産環境工学コース
+  com_count: 0
+食料環境経済学コース:
+  tag_id: 443
+  tag_type: true
+  tag_name: 食料環境経済学コース
+  com_count: 0
+資源生命科学科:
+  tag_id: 444
+  tag_type: true
+  tag_name: 資源生命科学科
+  com_count: 0
+応用動物学コース:
+  tag_id: 445
+  tag_type: true
+  tag_name: 応用動物学コース
+  com_count: 0
+応用植物学コース:
+  tag_id: 446
+  tag_type: true
+  tag_name: 応用植物学コース
+  com_count: 0
+生命機能科学科:
+  tag_id: 447
+  tag_type: true
+  tag_name: 生命機能科学科
+  com_count: 0
+応用生命化学コース:
+  tag_id: 448
+  tag_type: true
+  tag_name: 応用生命化学コース
+  com_count: 0
+環境生物学コース:
+  tag_id: 449
+  tag_type: true
+  tag_name: 環境生物学コース
+  com_count: 0
+法律学科:
+  tag_id: 450
+  tag_type: true
+  tag_name: 法律学科
+  com_count: 0
+惑星学科:
+  tag_id: 451
+  tag_type: true
+  tag_name: 惑星学科
+  com_count: 0
+国際人間科学部:
+  tag_id: 452
+  tag_type: true
+  tag_name: 国際人間科学部
+  com_count: 0
+グローバル文化学科:
+  tag_id: 453
+  tag_type: true
+  tag_name: グローバル文化学科
+  com_count: 0
+発達コミュニティ学科:
+  tag_id: 454
+  tag_type: true
+  tag_name: 発達コミュニティ学科
+  com_count: 0
+環境共生学科:
+  tag_id: 455
+  tag_type: true
+  tag_name: 環境共生学科
+  com_count: 0
+子ども教育学科:
+  tag_id: 456
+  tag_type: true
+  tag_name: 子ども教育学科
+  com_count: 0
+岡山大学:
+  tag_id: 457
+  tag_type: true
+  tag_name: 岡山大学
+  com_count: 0
+環境理工学部:
+  tag_id: 458
+  tag_type: true
+  tag_name: 環境理工学部
+  com_count: 0
+環境デザイン工学科:
+  tag_id: 459
+  tag_type: true
+  tag_name: 環境デザイン工学科
+  com_count: 0
+環境管理工学科:
+  tag_id: 460
+  tag_type: true
+  tag_name: 環境管理工学科
+  com_count: 0
+環境数理学科:
+  tag_id: 461
+  tag_type: true
+  tag_name: 環境数理学科
+  com_count: 0
+環境物質工学科:
+  tag_id: 462
+  tag_type: true
+  tag_name: 環境物質工学科
+  com_count: 0
+小学校教育コース:
+  tag_id: 463
+  tag_type: true
+  tag_name: 小学校教育コース
+  com_count: 0
+中学校教育コース:
+  tag_id: 464
+  tag_type: true
+  tag_name: 中学校教育コース
+  com_count: 0
+幼児教育コース:
+  tag_id: 465
+  tag_type: true
+  tag_name: 幼児教育コース
+  com_count: 0
+経済学科（昼間コース）:
+  tag_id: 466
+  tag_type: true
+  tag_name: 経済学科（昼間コース）
+  com_count: 0
+経済学科（夜間主コース）:
+  tag_id: 467
+  tag_type: true
+  tag_name: 経済学科（夜間主コース）
+  com_count: 0
+機械システム系学科:
+  tag_id: 468
+  tag_type: true
+  tag_name: 機械システム系学科
+  com_count: 0
+情報系学科:
+  tag_id: 469
+  tag_type: true
+  tag_name: 情報系学科
+  com_count: 0
+電気通信系学科:
+  tag_id: 470
+  tag_type: true
+  tag_name: 電気通信系学科
+  com_count: 0
+化学生命系学科:
+  tag_id: 471
+  tag_type: true
+  tag_name: 化学生命系学科
+  com_count: 0
+総合農業科学科:
+  tag_id: 472
+  tag_type: true
+  tag_name: 総合農業科学科
+  com_count: 0
+哲学・倫理学分野:
+  tag_id: 473
+  tag_type: true
+  tag_name: 哲学・倫理学分野
+  com_count: 0
+芸術学・美術史分野:
+  tag_id: 474
+  tag_type: true
+  tag_name: 芸術学・美術史分野
+  com_count: 0
+地理学・社会学・文化人類学・社会文化学分野:
+  tag_id: 475
+  tag_type: true
+  tag_name: 地理学・社会学・文化人類学・社会文化学分野
+  com_count: 0
+心理学・社会心理学分野:
+  tag_id: 476
+  tag_type: true
+  tag_name: 心理学・社会心理学分野
+  com_count: 0
+歴史学・考古学分野:
+  tag_id: 477
+  tag_type: true
+  tag_name: 歴史学・考古学分野
+  com_count: 0
+言語学・現代日本語学分野:
+  tag_id: 478
+  tag_type: true
+  tag_name: 言語学・現代日本語学分野
+  com_count: 0
+日本語・日本文学分野:
+  tag_id: 479
+  tag_type: true
+  tag_name: 日本語・日本文学分野
+  com_count: 0
+外国語・外国文学分野:
+  tag_id: 480
+  tag_type: true
+  tag_name: 外国語・外国文学分野
+  com_count: 0
+法学科（昼間コース）:
+  tag_id: 481
+  tag_type: true
+  tag_name: 法学科（昼間コース）
+  com_count: 0
+法学科（夜間主コース）:
+  tag_id: 482
+  tag_type: true
+  tag_name: 法学科（夜間主コース）
+  com_count: 0
+グローバル・ディスカバリー・プログラム:
+  tag_id: 483
+  tag_type: true
+  tag_name: グローバル・ディスカバリー・プログラム
+  com_count: 0
+奈良女子大学:
+  tag_id: 484
+  tag_type: true
+  tag_name: 奈良女子大学
+  com_count: 0
+生活環境学部:
+  tag_id: 485
+  tag_type: true
+  tag_name: 生活環境学部
+  com_count: 0
+食物栄養学科:
+  tag_id: 486
+  tag_type: true
+  tag_name: 食物栄養学科
+  com_count: 0
+住環境学科:
+  tag_id: 487
+  tag_type: true
+  tag_name: 住環境学科
+  com_count: 0
+生活文化学科:
+  tag_id: 488
+  tag_type: true
+  tag_name: 生活文化学科
+  com_count: 0
+心身健康学科:
+  tag_id: 489
+  tag_type: true
+  tag_name: 心身健康学科
+  com_count: 0
+情報衣環境学科:
+  tag_id: 490
+  tag_type: true
+  tag_name: 情報衣環境学科
+  com_count: 0
+衣環境学コース:
+  tag_id: 491
+  tag_type: true
+  tag_name: 衣環境学コース
+  com_count: 0
+生活情報通信科学コース:
+  tag_id: 492
+  tag_type: true
+  tag_name: 生活情報通信科学コース
+  com_count: 0
+人文社会学科:
+  tag_id: 493
+  tag_type: true
+  tag_name: 人文社会学科
+  com_count: 0
+化学生物環境学科:
+  tag_id: 494
+  tag_type: true
+  tag_name: 化学生物環境学科
+  com_count: 0
+化学コース:
+  tag_id: 495
+  tag_type: true
+  tag_name: 化学コース
+  com_count: 0
+生物科学コース:
+  tag_id: 496
+  tag_type: true
+  tag_name: 生物科学コース
+  com_count: 0
+環境科学コース:
+  tag_id: 497
+  tag_type: true
+  tag_name: 環境科学コース
+  com_count: 0
+大阪教育大学:
+  tag_id: 498
+  tag_type: true
+  tag_name: 大阪教育大学
+  com_count: 0
+小中教育専攻　学校教育コース:
+  tag_id: 499
+  tag_type: true
+  tag_name: 小中教育専攻　学校教育コース
+  com_count: 0
+中等教育専攻　技術教育コース:
+  tag_id: 500
+  tag_type: true
+  tag_name: 中等教育専攻　技術教育コース
+  com_count: 0
+小中教育専攻　国語教育コース:
+  tag_id: 501
+  tag_type: true
+  tag_name: 小中教育専攻　国語教育コース
+  com_count: 0
+中等教育専攻　国語教育コース:
+  tag_id: 502
+  tag_type: true
+  tag_name: 中等教育専攻　国語教育コース
+  com_count: 0
+小中教育専攻　英語教育コース:
+  tag_id: 503
+  tag_type: true
+  tag_name: 小中教育専攻　英語教育コース
+  com_count: 0
+中等教育専攻　英語教育コース:
+  tag_id: 504
+  tag_type: true
+  tag_name: 中等教育専攻　英語教育コース
+  com_count: 0
+小中教育専攻　社会科教育コース:
+  tag_id: 505
+  tag_type: true
+  tag_name: 小中教育専攻　社会科教育コース
+  com_count: 0
+中等教育専攻　社会科教育コース:
+  tag_id: 506
+  tag_type: true
+  tag_name: 中等教育専攻　社会科教育コース
+  com_count: 0
+小中教育専攻　数学教育コース:
+  tag_id: 507
+  tag_type: true
+  tag_name: 小中教育専攻　数学教育コース
+  com_count: 0
+中等教育専攻　数学教育コース:
+  tag_id: 508
+  tag_type: true
+  tag_name: 中等教育専攻　数学教育コース
+  com_count: 0
+小中教育専攻　理科教育コース:
+  tag_id: 509
+  tag_type: true
+  tag_name: 小中教育専攻　理科教育コース
+  com_count: 0
+中等教育専攻　理科教育コース:
+  tag_id: 510
+  tag_type: true
+  tag_name: 中等教育専攻　理科教育コース
+  com_count: 0
+小中教育専攻　保健体育コース:
+  tag_id: 511
+  tag_type: true
+  tag_name: 小中教育専攻　保健体育コース
+  com_count: 0
+中等教育専攻　保健体育コース:
+  tag_id: 512
+  tag_type: true
+  tag_name: 中等教育専攻　保健体育コース
+  com_count: 0
+小中教育専攻　家政教育コース:
+  tag_id: 513
+  tag_type: true
+  tag_name: 小中教育専攻　家政教育コース
+  com_count: 0
+中等教育専攻　家政教育コース:
+  tag_id: 514
+  tag_type: true
+  tag_name: 中等教育専攻　家政教育コース
+  com_count: 0
+小中教育専攻　音楽教育コース:
+  tag_id: 515
+  tag_type: true
+  tag_name: 小中教育専攻　音楽教育コース
+  com_count: 0
+中等教育専攻　音楽教育コース:
+  tag_id: 516
+  tag_type: true
+  tag_name: 中等教育専攻　音楽教育コース
+  com_count: 0
+小中教育専攻　美術・書道教育コース:
+  tag_id: 517
+  tag_type: true
+  tag_name: 小中教育専攻　美術・書道教育コース
+  com_count: 0
+中等教育専攻　美術・書道教育コース:
+  tag_id: 518
+  tag_type: true
+  tag_name: 中等教育専攻　美術・書道教育コース
+  com_count: 0
+小学校教育専攻　昼間コース:
+  tag_id: 519
+  tag_type: true
+  tag_name: 小学校教育専攻　昼間コース
+  com_count: 0
+小学校教育専攻　夜間５年コース:
+  tag_id: 520
+  tag_type: true
+  tag_name: 小学校教育専攻　夜間５年コース
+  com_count: 0
+教育協働学科:
+  tag_id: 521
+  tag_type: true
+  tag_name: 教育協働学科
+  com_count: 0
+教育心理科学専攻:
+  tag_id: 522
+  tag_type: true
+  tag_name: 教育心理科学専攻
+  com_count: 0
+理数情報専攻　数理情報コース:
+  tag_id: 523
+  tag_type: true
+  tag_name: 理数情報専攻　数理情報コース
+  com_count: 0
+理数情報専攻　自然科学コース:
+  tag_id: 524
+  tag_type: true
+  tag_name: 理数情報専攻　自然科学コース
+  com_count: 0
+スポーツ科学専攻:
+  tag_id: 525
+  tag_type: true
+  tag_name: スポーツ科学専攻
+  com_count: 0
+健康安全科学専攻:
+  tag_id: 526
+  tag_type: true
+  tag_name: 健康安全科学専攻
+  com_count: 0
+グローバル教育専攻　英語コミュニケーションコース:
+  tag_id: 527
+  tag_type: true
+  tag_name: グローバル教育専攻　英語コミュニケーションコース
+  com_count: 0
+グローバル教育専攻　多文化リテラシーコース:
+  tag_id: 528
+  tag_type: true
+  tag_name: グローバル教育専攻　多文化リテラシーコース
+  com_count: 0
+芸術表現専攻　美術表現コース:
+  tag_id: 529
+  tag_type: true
+  tag_name: 芸術表現専攻　美術表現コース
+  com_count: 0
+芸術表現専攻　音楽表現コース:
+  tag_id: 530
+  tag_type: true
+  tag_name: 芸術表現専攻　音楽表現コース
+  com_count: 0
+東京医科歯科大学:
+  tag_id: 531
+  tag_type: true
+  tag_name: 東京医科歯科大学
+  com_count: 0
+保健衛生学科:
+  tag_id: 532
+  tag_type: true
+  tag_name: 保健衛生学科
+  com_count: 0
+検査技術学専攻:
+  tag_id: 533
+  tag_type: true
+  tag_name: 検査技術学専攻
+  com_count: 0
+口腔保健学科:
+  tag_id: 534
+  tag_type: true
+  tag_name: 口腔保健学科
+  com_count: 0
+口腔保健衛生学専攻:
+  tag_id: 535
+  tag_type: true
+  tag_name: 口腔保健衛生学専攻
+  com_count: 0
+口腔保健工学専攻:
+  tag_id: 536
+  tag_type: true
+  tag_name: 口腔保健工学専攻
+  com_count: 0
+筑波大学:
+  tag_id: 537
+  tag_type: true
+  tag_name: 筑波大学
+  com_count: 0
+芸術専門学群:
+  tag_id: 538
+  tag_type: true
+  tag_name: 芸術専門学群
+  com_count: 0
+体育専門学群:
+  tag_id: 539
+  tag_type: true
+  tag_name: 体育専門学群
+  com_count: 0
+人文・文化学群:
+  tag_id: 540
+  tag_type: true
+  tag_name: 人文・文化学群
+  com_count: 0
+比較文化学類:
+  tag_id: 541
+  tag_type: true
+  tag_name: 比較文化学類
+  com_count: 0
+人文学類:
+  tag_id: 542
+  tag_type: true
+  tag_name: 人文学類
+  com_count: 0
+日本語・日本文化学類:
+  tag_id: 543
+  tag_type: true
+  tag_name: 日本語・日本文化学類
+  com_count: 0
+社会・国際学群:
+  tag_id: 544
+  tag_type: true
+  tag_name: 社会・国際学群
+  com_count: 0
+社会学類:
+  tag_id: 545
+  tag_type: true
+  tag_name: 社会学類
+  com_count: 0
+国際総合学類:
+  tag_id: 546
+  tag_type: true
+  tag_name: 国際総合学類
+  com_count: 0
+人間学群:
+  tag_id: 547
+  tag_type: true
+  tag_name: 人間学群
+  com_count: 0
+教育学類:
+  tag_id: 548
+  tag_type: true
+  tag_name: 教育学類
+  com_count: 0
+心理学類:
+  tag_id: 549
+  tag_type: true
+  tag_name: 心理学類
+  com_count: 0
+障害科学類:
+  tag_id: 550
+  tag_type: true
+  tag_name: 障害科学類
+  com_count: 0
+生命環境学群:
+  tag_id: 551
+  tag_type: true
+  tag_name: 生命環境学群
+  com_count: 0
+生物学類:
+  tag_id: 552
+  tag_type: true
+  tag_name: 生物学類
+  com_count: 0
+生物資源学類:
+  tag_id: 553
+  tag_type: true
+  tag_name: 生物資源学類
+  com_count: 0
+地球学類:
+  tag_id: 554
+  tag_type: true
+  tag_name: 地球学類
+  com_count: 0
+理工学群:
+  tag_id: 555
+  tag_type: true
+  tag_name: 理工学群
+  com_count: 0
+数学類:
+  tag_id: 556
+  tag_type: true
+  tag_name: 数学類
+  com_count: 0
+物理学類:
+  tag_id: 557
+  tag_type: true
+  tag_name: 物理学類
+  com_count: 0
+化学類:
+  tag_id: 558
+  tag_type: true
+  tag_name: 化学類
+  com_count: 0
+応用理工学類:
+  tag_id: 559
+  tag_type: true
+  tag_name: 応用理工学類
+  com_count: 0
+工学システム学類:
+  tag_id: 560
+  tag_type: true
+  tag_name: 工学システム学類
+  com_count: 0
+社会工学類:
+  tag_id: 561
+  tag_type: true
+  tag_name: 社会工学類
+  com_count: 0
+情報学群:
+  tag_id: 562
+  tag_type: true
+  tag_name: 情報学群
+  com_count: 0
+情報科学類:
+  tag_id: 563
+  tag_type: true
+  tag_name: 情報科学類
+  com_count: 0
+情報メディア創成学類:
+  tag_id: 564
+  tag_type: true
+  tag_name: 情報メディア創成学類
+  com_count: 0
+知識情報・図書館学類:
+  tag_id: 565
+  tag_type: true
+  tag_name: 知識情報・図書館学類
+  com_count: 0
+医学群:
+  tag_id: 566
+  tag_type: true
+  tag_name: 医学群
+  com_count: 0
+医学類:
+  tag_id: 567
+  tag_type: true
+  tag_name: 医学類
+  com_count: 0
+看護学類:
+  tag_id: 568
+  tag_type: true
+  tag_name: 看護学類
+  com_count: 0
+医療科学類:
+  tag_id: 569
+  tag_type: true
+  tag_name: 医療科学類
+  com_count: 0
+鳥取大学:
+  tag_id: 570
+  tag_type: true
+  tag_name: 鳥取大学
+  com_count: 0
+機械物理系学科:
+  tag_id: 571
+  tag_type: true
+  tag_name: 機械物理系学科
+  com_count: 0
+電気情報系学科:
+  tag_id: 572
+  tag_type: true
+  tag_name: 電気情報系学科
+  com_count: 0
+化学バイオ系学科:
+  tag_id: 573
+  tag_type: true
+  tag_name: 化学バイオ系学科
+  com_count: 0
+社会システム土木系学科:
+  tag_id: 574
+  tag_type: true
+  tag_name: 社会システム土木系学科
+  com_count: 0
+地域学部:
+  tag_id: 575
+  tag_type: true
+  tag_name: 地域学部
+  com_count: 0
+地域学科:
+  tag_id: 576
+  tag_type: true
+  tag_name: 地域学科
+  com_count: 0
+地域創造コース:
+  tag_id: 577
+  tag_type: true
+  tag_name: 地域創造コース
+  com_count: 0
+人間形成コース:
+  tag_id: 578
+  tag_type: true
+  tag_name: 人間形成コース
+  com_count: 0
+国際地域文化コース:
+  tag_id: 579
+  tag_type: true
+  tag_name: 国際地域文化コース
+  com_count: 0
+生命環境農学科:
+  tag_id: 580
+  tag_type: true
+  tag_name: 生命環境農学科
+  com_count: 0
+信州大学:
+  tag_id: 581
+  tag_type: true
+  tag_name: 信州大学
+  com_count: 0
+現代教育コース:
+  tag_id: 582
+  tag_type: true
+  tag_name: 現代教育コース
+  com_count: 0
+国語教育コース:
+  tag_id: 583
+  tag_type: true
+  tag_name: 国語教育コース
+  com_count: 0
+社会科教育コース:
+  tag_id: 584
+  tag_type: true
+  tag_name: 社会科教育コース
+  com_count: 0
+数学教育コース:
+  tag_id: 585
+  tag_type: true
+  tag_name: 数学教育コース
+  com_count: 0
+理科教育コース:
+  tag_id: 586
+  tag_type: true
+  tag_name: 理科教育コース
+  com_count: 0
+音楽教育コース:
+  tag_id: 587
+  tag_type: true
+  tag_name: 音楽教育コース
+  com_count: 0
+図画工作・美術教育コース:
+  tag_id: 588
+  tag_type: true
+  tag_name: 図画工作・美術教育コース
+  com_count: 0
+保健体育コース:
+  tag_id: 589
+  tag_type: true
+  tag_name: 保健体育コース
+  com_count: 0
+ものづくり・技術教育コース:
+  tag_id: 590
+  tag_type: true
+  tag_name: ものづくり・技術教育コース
+  com_count: 0
+家庭科教育コース:
+  tag_id: 591
+  tag_type: true
+  tag_name: 家庭科教育コース
+  com_count: 0
+野外教育コース:
+  tag_id: 592
+  tag_type: true
+  tag_name: 野外教育コース
+  com_count: 0
+心理支援教育コース:
+  tag_id: 593
+  tag_type: true
+  tag_name: 心理支援教育コース
+  com_count: 0
+経法学部:
+  tag_id: 594
+  tag_type: true
+  tag_name: 経法学部
+  com_count: 0
+総合法律学科:
+  tag_id: 595
+  tag_type: true
+  tag_name: 総合法律学科
+  com_count: 0
+応用経済学科:
+  tag_id: 596
+  tag_type: true
+  tag_name: 応用経済学科
+  com_count: 0
+電子情報システム工学科:
+  tag_id: 597
+  tag_type: true
+  tag_name: 電子情報システム工学科
+  com_count: 0
+水環境・土木工学科:
+  tag_id: 598
+  tag_type: true
+  tag_name: 水環境・土木工学科
+  com_count: 0
+繊維学部:
+  tag_id: 599
+  tag_type: true
+  tag_name: 繊維学部
+  com_count: 0
+化学・材料学科:
+  tag_id: 600
+  tag_type: true
+  tag_name: 化学・材料学科
+  com_count: 0
+先進繊維・感性工学科:
+  tag_id: 601
+  tag_type: true
+  tag_name: 先進繊維・感性工学科
+  com_count: 0
+機械・ロボット学科:
+  tag_id: 602
+  tag_type: true
+  tag_name: 機械・ロボット学科
+  com_count: 0
+農学生命科学科:
+  tag_id: 603
+  tag_type: true
+  tag_name: 農学生命科学科
+  com_count: 0
+動物資源生命科学コース:
+  tag_id: 604
+  tag_type: true
+  tag_name: 動物資源生命科学コース
+  com_count: 0
+植物資源科学コース:
+  tag_id: 605
+  tag_type: true
+  tag_name: 植物資源科学コース
+  com_count: 0
+森林・環境共生学コース:
+  tag_id: 606
+  tag_type: true
+  tag_name: 森林・環境共生学コース
+  com_count: 0
+生命機能科学コース:
+  tag_id: 607
+  tag_type: true
+  tag_name: 生命機能科学コース
+  com_count: 0
+自然情報学コース:
+  tag_id: 608
+  tag_type: true
+  tag_name: 自然情報学コース
+  com_count: 0
+理学科:
+  tag_id: 609
+  tag_type: true
+  tag_name: 理学科
+  com_count: 0
+物理学コース:
+  tag_id: 610
+  tag_type: true
+  tag_name: 物理学コース
+  com_count: 0
+地球学コース:
+  tag_id: 611
+  tag_type: true
+  tag_name: 地球学コース
+  com_count: 0
+生物学コース:
+  tag_id: 612
+  tag_type: true
+  tag_name: 生物学コース
+  com_count: 0
+物質循環学コース:
+  tag_id: 613
+  tag_type: true
+  tag_name: 物質循環学コース
+  com_count: 0
+上越教育大学:
+  tag_id: 614
+  tag_type: true
+  tag_name: 上越教育大学
+  com_count: 0
+浜松医科大学:
+  tag_id: 615
+  tag_type: true
+  tag_name: 浜松医科大学
+  com_count: 0
+岩手大学:
+  tag_id: 616
+  tag_type: true
+  tag_name: 岩手大学
+  com_count: 0
+中学校教育コース国語サブコース:
+  tag_id: 617
+  tag_type: true
+  tag_name: 中学校教育コース国語サブコース
+  com_count: 0
+中学校教育コース社会サブコース:
+  tag_id: 618
+  tag_type: true
+  tag_name: 中学校教育コース社会サブコース
+  com_count: 0
+中学校教育コース技術サブコース:
+  tag_id: 619
+  tag_type: true
+  tag_name: 中学校教育コース技術サブコース
+  com_count: 0
+中学校教育コース家庭サブコース:
+  tag_id: 620
+  tag_type: true
+  tag_name: 中学校教育コース家庭サブコース
+  com_count: 0
+中学校教育コース英語サブコース:
+  tag_id: 621
+  tag_type: true
+  tag_name: 中学校教育コース英語サブコース
+  com_count: 0
+中学校教育コース音楽サブコース:
+  tag_id: 622
+  tag_type: true
+  tag_name: 中学校教育コース音楽サブコース
+  com_count: 0
+中学校教育コース美術サブコース:
+  tag_id: 623
+  tag_type: true
+  tag_name: 中学校教育コース美術サブコース
+  com_count: 0
+中学校教育コース保健体育サブコース:
+  tag_id: 624
+  tag_type: true
+  tag_name: 中学校教育コース保健体育サブコース
+  com_count: 0
+理数教育コース数学サブコース:
+  tag_id: 625
+  tag_type: true
+  tag_name: 理数教育コース数学サブコース
+  com_count: 0
+理数教育コース理科サブコース:
+  tag_id: 626
+  tag_type: true
+  tag_name: 理数教育コース理科サブコース
+  com_count: 0
+化学・生命理工学科:
+  tag_id: 627
+  tag_type: true
+  tag_name: 化学・生命理工学科
+  com_count: 0
+生命コース:
+  tag_id: 628
+  tag_type: true
+  tag_name: 生命コース
+  com_count: 0
+物理・材料理工学科:
+  tag_id: 629
+  tag_type: true
+  tag_name: 物理・材料理工学科
+  com_count: 0
+数理・物理コース:
+  tag_id: 630
+  tag_type: true
+  tag_name: 数理・物理コース
+  com_count: 0
+マテリアルコース:
+  tag_id: 631
+  tag_type: true
+  tag_name: マテリアルコース
+  com_count: 0
+システム創成工学科:
+  tag_id: 632
+  tag_type: true
+  tag_name: システム創成工学科
+  com_count: 0
+電気電子通信コース:
+  tag_id: 633
+  tag_type: true
+  tag_name: 電気電子通信コース
+  com_count: 0
+知能・メディア情報コース:
+  tag_id: 634
+  tag_type: true
+  tag_name: 知能・メディア情報コース
+  com_count: 0
+機械科学コース:
+  tag_id: 635
+  tag_type: true
+  tag_name: 機械科学コース
+  com_count: 0
+社会基盤・環境コース:
+  tag_id: 636
+  tag_type: true
+  tag_name: 社会基盤・環境コース
+  com_count: 0
+人間文化課程:
+  tag_id: 637
+  tag_type: true
+  tag_name: 人間文化課程
+  com_count: 0
+地域政策課程:
+  tag_id: 638
+  tag_type: true
+  tag_name: 地域政策課程
+  com_count: 0
+動物科学科:
+  tag_id: 639
+  tag_type: true
+  tag_name: 動物科学科
+  com_count: 0
+応用生物化学科:
+  tag_id: 640
+  tag_type: true
+  tag_name: 応用生物化学科
+  com_count: 0
+植物生命科学科:
+  tag_id: 641
+  tag_type: true
+  tag_name: 植物生命科学科
+  com_count: 0
+食料生産環境学科:
+  tag_id: 642
+  tag_type: true
+  tag_name: 食料生産環境学科
+  com_count: 0
+農村地域デザイン学コース:
+  tag_id: 643
+  tag_type: true
+  tag_name: 農村地域デザイン学コース
+  com_count: 0
+食産業システム学コース:
+  tag_id: 644
+  tag_type: true
+  tag_name: 食産業システム学コース
+  com_count: 0
+水産システム学コース:
+  tag_id: 645
+  tag_type: true
+  tag_name: 水産システム学コース
+  com_count: 0
+名古屋工業大学:
+  tag_id: 646
+  tag_type: true
+  tag_name: 名古屋工業大学
+  com_count: 0
+電気・機械工学科:
+  tag_id: 647
+  tag_type: true
+  tag_name: 電気・機械工学科
+  com_count: 0
+生命・応用化学科:
+  tag_id: 648
+  tag_type: true
+  tag_name: 生命・応用化学科
+  com_count: 0
+社会工学科:
+  tag_id: 649
+  tag_type: true
+  tag_name: 社会工学科
+  com_count: 0
+建築・デザイン分野:
+  tag_id: 650
+  tag_type: true
+  tag_name: 建築・デザイン分野
+  com_count: 0
+環境都市分野:
+  tag_id: 651
+  tag_type: true
+  tag_name: 環境都市分野
+  com_count: 0
+経営システム分野:
+  tag_id: 652
+  tag_type: true
+  tag_name: 経営システム分野
+  com_count: 0
+二部物質工学科:
+  tag_id: 653
+  tag_type: true
+  tag_name: 二部物質工学科
+  com_count: 0
+二部機械工学科:
+  tag_id: 654
+  tag_type: true
+  tag_name: 二部機械工学科
+  com_count: 0
+二部電気情報工学科:
+  tag_id: 655
+  tag_type: true
+  tag_name: 二部電気情報工学科
+  com_count: 0
+二部社会開発工学科:
+  tag_id: 656
+  tag_type: true
+  tag_name: 二部社会開発工学科
+  com_count: 0
+創造工学教育課程:
+  tag_id: 657
+  tag_type: true
+  tag_name: 創造工学教育課程
+  com_count: 0
+材料・エネルギーコース:
+  tag_id: 658
+  tag_type: true
+  tag_name: 材料・エネルギーコース
+  com_count: 0
+情報・社会コース:
+  tag_id: 659
+  tag_type: true
+  tag_name: 情報・社会コース
+  com_count: 0
+滋賀医科大学:
+  tag_id: 660
+  tag_type: true
+  tag_name: 滋賀医科大学
+  com_count: 0
+九州大学:
+  tag_id: 661
+  tag_type: true
+  tag_name: 九州大学
+  com_count: 0
+芸術工学部:
+  tag_id: 662
+  tag_type: true
+  tag_name: 芸術工学部
+  com_count: 0
+音響設計学科:
+  tag_id: 663
+  tag_type: true
+  tag_name: 音響設計学科
+  com_count: 0
+画像設計学科:
+  tag_id: 664
+  tag_type: true
+  tag_name: 画像設計学科
+  com_count: 0
+環境設計学科:
+  tag_id: 665
+  tag_type: true
+  tag_name: 環境設計学科
+  com_count: 0
+芸術情報設計学科:
+  tag_id: 666
+  tag_type: true
+  tag_name: 芸術情報設計学科
+  com_count: 0
+工業設計学科:
+  tag_id: 667
+  tag_type: true
+  tag_name: 工業設計学科
+  com_count: 0
+生物資源環境学科:
+  tag_id: 668
+  tag_type: true
+  tag_name: 生物資源環境学科
+  com_count: 0
+経済・経営学科:
+  tag_id: 669
+  tag_type: true
+  tag_name: 経済・経営学科
+  com_count: 0
+経済工学科:
+  tag_id: 670
+  tag_type: true
+  tag_name: 経済工学科
+  com_count: 0
+臨床薬学科＜６年制＞:
+  tag_id: 671
+  tag_type: true
+  tag_name: 臨床薬学科＜６年制＞
+  com_count: 0
+電気情報工学科:
+  tag_id: 672
+  tag_type: true
+  tag_name: 電気情報工学科
+  com_count: 0
+物質科学工学科:
+  tag_id: 673
+  tag_type: true
+  tag_name: 物質科学工学科
+  com_count: 0
+地球環境工学科:
+  tag_id: 674
+  tag_type: true
+  tag_name: 地球環境工学科
+  com_count: 0
+エネルギー科学科:
+  tag_id: 675
+  tag_type: true
+  tag_name: エネルギー科学科
+  com_count: 0
+機械航空工学科:
+  tag_id: 676
+  tag_type: true
+  tag_name: 機械航空工学科
+  com_count: 0
+共創学部:
+  tag_id: 677
+  tag_type: true
+  tag_name: 共創学部
+  com_count: 0
+共創学科:
+  tag_id: 678
+  tag_type: true
+  tag_name: 共創学科
+  com_count: 0
+小樽商科大学:
+  tag_id: 679
+  tag_type: true
+  tag_name: 小樽商科大学
+  com_count: 0
+商学部:
+  tag_id: 680
+  tag_type: true
+  tag_name: 商学部
+  com_count: 0
+企業法学科（昼間コース）:
+  tag_id: 681
+  tag_type: true
+  tag_name: 企業法学科（昼間コース）
+  com_count: 0
+社会情報学科（昼間コース）:
+  tag_id: 682
+  tag_type: true
+  tag_name: 社会情報学科（昼間コース）
+  com_count: 0
+商学科（昼間コース）:
+  tag_id: 683
+  tag_type: true
+  tag_name: 商学科（昼間コース）
+  com_count: 0
+商学科（夜間主コース）:
+  tag_id: 684
+  tag_type: true
+  tag_name: 商学科（夜間主コース）
+  com_count: 0
+企業法学科（夜間主コース）:
+  tag_id: 685
+  tag_type: true
+  tag_name: 企業法学科（夜間主コース）
+  com_count: 0
+社会情報学科（夜間主コース）:
+  tag_id: 686
+  tag_type: true
+  tag_name: 社会情報学科（夜間主コース）
+  com_count: 0
+旭川医科大学:
+  tag_id: 687
+  tag_type: true
+  tag_name: 旭川医科大学
+  com_count: 0
+一橋大学:
+  tag_id: 688
+  tag_type: true
+  tag_name: 一橋大学
+  com_count: 0
+社会学部:
+  tag_id: 689
+  tag_type: true
+  tag_name: 社会学部
+  com_count: 0
+社会学科:
+  tag_id: 690
+  tag_type: true
+  tag_name: 社会学科
+  com_count: 0
+商学科:
+  tag_id: 691
+  tag_type: true
+  tag_name: 商学科
+  com_count: 0
+山形大学:
+  tag_id: 692
+  tag_type: true
+  tag_name: 山形大学
+  com_count: 0
+高分子・有機材料工学科:
+  tag_id: 693
+  tag_type: true
+  tag_name: 高分子・有機材料工学科
+  com_count: 0
+情報・エレクトロニクス学科:
+  tag_id: 694
+  tag_type: true
+  tag_name: 情報・エレクトロニクス学科
+  com_count: 0
+化学・バイオ工学科:
+  tag_id: 695
+  tag_type: true
+  tag_name: 化学・バイオ工学科
+  com_count: 0
+建築・デザイン学科:
+  tag_id: 696
+  tag_type: true
+  tag_name: 建築・デザイン学科
+  com_count: 0
+人文社会科学科:
+  tag_id: 697
+  tag_type: true
+  tag_name: 人文社会科学科
+  com_count: 0
+地域教育文化学部:
+  tag_id: 698
+  tag_type: true
+  tag_name: 地域教育文化学部
+  com_count: 0
+地域教育文化学科:
+  tag_id: 699
+  tag_type: true
+  tag_name: 地域教育文化学科
+  com_count: 0
+児童教育コース:
+  tag_id: 700
+  tag_type: true
+  tag_name: 児童教育コース
+  com_count: 0
+文化創生コース:
+  tag_id: 701
+  tag_type: true
+  tag_name: 文化創生コース
+  com_count: 0
+食料生命環境学科:
+  tag_id: 702
+  tag_type: true
+  tag_name: 食料生命環境学科
+  com_count: 0
+福島大学:
+  tag_id: 703
+  tag_type: true
+  tag_name: 福島大学
+  com_count: 0
+人文社会学群人間発達文化学類:
+  tag_id: 704
+  tag_type: true
+  tag_name: 人文社会学群人間発達文化学類
+  com_count: 0
+心理学・幼児教育コース:
+  tag_id: 705
+  tag_type: true
+  tag_name: 心理学・幼児教育コース
+  com_count: 0
+特別支援・生活科学コース:
+  tag_id: 706
+  tag_type: true
+  tag_name: 特別支援・生活科学コース
+  com_count: 0
+芸術・表現コース:
+  tag_id: 707
+  tag_type: true
+  tag_name: 芸術・表現コース
+  com_count: 0
+人文科学コース:
+  tag_id: 708
+  tag_type: true
+  tag_name: 人文科学コース
+  com_count: 0
+数理自然科学コース:
+  tag_id: 709
+  tag_type: true
+  tag_name: 数理自然科学コース
+  com_count: 0
+スポーツ健康科学コース:
+  tag_id: 710
+  tag_type: true
+  tag_name: スポーツ健康科学コース
+  com_count: 0
+人文社会学群行政政策学類:
+  tag_id: 711
+  tag_type: true
+  tag_name: 人文社会学群行政政策学類
+  com_count: 0
+昼間:
+  tag_id: 712
+  tag_type: true
+  tag_name: 昼間
+  com_count: 0
+夜間主:
+  tag_id: 713
+  tag_type: true
+  tag_name: 夜間主
+  com_count: 0
+人文社会学群経済経営学類:
+  tag_id: 714
+  tag_type: true
+  tag_name: 人文社会学群経済経営学類
+  com_count: 0
+経済学コース:
+  tag_id: 715
+  tag_type: true
+  tag_name: 経済学コース
+  com_count: 0
+経営学コース:
+  tag_id: 716
+  tag_type: true
+  tag_name: 経営学コース
+  com_count: 0
+理工学群共生システム理工学類:
+  tag_id: 717
+  tag_type: true
+  tag_name: 理工学群共生システム理工学類
+  com_count: 0
+数理・情報科学コース:
+  tag_id: 718
+  tag_type: true
+  tag_name: 数理・情報科学コース
+  com_count: 0
+経営システムコース:
+  tag_id: 719
+  tag_type: true
+  tag_name: 経営システムコース
+  com_count: 0
+物理・システム工学コース:
+  tag_id: 720
+  tag_type: true
+  tag_name: 物理・システム工学コース
+  com_count: 0
+物理科学コース:
+  tag_id: 721
+  tag_type: true
+  tag_name: 物理科学コース
+  com_count: 0
+エネルギーコース:
+  tag_id: 722
+  tag_type: true
+  tag_name: エネルギーコース
+  com_count: 0
+生物環境コース:
+  tag_id: 723
+  tag_type: true
+  tag_name: 生物環境コース
+  com_count: 0
+地球環境コース:
+  tag_id: 724
+  tag_type: true
+  tag_name: 地球環境コース
+  com_count: 0
+社会計画コース:
+  tag_id: 725
+  tag_type: true
+  tag_name: 社会計画コース
+  com_count: 0
+心理・生理コース:
+  tag_id: 726
+  tag_type: true
+  tag_name: 心理・生理コース
+  com_count: 0
+農学群食農学類:
+  tag_id: 727
+  tag_type: true
+  tag_name: 農学群食農学類
+  com_count: 0
+三重大学:
+  tag_id: 728
+  tag_type: true
+  tag_name: 三重大学
+  com_count: 0
+国語教育コース初等教育選修:
+  tag_id: 729
+  tag_type: true
+  tag_name: 国語教育コース初等教育選修
+  com_count: 0
+社会科教育コース初等教育選修:
+  tag_id: 730
+  tag_type: true
+  tag_name: 社会科教育コース初等教育選修
+  com_count: 0
+数学教育・情報教育コース数学教育専攻初等教育選修:
+  tag_id: 731
+  tag_type: true
+  tag_name: 数学教育・情報教育コース数学教育専攻初等教育選修
+  com_count: 0
+理科教育コース初等教育選修:
+  tag_id: 732
+  tag_type: true
+  tag_name: 理科教育コース初等教育選修
+  com_count: 0
+音楽教育コース初等教育選修:
+  tag_id: 733
+  tag_type: true
+  tag_name: 音楽教育コース初等教育選修
+  com_count: 0
+美術教育コース初等教育選修:
+  tag_id: 734
+  tag_type: true
+  tag_name: 美術教育コース初等教育選修
+  com_count: 0
+保健体育コース初等教育選修:
+  tag_id: 735
+  tag_type: true
+  tag_name: 保健体育コース初等教育選修
+  com_count: 0
+技術・ものづくり教育コース初等教育選修:
+  tag_id: 736
+  tag_type: true
+  tag_name: 技術・ものづくり教育コース初等教育選修
+  com_count: 0
+家政教育コース初等教育選修:
+  tag_id: 737
+  tag_type: true
+  tag_name: 家政教育コース初等教育選修
+  com_count: 0
+英語教育コース初等教育選修:
+  tag_id: 738
+  tag_type: true
+  tag_name: 英語教育コース初等教育選修
+  com_count: 0
+学校教育コース　教育学専攻:
+  tag_id: 739
+  tag_type: true
+  tag_name: 学校教育コース　教育学専攻
+  com_count: 0
+国語教育コース中等教育選修:
+  tag_id: 740
+  tag_type: true
+  tag_name: 国語教育コース中等教育選修
+  com_count: 0
+社会科教育コース中等教育選修:
+  tag_id: 741
+  tag_type: true
+  tag_name: 社会科教育コース中等教育選修
+  com_count: 0
+数学教育・情報教育コース数学教育専攻中等教育選修:
+  tag_id: 742
+  tag_type: true
+  tag_name: 数学教育・情報教育コース数学教育専攻中等教育選修
+  com_count: 0
+数学教育・情報教育コース情報教育専攻中等教育選修:
+  tag_id: 743
+  tag_type: true
+  tag_name: 数学教育・情報教育コース情報教育専攻中等教育選修
+  com_count: 0
+理科教育コース中等教育選修:
+  tag_id: 744
+  tag_type: true
+  tag_name: 理科教育コース中等教育選修
+  com_count: 0
+音楽教育コース中等教育選修:
+  tag_id: 745
+  tag_type: true
+  tag_name: 音楽教育コース中等教育選修
+  com_count: 0
+美術教育コース中等教育選修:
+  tag_id: 746
+  tag_type: true
+  tag_name: 美術教育コース中等教育選修
+  com_count: 0
+保健体育コース中等教育選修:
+  tag_id: 747
+  tag_type: true
+  tag_name: 保健体育コース中等教育選修
+  com_count: 0
+技術・ものづくり教育コース中等教育選修:
+  tag_id: 748
+  tag_type: true
+  tag_name: 技術・ものづくり教育コース中等教育選修
+  com_count: 0
+家政教育コース中等教育選修:
+  tag_id: 749
+  tag_type: true
+  tag_name: 家政教育コース中等教育選修
+  com_count: 0
+英語教育コース中等教育選修:
+  tag_id: 750
+  tag_type: true
+  tag_name: 英語教育コース中等教育選修
+  com_count: 0
+学校教育コース　教育心理学専攻:
+  tag_id: 751
+  tag_type: true
+  tag_name: 学校教育コース　教育心理学専攻
+  com_count: 0
+総合工学コース:
+  tag_id: 752
+  tag_type: true
+  tag_name: 総合工学コース
+  com_count: 0
+法律経済学科:
+  tag_id: 753
+  tag_type: true
+  tag_name: 法律経済学科
+  com_count: 0
+文化学科:
+  tag_id: 754
+  tag_type: true
+  tag_name: 文化学科
+  com_count: 0
+生物資源学部:
+  tag_id: 755
+  tag_type: true
+  tag_name: 生物資源学部
+  com_count: 0
+共生環境学科:
+  tag_id: 756
+  tag_type: true
+  tag_name: 共生環境学科
+  com_count: 0
+資源循環学科:
+  tag_id: 757
+  tag_type: true
+  tag_name: 資源循環学科
+  com_count: 0
+生物圏生命化学科:
+  tag_id: 758
+  tag_type: true
+  tag_name: 生物圏生命化学科
+  com_count: 0
+奈良教育大学:
+  tag_id: 759
+  tag_type: true
+  tag_name: 奈良教育大学
+  com_count: 0
+教育発達専攻教育学専修:
+  tag_id: 760
+  tag_type: true
+  tag_name: 教育発達専攻教育学専修
+  com_count: 0
+教科教育専攻国語教育専修初等教育履修分野:
+  tag_id: 761
+  tag_type: true
+  tag_name: 教科教育専攻国語教育専修初等教育履修分野
+  com_count: 0
+伝統文化教育専攻書道教育専修:
+  tag_id: 762
+  tag_type: true
+  tag_name: 伝統文化教育専攻書道教育専修
+  com_count: 0
+教育発達専攻心理学専修:
+  tag_id: 763
+  tag_type: true
+  tag_name: 教育発達専攻心理学専修
+  com_count: 0
+教育発達専攻幼年教育専修:
+  tag_id: 764
+  tag_type: true
+  tag_name: 教育発達専攻幼年教育専修
+  com_count: 0
+教育発達専攻特別支援教育専修:
+  tag_id: 765
+  tag_type: true
+  tag_name: 教育発達専攻特別支援教育専修
+  com_count: 0
+教科教育専攻国語教育専修中等教育履修分野:
+  tag_id: 766
+  tag_type: true
+  tag_name: 教科教育専攻国語教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻社会科教育専修初等教育履修分野:
+  tag_id: 767
+  tag_type: true
+  tag_name: 教科教育専攻社会科教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻社会科教育専修中等教育履修分野:
+  tag_id: 768
+  tag_type: true
+  tag_name: 教科教育専攻社会科教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻数学教育専修初等教育履修分野:
+  tag_id: 769
+  tag_type: true
+  tag_name: 教科教育専攻数学教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻数学教育専修中等教育履修分野:
+  tag_id: 770
+  tag_type: true
+  tag_name: 教科教育専攻数学教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻理科教育専修初等教育履修分野:
+  tag_id: 771
+  tag_type: true
+  tag_name: 教科教育専攻理科教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻理科教育専修中等教育履修分野:
+  tag_id: 772
+  tag_type: true
+  tag_name: 教科教育専攻理科教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻音楽教育専修初等教育履修分野:
+  tag_id: 773
+  tag_type: true
+  tag_name: 教科教育専攻音楽教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻音楽教育専修中等教育履修分野:
+  tag_id: 774
+  tag_type: true
+  tag_name: 教科教育専攻音楽教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻美術教育専修初等教育履修分野:
+  tag_id: 775
+  tag_type: true
+  tag_name: 教科教育専攻美術教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻美術教育専修中等教育履修分野:
+  tag_id: 776
+  tag_type: true
+  tag_name: 教科教育専攻美術教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻保健体育専修初等教育履修分野:
+  tag_id: 777
+  tag_type: true
+  tag_name: 教科教育専攻保健体育専修初等教育履修分野
+  com_count: 0
+教科教育専攻保健体育専修中等教育履修分野:
+  tag_id: 778
+  tag_type: true
+  tag_name: 教科教育専攻保健体育専修中等教育履修分野
+  com_count: 0
+教科教育専攻家庭科教育専修初等教育履修分野:
+  tag_id: 779
+  tag_type: true
+  tag_name: 教科教育専攻家庭科教育専修初等教育履修分野
+  com_count: 0
+教科教育専攻家庭科教育専修中等教育履修分野:
+  tag_id: 780
+  tag_type: true
+  tag_name: 教科教育専攻家庭科教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻技術教育専修中等教育履修分野:
+  tag_id: 781
+  tag_type: true
+  tag_name: 教科教育専攻技術教育専修中等教育履修分野
+  com_count: 0
+教科教育専攻英語教育専修中等教育履修分野:
+  tag_id: 782
+  tag_type: true
+  tag_name: 教科教育専攻英語教育専修中等教育履修分野
+  com_count: 0
+伝統文化教育専攻文化遺産教育専修:
+  tag_id: 783
+  tag_type: true
+  tag_name: 伝統文化教育専攻文化遺産教育専修
+  com_count: 0
+東京外国語大学:
+  tag_id: 784
+  tag_type: true
+  tag_name: 東京外国語大学
+  com_count: 0
+国際社会学部:
+  tag_id: 785
+  tag_type: true
+  tag_name: 国際社会学部
+  com_count: 0
+国際社会学科:
+  tag_id: 786
+  tag_type: true
+  tag_name: 国際社会学科
+  com_count: 0
+北西ヨーロッパ:
+  tag_id: 787
+  tag_type: true
+  tag_name: 北西ヨーロッパ
+  com_count: 0
+中央ヨーロッパ:
+  tag_id: 788
+  tag_type: true
+  tag_name: 中央ヨーロッパ
+  com_count: 0
+西南ヨーロッパ第１地域:
+  tag_id: 789
+  tag_type: true
+  tag_name: 西南ヨーロッパ第１地域
+  com_count: 0
+西南ヨーロッパ第２地域:
+  tag_id: 790
+  tag_type: true
+  tag_name: 西南ヨーロッパ第２地域
+  com_count: 0
+ロシア:
+  tag_id: 791
+  tag_type: true
+  tag_name: ロシア
+  com_count: 0
+北アメリカ:
+  tag_id: 792
+  tag_type: true
+  tag_name: 北アメリカ
+  com_count: 0
+ラテンアメリカ:
+  tag_id: 793
+  tag_type: true
+  tag_name: ラテンアメリカ
+  com_count: 0
+日本:
+  tag_id: 794
+  tag_type: true
+  tag_name: 日本
+  com_count: 0
+東アジア:
+  tag_id: 795
+  tag_type: true
+  tag_name: 東アジア
+  com_count: 0
+中央アジア:
+  tag_id: 796
+  tag_type: true
+  tag_name: 中央アジア
+  com_count: 0
+東南アジア第１地域:
+  tag_id: 797
+  tag_type: true
+  tag_name: 東南アジア第１地域
+  com_count: 0
+東南アジア第２地域:
+  tag_id: 798
+  tag_type: true
+  tag_name: 東南アジア第２地域
+  com_count: 0
+南アジア:
+  tag_id: 799
+  tag_type: true
+  tag_name: 南アジア
+  com_count: 0
+西アジア・北アフリカ:
+  tag_id: 800
+  tag_type: true
+  tag_name: 西アジア・北アフリカ
+  com_count: 0
+アフリカ:
+  tag_id: 801
+  tag_type: true
+  tag_name: アフリカ
+  com_count: 0
+オセアニア:
+  tag_id: 802
+  tag_type: true
+  tag_name: オセアニア
+  com_count: 0
+言語文化学部:
+  tag_id: 803
+  tag_type: true
+  tag_name: 言語文化学部
+  com_count: 0
+英語:
+  tag_id: 804
+  tag_type: true
+  tag_name: 英語
+  com_count: 0
+ドイツ語:
+  tag_id: 805
+  tag_type: true
+  tag_name: ドイツ語
+  com_count: 0
+ポーランド語:
+  tag_id: 806
+  tag_type: true
+  tag_name: ポーランド語
+  com_count: 0
+チェコ語:
+  tag_id: 807
+  tag_type: true
+  tag_name: チェコ語
+  com_count: 0
+フランス語:
+  tag_id: 808
+  tag_type: true
+  tag_name: フランス語
+  com_count: 0
+イタリア語:
+  tag_id: 809
+  tag_type: true
+  tag_name: イタリア語
+  com_count: 0
+スペイン語:
+  tag_id: 810
+  tag_type: true
+  tag_name: スペイン語
+  com_count: 0
+ポルトガル語:
+  tag_id: 811
+  tag_type: true
+  tag_name: ポルトガル語
+  com_count: 0
+ロシア語:
+  tag_id: 812
+  tag_type: true
+  tag_name: ロシア語
+  com_count: 0
+モンゴル語:
+  tag_id: 813
+  tag_type: true
+  tag_name: モンゴル語
+  com_count: 0
+日本語:
+  tag_id: 814
+  tag_type: true
+  tag_name: 日本語
+  com_count: 0
+中国語:
+  tag_id: 815
+  tag_type: true
+  tag_name: 中国語
+  com_count: 0
+朝鮮語:
+  tag_id: 816
+  tag_type: true
+  tag_name: 朝鮮語
+  com_count: 0
+インドネシア語:
+  tag_id: 817
+  tag_type: true
+  tag_name: インドネシア語
+  com_count: 0
+マレーシア語:
+  tag_id: 818
+  tag_type: true
+  tag_name: マレーシア語
+  com_count: 0
+フィリピン語:
+  tag_id: 819
+  tag_type: true
+  tag_name: フィリピン語
+  com_count: 0
+タイ語:
+  tag_id: 820
+  tag_type: true
+  tag_name: タイ語
+  com_count: 0
+ラオス語:
+  tag_id: 821
+  tag_type: true
+  tag_name: ラオス語
+  com_count: 0
+ベトナム語:
+  tag_id: 822
+  tag_type: true
+  tag_name: ベトナム語
+  com_count: 0
+カンボジア語:
+  tag_id: 823
+  tag_type: true
+  tag_name: カンボジア語
+  com_count: 0
+ビルマ語:
+  tag_id: 824
+  tag_type: true
+  tag_name: ビルマ語
+  com_count: 0
+ウルドゥー語:
+  tag_id: 825
+  tag_type: true
+  tag_name: ウルドゥー語
+  com_count: 0
+ヒンディー語:
+  tag_id: 826
+  tag_type: true
+  tag_name: ヒンディー語
+  com_count: 0
+ベンガル語:
+  tag_id: 827
+  tag_type: true
+  tag_name: ベンガル語
+  com_count: 0
+アラビア語:
+  tag_id: 828
+  tag_type: true
+  tag_name: アラビア語
+  com_count: 0
+ペルシア語:
+  tag_id: 829
+  tag_type: true
+  tag_name: ペルシア語
+  com_count: 0
+トルコ語:
+  tag_id: 830
+  tag_type: true
+  tag_name: トルコ語
+  com_count: 0
+国際日本学部:
+  tag_id: 831
+  tag_type: true
+  tag_name: 国際日本学部
+  com_count: 0
+国際日本学科:
+  tag_id: 832
+  tag_type: true
+  tag_name: 国際日本学科
+  com_count: 0
+山梨大学:
+  tag_id: 833
+  tag_type: true
+  tag_name: 山梨大学
+  com_count: 0
+障害児教育コース:
+  tag_id: 834
+  tag_type: true
+  tag_name: 障害児教育コース
+  com_count: 0
+幼小発達教育コース:
+  tag_id: 835
+  tag_type: true
+  tag_name: 幼小発達教育コース
+  com_count: 0
+言語教育コース:
+  tag_id: 836
+  tag_type: true
+  tag_name: 言語教育コース
+  com_count: 0
+生活社会教育コース:
+  tag_id: 837
+  tag_type: true
+  tag_name: 生活社会教育コース
+  com_count: 0
+科学教育コース:
+  tag_id: 838
+  tag_type: true
+  tag_name: 科学教育コース
+  com_count: 0
+芸術身体教育コース:
+  tag_id: 839
+  tag_type: true
+  tag_name: 芸術身体教育コース
+  com_count: 0
+土木環境工学科:
+  tag_id: 840
+  tag_type: true
+  tag_name: 土木環境工学科
+  com_count: 0
+コンピュータ理工学科:
+  tag_id: 841
+  tag_type: true
+  tag_name: コンピュータ理工学科
+  com_count: 0
+情報メカトロニクス工学科:
+  tag_id: 842
+  tag_type: true
+  tag_name: 情報メカトロニクス工学科
+  com_count: 0
+先端材料理工学科:
+  tag_id: 843
+  tag_type: true
+  tag_name: 先端材料理工学科
+  com_count: 0
+生命環境学部:
+  tag_id: 844
+  tag_type: true
+  tag_name: 生命環境学部
+  com_count: 0
+地域食物科学科:
+  tag_id: 845
+  tag_type: true
+  tag_name: 地域食物科学科
+  com_count: 0
+ワイン科学特別コース:
+  tag_id: 846
+  tag_type: true
+  tag_name: ワイン科学特別コース
+  com_count: 0
+地域社会システム学科:
+  tag_id: 847
+  tag_type: true
+  tag_name: 地域社会システム学科
+  com_count: 0
+観光政策科学特別コース:
+  tag_id: 848
+  tag_type: true
+  tag_name: 観光政策科学特別コース
+  com_count: 0
+茨城大学:
+  tag_id: 849
+  tag_type: true
+  tag_name: 茨城大学
+  com_count: 0
+教科教育コース　音楽教育系　音楽選修:
+  tag_id: 850
+  tag_type: true
+  tag_name: 教科教育コース　音楽教育系　音楽選修
+  com_count: 0
+教科教育コース　技術教育系　技術選修:
+  tag_id: 851
+  tag_type: true
+  tag_name: 教科教育コース　技術教育系　技術選修
+  com_count: 0
+教科教育コース　言語・社会教育系　英語選修:
+  tag_id: 852
+  tag_type: true
+  tag_name: 教科教育コース　言語・社会教育系　英語選修
+  com_count: 0
+教科教育コース　言語・社会教育系　国語選修:
+  tag_id: 853
+  tag_type: true
+  tag_name: 教科教育コース　言語・社会教育系　国語選修
+  com_count: 0
+教科教育コース　言語・社会教育系　社会選修:
+  tag_id: 854
+  tag_type: true
+  tag_name: 教科教育コース　言語・社会教育系　社会選修
+  com_count: 0
+教科教育コース　生活科学教育系　家庭選修:
+  tag_id: 855
+  tag_type: true
+  tag_name: 教科教育コース　生活科学教育系　家庭選修
+  com_count: 0
+教科教育コース　美術教育系　美術選修:
+  tag_id: 856
+  tag_type: true
+  tag_name: 教科教育コース　美術教育系　美術選修
+  com_count: 0
+教科教育コース　保健体育教育系　保健体育選修:
+  tag_id: 857
+  tag_type: true
+  tag_name: 教科教育コース　保健体育教育系　保健体育選修
+  com_count: 0
+教科教育コース　理数教育系　数学選修:
+  tag_id: 858
+  tag_type: true
+  tag_name: 教科教育コース　理数教育系　数学選修
+  com_count: 0
+教科教育コース　理数教育系　理科選修:
+  tag_id: 859
+  tag_type: true
+  tag_name: 教科教育コース　理数教育系　理科選修
+  com_count: 0
+教育実践科学コース:
+  tag_id: 860
+  tag_type: true
+  tag_name: 教育実践科学コース
+  com_count: 0
+機械システム工学科フレックスコース:
+  tag_id: 861
+  tag_type: true
+  tag_name: 機械システム工学科フレックスコース
+  com_count: 0
+電気電子システム工学科:
+  tag_id: 862
+  tag_type: true
+  tag_name: 電気電子システム工学科
+  com_count: 0
+都市システム工学科:
+  tag_id: 863
+  tag_type: true
+  tag_name: 都市システム工学科
+  com_count: 0
+現代社会学科:
+  tag_id: 864
+  tag_type: true
+  tag_name: 現代社会学科
+  com_count: 0
+人間文化学科:
+  tag_id: 865
+  tag_type: true
+  tag_name: 人間文化学科
+  com_count: 0
+食生命科学科:
+  tag_id: 866
+  tag_type: true
+  tag_name: 食生命科学科
+  com_count: 0
+国際食産業科学コース:
+  tag_id: 867
+  tag_type: true
+  tag_name: 国際食産業科学コース
+  com_count: 0
+バイオサイエンスコース:
+  tag_id: 868
+  tag_type: true
+  tag_name: バイオサイエンスコース
+  com_count: 0
+地域総合農学科:
+  tag_id: 869
+  tag_type: true
+  tag_name: 地域総合農学科
+  com_count: 0
+農業科学コース:
+  tag_id: 870
+  tag_type: true
+  tag_name: 農業科学コース
+  com_count: 0
+地域共生コース:
+  tag_id: 871
+  tag_type: true
+  tag_name: 地域共生コース
+  com_count: 0
+学際理学コース:
+  tag_id: 872
+  tag_type: true
+  tag_name: 学際理学コース
+  com_count: 0
+数学・情報数理コース:
+  tag_id: 873
+  tag_type: true
+  tag_name: 数学・情報数理コース
+  com_count: 0
+地球環境科学コース:
+  tag_id: 874
+  tag_type: true
+  tag_name: 地球環境科学コース
+  com_count: 0
+豊橋技術科学大学:
+  tag_id: 875
+  tag_type: true
+  tag_name: 豊橋技術科学大学
+  com_count: 0
+機械工学課程:
+  tag_id: 876
+  tag_type: true
+  tag_name: 機械工学課程
+  com_count: 0
+電気・電子情報工学課程:
+  tag_id: 877
+  tag_type: true
+  tag_name: 電気・電子情報工学課程
+  com_count: 0
+情報・知能工学課程:
+  tag_id: 878
+  tag_type: true
+  tag_name: 情報・知能工学課程
+  com_count: 0
+応用化学・生命工学課程:
+  tag_id: 879
+  tag_type: true
+  tag_name: 応用化学・生命工学課程
+  com_count: 0
+建築・都市システム学課程:
+  tag_id: 880
+  tag_type: true
+  tag_name: 建築・都市システム学課程
+  com_count: 0
+東北大学:
+  tag_id: 881
+  tag_type: true
+  tag_name: 東北大学
+  com_count: 0
+教育科学科:
+  tag_id: 882
+  tag_type: true
+  tag_name: 教育科学科
+  com_count: 0
+数学系:
+  tag_id: 883
+  tag_type: true
+  tag_name: 数学系
+  com_count: 0
+物理系:
+  tag_id: 884
+  tag_type: true
+  tag_name: 物理系
+  com_count: 0
+宇宙地球物理学科:
+  tag_id: 885
+  tag_type: true
+  tag_name: 宇宙地球物理学科
+  com_count: 0
+化学系:
+  tag_id: 886
+  tag_type: true
+  tag_name: 化学系
+  com_count: 0
+地球科学系:
+  tag_id: 887
+  tag_type: true
+  tag_name: 地球科学系
+  com_count: 0
+地圏環境科学科:
+  tag_id: 888
+  tag_type: true
+  tag_name: 地圏環境科学科
+  com_count: 0
+地球惑星物質科学科:
+  tag_id: 889
+  tag_type: true
+  tag_name: 地球惑星物質科学科
+  com_count: 0
+生物系:
+  tag_id: 890
+  tag_type: true
+  tag_name: 生物系
+  com_count: 0
+機械知能・航空工学科:
+  tag_id: 891
+  tag_type: true
+  tag_name: 機械知能・航空工学科
+  com_count: 0
+電気情報物理工学科:
+  tag_id: 892
+  tag_type: true
+  tag_name: 電気情報物理工学科
+  com_count: 0
+材料科学総合学科:
+  tag_id: 893
+  tag_type: true
+  tag_name: 材料科学総合学科
+  com_count: 0
+建築・社会環境工学科:
+  tag_id: 894
+  tag_type: true
+  tag_name: 建築・社会環境工学科
+  com_count: 0
+生物生産科学科:
+  tag_id: 895
+  tag_type: true
+  tag_name: 生物生産科学科
+  com_count: 0
+兵庫教育大学:
+  tag_id: 896
+  tag_type: true
+  tag_name: 兵庫教育大学
+  com_count: 0
+和歌山大学:
+  tag_id: 897
+  tag_type: true
+  tag_name: 和歌山大学
+  com_count: 0
+初等教育コース:
+  tag_id: 898
+  tag_type: true
+  tag_name: 初等教育コース
+  com_count: 0
+中等教育コース:
+  tag_id: 899
+  tag_type: true
+  tag_name: 中等教育コース
+  com_count: 0
+システム工学部:
+  tag_id: 900
+  tag_type: true
+  tag_name: システム工学部
+  com_count: 0
+システム工学科:
+  tag_id: 901
+  tag_type: true
+  tag_name: システム工学科
+  com_count: 0
+観光学部:
+  tag_id: 902
+  tag_type: true
+  tag_name: 観光学部
+  com_count: 0
+観光学科:
+  tag_id: 903
+  tag_type: true
+  tag_name: 観光学科
+  com_count: 0
+鹿児島大学:
+  tag_id: 904
+  tag_type: true
+  tag_name: 鹿児島大学
+  com_count: 0
+法経社会学科:
+  tag_id: 905
+  tag_type: true
+  tag_name: 法経社会学科
+  com_count: 0
+法学コース:
+  tag_id: 906
+  tag_type: true
+  tag_name: 法学コース
+  com_count: 0
+地域社会コース:
+  tag_id: 907
+  tag_type: true
+  tag_name: 地域社会コース
+  com_count: 0
+経済コース:
+  tag_id: 908
+  tag_type: true
+  tag_name: 経済コース
+  com_count: 0
+多元地域文化コース:
+  tag_id: 909
+  tag_type: true
+  tag_name: 多元地域文化コース
+  com_count: 0
+中等教育コース　国語:
+  tag_id: 910
+  tag_type: true
+  tag_name: 中等教育コース　国語
+  com_count: 0
+中等教育コース　社会:
+  tag_id: 911
+  tag_type: true
+  tag_name: 中等教育コース　社会
+  com_count: 0
+中等教育コース　数学:
+  tag_id: 912
+  tag_type: true
+  tag_name: 中等教育コース　数学
+  com_count: 0
+中等教育コース　理科:
+  tag_id: 913
+  tag_type: true
+  tag_name: 中等教育コース　理科
+  com_count: 0
+実技系初等中等教育コース　音楽:
+  tag_id: 914
+  tag_type: true
+  tag_name: 実技系初等中等教育コース　音楽
+  com_count: 0
+実技系初等中等教育コース　美術:
+  tag_id: 915
+  tag_type: true
+  tag_name: 実技系初等中等教育コース　美術
+  com_count: 0
+実技系初等中等教育コース　保健体育:
+  tag_id: 916
+  tag_type: true
+  tag_name: 実技系初等中等教育コース　保健体育
+  com_count: 0
+中等教育コース　技術:
+  tag_id: 917
+  tag_type: true
+  tag_name: 中等教育コース　技術
+  com_count: 0
+中等教育コース　家政:
+  tag_id: 918
+  tag_type: true
+  tag_name: 中等教育コース　家政
+  com_count: 0
+中等教育コース　英語:
+  tag_id: 919
+  tag_type: true
+  tag_name: 中等教育コース　英語
+  com_count: 0
+数理情報科学科:
+  tag_id: 920
+  tag_type: true
+  tag_name: 数理情報科学科
+  com_count: 0
+物理科学科:
+  tag_id: 921
+  tag_type: true
+  tag_name: 物理科学科
+  com_count: 0
+生命化学科:
+  tag_id: 922
+  tag_type: true
+  tag_name: 生命化学科
+  com_count: 0
+地球環境科学科:
+  tag_id: 923
+  tag_type: true
+  tag_name: 地球環境科学科
+  com_count: 0
+海洋土木工学科:
+  tag_id: 924
+  tag_type: true
+  tag_name: 海洋土木工学科
+  com_count: 0
+情報生体システム工学科:
+  tag_id: 925
+  tag_type: true
+  tag_name: 情報生体システム工学科
+  com_count: 0
+環境化学プロセス工学科:
+  tag_id: 926
+  tag_type: true
+  tag_name: 環境化学プロセス工学科
+  com_count: 0
+農業生産科学科:
+  tag_id: 927
+  tag_type: true
+  tag_name: 農業生産科学科
+  com_count: 0
+食料生命科学科:
+  tag_id: 928
+  tag_type: true
+  tag_name: 食料生命科学科
+  com_count: 0
+農林環境科学科:
+  tag_id: 929
+  tag_type: true
+  tag_name: 農林環境科学科
+  com_count: 0
+国際食料資源学特別コース（農学系サブコース）:
+  tag_id: 930
+  tag_type: true
+  tag_name: 国際食料資源学特別コース（農学系サブコース）
+  com_count: 0
+水圏科学領域:
+  tag_id: 931
+  tag_type: true
+  tag_name: 水圏科学領域
+  com_count: 0
+水産資源科学領域:
+  tag_id: 932
+  tag_type: true
+  tag_name: 水産資源科学領域
+  com_count: 0
+食品生命科学領域:
+  tag_id: 933
+  tag_type: true
+  tag_name: 食品生命科学領域
+  com_count: 0
+水産経済学領域:
+  tag_id: 934
+  tag_type: true
+  tag_name: 水産経済学領域
+  com_count: 0
+水圏環境保全学領域:
+  tag_id: 935
+  tag_type: true
+  tag_name: 水圏環境保全学領域
+  com_count: 0
+国際食料資源学特別コース（水産学系サブコース）:
+  tag_id: 936
+  tag_type: true
+  tag_name: 国際食料資源学特別コース（水産学系サブコース）
+  com_count: 0
+共同獣医学部:
+  tag_id: 937
+  tag_type: true
+  tag_name: 共同獣医学部
+  com_count: 0
+獣医学科:
+  tag_id: 938
+  tag_type: true
+  tag_name: 獣医学科
+  com_count: 0
+東京工業大学:
+  tag_id: 939
+  tag_type: true
+  tag_name: 東京工業大学
+  com_count: 0
+理学院:
+  tag_id: 940
+  tag_type: true
+  tag_name: 理学院
+  com_count: 0
+物理学系:
+  tag_id: 941
+  tag_type: true
+  tag_name: 物理学系
+  com_count: 0
+地球惑星科学系:
+  tag_id: 942
+  tag_type: true
+  tag_name: 地球惑星科学系
+  com_count: 0
+工学院:
+  tag_id: 943
+  tag_type: true
+  tag_name: 工学院
+  com_count: 0
+機械系:
+  tag_id: 944
+  tag_type: true
+  tag_name: 機械系
+  com_count: 0
+システム制御系:
+  tag_id: 945
+  tag_type: true
+  tag_name: システム制御系
+  com_count: 0
+電気電子系:
+  tag_id: 946
+  tag_type: true
+  tag_name: 電気電子系
+  com_count: 0
+情報通信系:
+  tag_id: 947
+  tag_type: true
+  tag_name: 情報通信系
+  com_count: 0
+経営工学系:
+  tag_id: 948
+  tag_type: true
+  tag_name: 経営工学系
+  com_count: 0
+物質理工学院:
+  tag_id: 949
+  tag_type: true
+  tag_name: 物質理工学院
+  com_count: 0
+材料系:
+  tag_id: 950
+  tag_type: true
+  tag_name: 材料系
+  com_count: 0
+応用化学系:
+  tag_id: 951
+  tag_type: true
+  tag_name: 応用化学系
+  com_count: 0
+情報理工学院:
+  tag_id: 952
+  tag_type: true
+  tag_name: 情報理工学院
+  com_count: 0
+数理・計算科学系:
+  tag_id: 953
+  tag_type: true
+  tag_name: 数理・計算科学系
+  com_count: 0
+情報工学系:
+  tag_id: 954
+  tag_type: true
+  tag_name: 情報工学系
+  com_count: 0
+生命理工学院:
+  tag_id: 955
+  tag_type: true
+  tag_name: 生命理工学院
+  com_count: 0
+生命理工学系:
+  tag_id: 956
+  tag_type: true
+  tag_name: 生命理工学系
+  com_count: 0
+環境・社会理工学院:
+  tag_id: 957
+  tag_type: true
+  tag_name: 環境・社会理工学院
+  com_count: 0
+建築学系:
+  tag_id: 958
+  tag_type: true
+  tag_name: 建築学系
+  com_count: 0
+土木・環境工学系:
+  tag_id: 959
+  tag_type: true
+  tag_name: 土木・環境工学系
+  com_count: 0
+融合理工学系:
+  tag_id: 960
+  tag_type: true
+  tag_name: 融合理工学系
+  com_count: 0
+東京大学:
+  tag_id: 961
+  tag_type: true
+  tag_name: 東京大学
+  com_count: 0
+健康総合科学科:
+  tag_id: 962
+  tag_type: true
+  tag_name: 健康総合科学科
+  com_count: 0
+公共健康科学専修:
+  tag_id: 963
+  tag_type: true
+  tag_name: 公共健康科学専修
+  com_count: 0
+看護科学専修:
+  tag_id: 964
+  tag_type: true
+  tag_name: 看護科学専修
+  com_count: 0
+環境生命科学専修:
+  tag_id: 965
+  tag_type: true
+  tag_name: 環境生命科学専修
+  com_count: 0
+総合教育科学科:
+  tag_id: 966
+  tag_type: true
+  tag_name: 総合教育科学科
+  com_count: 0
+超域文化科学分科:
+  tag_id: 967
+  tag_type: true
+  tag_name: 超域文化科学分科
+  com_count: 0
+地域文化研究分科:
+  tag_id: 968
+  tag_type: true
+  tag_name: 地域文化研究分科
+  com_count: 0
+総合社会科学分科:
+  tag_id: 969
+  tag_type: true
+  tag_name: 総合社会科学分科
+  com_count: 0
+学際科学科:
+  tag_id: 970
+  tag_type: true
+  tag_name: 学際科学科
+  com_count: 0
+統合自然科学科:
+  tag_id: 971
+  tag_type: true
+  tag_name: 統合自然科学科
+  com_count: 0
+金融学科:
+  tag_id: 972
+  tag_type: true
+  tag_name: 金融学科
+  com_count: 0
+システム創成学科:
+  tag_id: 973
+  tag_type: true
+  tag_name: システム創成学科
+  com_count: 0
+ナノ・機能マテリアルコース:
+  tag_id: 974
+  tag_type: true
+  tag_name: ナノ・機能マテリアルコース
+  com_count: 0
+環境・基盤マテリアルコース:
+  tag_id: 975
+  tag_type: true
+  tag_name: 環境・基盤マテリアルコース
+  com_count: 0
+バイオマテリアルコース:
+  tag_id: 976
+  tag_type: true
+  tag_name: バイオマテリアルコース
+  com_count: 0
+化学システム工学科:
+  tag_id: 977
+  tag_type: true
+  tag_name: 化学システム工学科
+  com_count: 0
+機械情報工学科:
+  tag_id: 978
+  tag_type: true
+  tag_name: 機械情報工学科
+  com_count: 0
+計数工学科:
+  tag_id: 979
+  tag_type: true
+  tag_name: 計数工学科
+  com_count: 0
+数理情報工学コース:
+  tag_id: 980
+  tag_type: true
+  tag_name: 数理情報工学コース
+  com_count: 0
+システム情報工学コース:
+  tag_id: 981
+  tag_type: true
+  tag_name: システム情報工学コース
+  com_count: 0
+航空宇宙工学科:
+  tag_id: 982
+  tag_type: true
+  tag_name: 航空宇宙工学科
+  com_count: 0
+精密工学科:
+  tag_id: 983
+  tag_type: true
+  tag_name: 精密工学科
+  com_count: 0
+社会基盤学科:
+  tag_id: 984
+  tag_type: true
+  tag_name: 社会基盤学科
+  com_count: 0
+社会基盤学Ａ（設計・技術戦略）コース:
+  tag_id: 985
+  tag_type: true
+  tag_name: 社会基盤学Ａ（設計・技術戦略）コース
+  com_count: 0
+社会基盤学Ｂ（政策・計画）コース:
+  tag_id: 986
+  tag_type: true
+  tag_name: 社会基盤学Ｂ（政策・計画）コース
+  com_count: 0
+社会基盤学Ｃ（国際プロジェクト）コース:
+  tag_id: 987
+  tag_type: true
+  tag_name: 社会基盤学Ｃ（国際プロジェクト）コース
+  com_count: 0
+都市工学科:
+  tag_id: 988
+  tag_type: true
+  tag_name: 都市工学科
+  com_count: 0
+都市環境工学コース:
+  tag_id: 989
+  tag_type: true
+  tag_name: 都市環境工学コース
+  com_count: 0
+都市計画コース:
+  tag_id: 990
+  tag_type: true
+  tag_name: 都市計画コース
+  com_count: 0
+応用生命科学課程:
+  tag_id: 991
+  tag_type: true
+  tag_name: 応用生命科学課程
+  com_count: 0
+環境資源科学課程:
+  tag_id: 992
+  tag_type: true
+  tag_name: 環境資源科学課程
+  com_count: 0
+獣医学課程:
+  tag_id: 993
+  tag_type: true
+  tag_name: 獣医学課程
+  com_count: 0
+第１類（法学総合コース）:
+  tag_id: 994
+  tag_type: true
+  tag_name: 第１類（法学総合コース）
+  com_count: 0
+第３類（政治コース）:
+  tag_id: 995
+  tag_type: true
+  tag_name: 第３類（政治コース）
+  com_count: 0
+第２類（法律プロフェッション・コース）:
+  tag_id: 996
+  tag_type: true
+  tag_name: 第２類（法律プロフェッション・コース）
+  com_count: 0
+情報科学科:
+  tag_id: 997
+  tag_type: true
+  tag_name: 情報科学科
+  com_count: 0
+生物化学科:
+  tag_id: 998
+  tag_type: true
+  tag_name: 生物化学科
+  com_count: 0
+地球惑星環境学科:
+  tag_id: 999
+  tag_type: true
+  tag_name: 地球惑星環境学科
+  com_count: 0
+地球惑星物理学科:
+  tag_id: 1000
+  tag_type: true
+  tag_name: 地球惑星物理学科
+  com_count: 0
+天文学科:
+  tag_id: 1001
+  tag_type: true
+  tag_name: 天文学科
+  com_count: 0
+生物情報科学科:
+  tag_id: 1002
+  tag_type: true
+  tag_name: 生物情報科学科
+  com_count: 0
+宮崎大学:
+  tag_id: 1003
+  tag_type: true
+  tag_name: 宮崎大学
+  com_count: 0
+小中一貫教育コース:
+  tag_id: 1004
+  tag_type: true
+  tag_name: 小中一貫教育コース
+  com_count: 0
+教職実践基礎コース:
+  tag_id: 1005
+  tag_type: true
+  tag_name: 教職実践基礎コース
+  com_count: 0
+発達支援教育コース:
+  tag_id: 1006
+  tag_type: true
+  tag_name: 発達支援教育コース
+  com_count: 0
+情報システム工学科:
+  tag_id: 1007
+  tag_type: true
+  tag_name: 情報システム工学科
+  com_count: 0
+環境ロボティクス学科:
+  tag_id: 1008
+  tag_type: true
+  tag_name: 環境ロボティクス学科
+  com_count: 0
+環境応用化学科:
+  tag_id: 1009
+  tag_type: true
+  tag_name: 環境応用化学科
+  com_count: 0
+社会環境システム工学科:
+  tag_id: 1010
+  tag_type: true
+  tag_name: 社会環境システム工学科
+  com_count: 0
+機械設計システム工学科:
+  tag_id: 1011
+  tag_type: true
+  tag_name: 機械設計システム工学科
+  com_count: 0
+電子物理工学科:
+  tag_id: 1012
+  tag_type: true
+  tag_name: 電子物理工学科
+  com_count: 0
+電気システム工学科:
+  tag_id: 1013
+  tag_type: true
+  tag_name: 電気システム工学科
+  com_count: 0
+植物生産環境科学科:
+  tag_id: 1014
+  tag_type: true
+  tag_name: 植物生産環境科学科
+  com_count: 0
+森林緑地環境科学科:
+  tag_id: 1015
+  tag_type: true
+  tag_name: 森林緑地環境科学科
+  com_count: 0
+畜産草地科学科:
+  tag_id: 1016
+  tag_type: true
+  tag_name: 畜産草地科学科
+  com_count: 0
+海洋生物環境学科:
+  tag_id: 1017
+  tag_type: true
+  tag_name: 海洋生物環境学科
+  com_count: 0
+地域資源創成学部:
+  tag_id: 1018
+  tag_type: true
+  tag_name: 地域資源創成学部
+  com_count: 0
+地域資源創成学科:
+  tag_id: 1019
+  tag_type: true
+  tag_name: 地域資源創成学科
+  com_count: 0
+広島大学:
+  tag_id: 1020
+  tag_type: true
+  tag_name: 広島大学
+  com_count: 0
+第一類（学校教育系）:
+  tag_id: 1021
+  tag_type: true
+  tag_name: 第一類（学校教育系）
+  com_count: 0
+第五類（人間形成基礎系）:
+  tag_id: 1022
+  tag_type: true
+  tag_name: 第五類（人間形成基礎系）
+  com_count: 0
+第三類（言語文化教育系）:
+  tag_id: 1023
+  tag_type: true
+  tag_name: 第三類（言語文化教育系）
+  com_count: 0
+第四類（生涯活動教育系）:
+  tag_id: 1024
+  tag_type: true
+  tag_name: 第四類（生涯活動教育系）
+  com_count: 0
+第二類（科学文化教育系）:
+  tag_id: 1025
+  tag_type: true
+  tag_name: 第二類（科学文化教育系）
+  com_count: 0
+第一類（機械・輸送・材料・エネルギー系）:
+  tag_id: 1026
+  tag_type: true
+  tag_name: 第一類（機械・輸送・材料・エネルギー系）
+  com_count: 0
+第三類（応用化学・生物工学・化学工学系）:
+  tag_id: 1027
+  tag_type: true
+  tag_name: 第三類（応用化学・生物工学・化学工学系）
+  com_count: 0
+第四類（建設・環境系）:
+  tag_id: 1028
+  tag_type: true
+  tag_name: 第四類（建設・環境系）
+  com_count: 0
+第二類（電気電子・システム情報系）:
+  tag_id: 1029
+  tag_type: true
+  tag_name: 第二類（電気電子・システム情報系）
+  com_count: 0
+口腔健康科学科:
+  tag_id: 1030
+  tag_type: true
+  tag_name: 口腔健康科学科
+  com_count: 0
+口腔工学専攻:
+  tag_id: 1031
+  tag_type: true
+  tag_name: 口腔工学専攻
+  com_count: 0
+口腔保健学専攻:
+  tag_id: 1032
+  tag_type: true
+  tag_name: 口腔保健学専攻
+  com_count: 0
+生物生産学部:
+  tag_id: 1033
+  tag_type: true
+  tag_name: 生物生産学部
+  com_count: 0
+総合科学部:
+  tag_id: 1034
+  tag_type: true
+  tag_name: 総合科学部
+  com_count: 0
+総合科学科:
+  tag_id: 1035
+  tag_type: true
+  tag_name: 総合科学科
+  com_count: 0
+国際共創学科:
+  tag_id: 1036
+  tag_type: true
+  tag_name: 国際共創学科
+  com_count: 0
+地球惑星システム学科:
+  tag_id: 1037
+  tag_type: true
+  tag_name: 地球惑星システム学科
+  com_count: 0
+情報科学部:
+  tag_id: 1038
+  tag_type: true
+  tag_name: 情報科学部
+  com_count: 0
+帯広畜産大学:
+  tag_id: 1039
+  tag_type: true
+  tag_name: 帯広畜産大学
+  com_count: 0
+畜産学部:
+  tag_id: 1040
+  tag_type: true
+  tag_name: 畜産学部
+  com_count: 0
+畜産科学課程:
+  tag_id: 1041
+  tag_type: true
+  tag_name: 畜産科学課程
+  com_count: 0
+群馬大学:
+  tag_id: 1042
+  tag_type: true
+  tag_name: 群馬大学
+  com_count: 0
+家政専攻:
+  tag_id: 1043
+  tag_type: true
+  tag_name: 家政専攻
+  com_count: 0
+教育専攻:
+  tag_id: 1044
+  tag_type: true
+  tag_name: 教育専攻
+  com_count: 0
+教育心理専攻:
+  tag_id: 1045
+  tag_type: true
+  tag_name: 教育心理専攻
+  com_count: 0
+障害児教育専攻:
+  tag_id: 1046
+  tag_type: true
+  tag_name: 障害児教育専攻
+  com_count: 0
+社会情報学部:
+  tag_id: 1047
+  tag_type: true
+  tag_name: 社会情報学部
+  com_count: 0
+社会情報学科:
+  tag_id: 1048
+  tag_type: true
+  tag_name: 社会情報学科
+  com_count: 0
+化学・生物化学科:
+  tag_id: 1049
+  tag_type: true
+  tag_name: 化学・生物化学科
+  com_count: 0
+機械知能システム理工学科:
+  tag_id: 1050
+  tag_type: true
+  tag_name: 機械知能システム理工学科
+  com_count: 0
+環境創生理工学科:
+  tag_id: 1051
+  tag_type: true
+  tag_name: 環境創生理工学科
+  com_count: 0
+電子情報理工学科:
+  tag_id: 1052
+  tag_type: true
+  tag_name: 電子情報理工学科
+  com_count: 0
+総合理工学科（フレックス制）:
+  tag_id: 1053
+  tag_type: true
+  tag_name: 総合理工学科（フレックス制）
+  com_count: 0
+佐賀大学:
+  tag_id: 1054
+  tag_type: true
+  tag_name: 佐賀大学
+  com_count: 0
+経済法学科:
+  tag_id: 1055
+  tag_type: true
+  tag_name: 経済法学科
+  com_count: 0
+幼少連携教育コース　幼少発達教育専攻:
+  tag_id: 1056
+  tag_type: true
+  tag_name: 幼少連携教育コース　幼少発達教育専攻
+  com_count: 0
+幼少連携教育コース　特別支援教育専攻:
+  tag_id: 1057
+  tag_type: true
+  tag_name: 幼少連携教育コース　特別支援教育専攻
+  com_count: 0
+小中連携教育コース　初等教育主免専攻:
+  tag_id: 1058
+  tag_type: true
+  tag_name: 小中連携教育コース　初等教育主免専攻
+  com_count: 0
+小中連携教育コース　中等教育主免専攻:
+  tag_id: 1059
+  tag_type: true
+  tag_name: 小中連携教育コース　中等教育主免専攻
+  com_count: 0
+理工学科:
+  tag_id: 1060
+  tag_type: true
+  tag_name: 理工学科
+  com_count: 0
+芸術地域デザイン学部:
+  tag_id: 1061
+  tag_type: true
+  tag_name: 芸術地域デザイン学部
+  com_count: 0
+芸術地域デザイン学科:
+  tag_id: 1062
+  tag_type: true
+  tag_name: 芸術地域デザイン学科
+  com_count: 0
+芸術表現コース:
+  tag_id: 1063
+  tag_type: true
+  tag_name: 芸術表現コース
+  com_count: 0
+地域デザインコース:
+  tag_id: 1064
+  tag_type: true
+  tag_name: 地域デザインコース
+  com_count: 0
+北海道教育大学:
+  tag_id: 1065
+  tag_type: true
+  tag_name: 北海道教育大学
+  com_count: 0
+教育学部札幌校:
+  tag_id: 1066
+  tag_type: true
+  tag_name: 教育学部札幌校
+  com_count: 0
+教員養成課程:
+  tag_id: 1067
+  tag_type: true
+  tag_name: 教員養成課程
+  com_count: 0
+学校教育専攻:
+  tag_id: 1068
+  tag_type: true
+  tag_name: 学校教育専攻
+  com_count: 0
+言語・社会教育専攻:
+  tag_id: 1069
+  tag_type: true
+  tag_name: 言語・社会教育専攻
+  com_count: 0
+理数教育専攻:
+  tag_id: 1070
+  tag_type: true
+  tag_name: 理数教育専攻
+  com_count: 0
+生活創造教育専攻:
+  tag_id: 1071
+  tag_type: true
+  tag_name: 生活創造教育専攻
+  com_count: 0
+芸術体育教育専攻（図画工作・美術教育分野）:
+  tag_id: 1072
+  tag_type: true
+  tag_name: 芸術体育教育専攻（図画工作・美術教育分野）
+  com_count: 0
+芸術体育教育専攻（音楽教育分野）:
+  tag_id: 1073
+  tag_type: true
+  tag_name: 芸術体育教育専攻（音楽教育分野）
+  com_count: 0
+芸術体育教育専攻（保健体育教育分野）:
+  tag_id: 1074
+  tag_type: true
+  tag_name: 芸術体育教育専攻（保健体育教育分野）
+  com_count: 0
+教育学部旭川校:
+  tag_id: 1075
+  tag_type: true
+  tag_name: 教育学部旭川校
+  com_count: 0
+教育発達専攻:
+  tag_id: 1076
+  tag_type: true
+  tag_name: 教育発達専攻
+  com_count: 0
+国語教育専攻:
+  tag_id: 1077
+  tag_type: true
+  tag_name: 国語教育専攻
+  com_count: 0
+英語教育専攻:
+  tag_id: 1078
+  tag_type: true
+  tag_name: 英語教育専攻
+  com_count: 0
+社会科教育専攻:
+  tag_id: 1079
+  tag_type: true
+  tag_name: 社会科教育専攻
+  com_count: 0
+数学教育専攻:
+  tag_id: 1080
+  tag_type: true
+  tag_name: 数学教育専攻
+  com_count: 0
+理科教育専攻:
+  tag_id: 1081
+  tag_type: true
+  tag_name: 理科教育専攻
+  com_count: 0
+生活・技術教育専攻:
+  tag_id: 1082
+  tag_type: true
+  tag_name: 生活・技術教育専攻
+  com_count: 0
+芸術・保健体育教育専攻（音楽分野）:
+  tag_id: 1083
+  tag_type: true
+  tag_name: 芸術・保健体育教育専攻（音楽分野）
+  com_count: 0
+芸術・保健体育教育専攻（美術分野）:
+  tag_id: 1084
+  tag_type: true
+  tag_name: 芸術・保健体育教育専攻（美術分野）
+  com_count: 0
+芸術・保健体育教育専攻（保健体育分野）:
+  tag_id: 1085
+  tag_type: true
+  tag_name: 芸術・保健体育教育専攻（保健体育分野）
+  com_count: 0
+教育学部釧路校:
+  tag_id: 1086
+  tag_type: true
+  tag_name: 教育学部釧路校
+  com_count: 0
+地域学校教育実践専攻:
+  tag_id: 1087
+  tag_type: true
+  tag_name: 地域学校教育実践専攻
+  com_count: 0
+教育学部函館校:
+  tag_id: 1088
+  tag_type: true
+  tag_name: 教育学部函館校
+  com_count: 0
+国際地域学科:
+  tag_id: 1089
+  tag_type: true
+  tag_name: 国際地域学科
+  com_count: 0
+地域協働専攻国際協働グループ:
+  tag_id: 1090
+  tag_type: true
+  tag_name: 地域協働専攻国際協働グループ
+  com_count: 0
+地域協働専攻地域政策グループ:
+  tag_id: 1091
+  tag_type: true
+  tag_name: 地域協働専攻地域政策グループ
+  com_count: 0
+地域協働専攻地域環境科学グループ:
+  tag_id: 1092
+  tag_type: true
+  tag_name: 地域協働専攻地域環境科学グループ
+  com_count: 0
+地域教育専攻:
+  tag_id: 1093
+  tag_type: true
+  tag_name: 地域教育専攻
+  com_count: 0
+教育学部岩見沢校:
+  tag_id: 1094
+  tag_type: true
+  tag_name: 教育学部岩見沢校
+  com_count: 0
+芸術・スポーツ文化学科:
+  tag_id: 1095
+  tag_type: true
+  tag_name: 芸術・スポーツ文化学科
+  com_count: 0
+芸術・スポーツビジネス専攻:
+  tag_id: 1096
+  tag_type: true
+  tag_name: 芸術・スポーツビジネス専攻
+  com_count: 0
+音楽文化専攻声楽コース:
+  tag_id: 1097
+  tag_type: true
+  tag_name: 音楽文化専攻声楽コース
+  com_count: 0
+音楽文化専攻鍵盤楽器コース:
+  tag_id: 1098
+  tag_type: true
+  tag_name: 音楽文化専攻鍵盤楽器コース
+  com_count: 0
+音楽文化専攻作曲コース:
+  tag_id: 1099
+  tag_type: true
+  tag_name: 音楽文化専攻作曲コース
+  com_count: 0
+音楽文化専攻管弦打楽器コース:
+  tag_id: 1100
+  tag_type: true
+  tag_name: 音楽文化専攻管弦打楽器コース
+  com_count: 0
+音楽文化専攻音楽教育・音楽文化コース:
+  tag_id: 1101
+  tag_type: true
+  tag_name: 音楽文化専攻音楽教育・音楽文化コース
+  com_count: 0
+美術文化専攻美術・デザインコース:
+  tag_id: 1102
+  tag_type: true
+  tag_name: 美術文化専攻美術・デザインコース
+  com_count: 0
+美術文化専攻書画・工芸コース:
+  tag_id: 1103
+  tag_type: true
+  tag_name: 美術文化専攻書画・工芸コース
+  com_count: 0
+美術文化専攻メディア・タイムアートコース:
+  tag_id: 1104
+  tag_type: true
+  tag_name: 美術文化専攻メディア・タイムアートコース
+  com_count: 0
+美術文化専攻美術文化教育コース:
+  tag_id: 1105
+  tag_type: true
+  tag_name: 美術文化専攻美術文化教育コース
+  com_count: 0
+スポーツ文化専攻スポーツ・コーチング科学コース:
+  tag_id: 1106
+  tag_type: true
+  tag_name: スポーツ文化専攻スポーツ・コーチング科学コース
+  com_count: 0
+スポーツ文化専攻アウトドア・ライフコース:
+  tag_id: 1107
+  tag_type: true
+  tag_name: スポーツ文化専攻アウトドア・ライフコース
+  com_count: 0
+金沢大学:
+  tag_id: 1108
+  tag_type: true
+  tag_name: 金沢大学
+  com_count: 0
+人間社会学域人文学類:
+  tag_id: 1109
+  tag_type: true
+  tag_name: 人間社会学域人文学類
+  com_count: 0
+人間社会学域法学類:
+  tag_id: 1110
+  tag_type: true
+  tag_name: 人間社会学域法学類
+  com_count: 0
+人間社会学域経済学類:
+  tag_id: 1111
+  tag_type: true
+  tag_name: 人間社会学域経済学類
+  com_count: 0
+人間社会学域学校教育学類:
+  tag_id: 1112
+  tag_type: true
+  tag_name: 人間社会学域学校教育学類
+  com_count: 0
+人間社会学域地域創造学類:
+  tag_id: 1113
+  tag_type: true
+  tag_name: 人間社会学域地域創造学類
+  com_count: 0
+人間社会学域国際学類:
+  tag_id: 1114
+  tag_type: true
+  tag_name: 人間社会学域国際学類
+  com_count: 0
+理工学域数物科学類:
+  tag_id: 1115
+  tag_type: true
+  tag_name: 理工学域数物科学類
+  com_count: 0
+理工学域物質化学類:
+  tag_id: 1116
+  tag_type: true
+  tag_name: 理工学域物質化学類
+  com_count: 0
+理工学域機械工学類:
+  tag_id: 1117
+  tag_type: true
+  tag_name: 理工学域機械工学類
+  com_count: 0
+医薬保健学域医学類:
+  tag_id: 1118
+  tag_type: true
+  tag_name: 医薬保健学域医学類
+  com_count: 0
+医薬保健学域薬学類＜６年制＞:
+  tag_id: 1119
+  tag_type: true
+  tag_name: 医薬保健学域薬学類＜６年制＞
+  com_count: 0
+医薬保健学域創薬科学類＜４年制＞:
+  tag_id: 1120
+  tag_type: true
+  tag_name: 医薬保健学域創薬科学類＜４年制＞
+  com_count: 0
+医薬保健学域保健学類:
+  tag_id: 1121
+  tag_type: true
+  tag_name: 医薬保健学域保健学類
+  com_count: 0
+理工学域フロンティア工学類:
+  tag_id: 1122
+  tag_type: true
+  tag_name: 理工学域フロンティア工学類
+  com_count: 0
+理工学域電子情報通信学類:
+  tag_id: 1123
+  tag_type: true
+  tag_name: 理工学域電子情報通信学類
+  com_count: 0
+理工学域地球社会基盤学類:
+  tag_id: 1124
+  tag_type: true
+  tag_name: 理工学域地球社会基盤学類
+  com_count: 0
+理工学域生命理工学類:
+  tag_id: 1125
+  tag_type: true
+  tag_name: 理工学域生命理工学類
+  com_count: 0
+京都工芸繊維大学:
+  tag_id: 1126
+  tag_type: true
+  tag_name: 京都工芸繊維大学
+  com_count: 0
+工芸科学部:
+  tag_id: 1127
+  tag_type: true
+  tag_name: 工芸科学部
+  com_count: 0
+設計工学域:
+  tag_id: 1128
+  tag_type: true
+  tag_name: 設計工学域
+  com_count: 0
+電子システム工学課程:
+  tag_id: 1129
+  tag_type: true
+  tag_name: 電子システム工学課程
+  com_count: 0
+情報工学課程:
+  tag_id: 1130
+  tag_type: true
+  tag_name: 情報工学課程
+  com_count: 0
+デザイン科学域:
+  tag_id: 1131
+  tag_type: true
+  tag_name: デザイン科学域
+  com_count: 0
+デザイン・建築学課程:
+  tag_id: 1132
+  tag_type: true
+  tag_name: デザイン・建築学課程
+  com_count: 0
+応用生物学域:
+  tag_id: 1133
+  tag_type: true
+  tag_name: 応用生物学域
+  com_count: 0
+応用生物学課程:
+  tag_id: 1134
+  tag_type: true
+  tag_name: 応用生物学課程
+  com_count: 0
+物質・材料科学域:
+  tag_id: 1135
+  tag_type: true
+  tag_name: 物質・材料科学域
+  com_count: 0
+応用化学課程:
+  tag_id: 1136
+  tag_type: true
+  tag_name: 応用化学課程
+  com_count: 0
+琉球大学:
+  tag_id: 1137
+  tag_type: true
+  tag_name: 琉球大学
+  com_count: 0
+小学校教育コース学校教育専攻　教育実践学専修:
+  tag_id: 1138
+  tag_type: true
+  tag_name: 小学校教育コース学校教育専攻　教育実践学専修
+  com_count: 0
+小学校教育コース教科教育専攻　国語教育専修:
+  tag_id: 1139
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　国語教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　社会科教育専修:
+  tag_id: 1140
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　社会科教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　数学教育専修:
+  tag_id: 1141
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　数学教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　理科教育専修:
+  tag_id: 1142
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　理科教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　音楽教育専修:
+  tag_id: 1143
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　音楽教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　美術教育専修:
+  tag_id: 1144
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　美術教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　保健体育専修:
+  tag_id: 1145
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　保健体育専修
+  com_count: 0
+小学校教育コース教科教育専攻　技術教育専修:
+  tag_id: 1146
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　技術教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　生活科学教育専修:
+  tag_id: 1147
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　生活科学教育専修
+  com_count: 0
+小学校教育コース教科教育専攻　英語教育専修:
+  tag_id: 1148
+  tag_type: true
+  tag_name: 小学校教育コース教科教育専攻　英語教育専修
+  com_count: 0
+特別支援教育コース特別支援教育専攻　特別支援教育専修:
+  tag_id: 1149
+  tag_type: true
+  tag_name: 特別支援教育コース特別支援教育専攻　特別支援教育専修
+  com_count: 0
+小学校教育コース学校教育専攻　子ども教育開発専修:
+  tag_id: 1150
+  tag_type: true
+  tag_name: 小学校教育コース学校教育専攻　子ども教育開発専修
+  com_count: 0
+中学校教育コース教科教育専攻　国語教育専修:
+  tag_id: 1151
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　国語教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　社会科教育専修:
+  tag_id: 1152
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　社会科教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　数学教育専修:
+  tag_id: 1153
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　数学教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　理科教育専修:
+  tag_id: 1154
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　理科教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　音楽教育専修:
+  tag_id: 1155
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　音楽教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　美術教育専修:
+  tag_id: 1156
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　美術教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　保健体育専修:
+  tag_id: 1157
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　保健体育専修
+  com_count: 0
+中学校教育コース教科教育専攻　技術教育専修:
+  tag_id: 1158
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　技術教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　生活科学教育専修:
+  tag_id: 1159
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　生活科学教育専修
+  com_count: 0
+中学校教育コース教科教育専攻　英語教育専修:
+  tag_id: 1160
+  tag_type: true
+  tag_name: 中学校教育コース教科教育専攻　英語教育専修
+  com_count: 0
+物質地球科学科:
+  tag_id: 1161
+  tag_type: true
+  tag_name: 物質地球科学科
+  com_count: 0
+地学系:
+  tag_id: 1162
+  tag_type: true
+  tag_name: 地学系
+  com_count: 0
+海洋自然科学科:
+  tag_id: 1163
+  tag_type: true
+  tag_name: 海洋自然科学科
+  com_count: 0
+エネルギー環境工学コース:
+  tag_id: 1164
+  tag_type: true
+  tag_name: エネルギー環境工学コース
+  com_count: 0
+電気システム工学コース:
+  tag_id: 1165
+  tag_type: true
+  tag_name: 電気システム工学コース
+  com_count: 0
+電子情報通信コース:
+  tag_id: 1166
+  tag_type: true
+  tag_name: 電子情報通信コース
+  com_count: 0
+社会基盤デザインコース:
+  tag_id: 1167
+  tag_type: true
+  tag_name: 社会基盤デザインコース
+  com_count: 0
+知能情報コース:
+  tag_id: 1168
+  tag_type: true
+  tag_name: 知能情報コース
+  com_count: 0
+亜熱帯地域農学科:
+  tag_id: 1169
+  tag_type: true
+  tag_name: 亜熱帯地域農学科
+  com_count: 0
+亜熱帯農林環境科学科:
+  tag_id: 1170
+  tag_type: true
+  tag_name: 亜熱帯農林環境科学科
+  com_count: 0
+地域農業工学科:
+  tag_id: 1171
+  tag_type: true
+  tag_name: 地域農業工学科
+  com_count: 0
+亜熱帯生物資源科学科:
+  tag_id: 1172
+  tag_type: true
+  tag_name: 亜熱帯生物資源科学科
+  com_count: 0
+人文社会学部:
+  tag_id: 1173
+  tag_type: true
+  tag_name: 人文社会学部
+  com_count: 0
+国際法政学科:
+  tag_id: 1174
+  tag_type: true
+  tag_name: 国際法政学科
+  com_count: 0
+人間社会学科:
+  tag_id: 1175
+  tag_type: true
+  tag_name: 人間社会学科
+  com_count: 0
+琉球アジア文化学科:
+  tag_id: 1176
+  tag_type: true
+  tag_name: 琉球アジア文化学科
+  com_count: 0
+国際地域創造学部:
+  tag_id: 1177
+  tag_type: true
+  tag_name: 国際地域創造学部
+  com_count: 0
+国際地域創造学科:
+  tag_id: 1178
+  tag_type: true
+  tag_name: 国際地域創造学科
+  com_count: 0
+宮城教育大学:
+  tag_id: 1179
+  tag_type: true
+  tag_name: 宮城教育大学
+  com_count: 0
+発達・教育系:
+  tag_id: 1180
+  tag_type: true
+  tag_name: 発達・教育系
+  com_count: 0
+言語・社会系:
+  tag_id: 1181
+  tag_type: true
+  tag_name: 言語・社会系
+  com_count: 0
+理数・生活系:
+  tag_id: 1182
+  tag_type: true
+  tag_name: 理数・生活系
+  com_count: 0
+芸術・体育系:
+  tag_id: 1183
+  tag_type: true
+  tag_name: 芸術・体育系
+  com_count: 0
+視覚障害教育コース:
+  tag_id: 1184
+  tag_type: true
+  tag_name: 視覚障害教育コース
+  com_count: 0
+聴覚・言語障害教育コース:
+  tag_id: 1185
+  tag_type: true
+  tag_name: 聴覚・言語障害教育コース
+  com_count: 0
+発達障害教育コース:
+  tag_id: 1186
+  tag_type: true
+  tag_name: 発達障害教育コース
+  com_count: 0
+健康・運動障害教育コース:
+  tag_id: 1187
+  tag_type: true
+  tag_name: 健康・運動障害教育コース
+  com_count: 0
+技術教育専攻:
+  tag_id: 1188
+  tag_type: true
+  tag_name: 技術教育専攻
+  com_count: 0
+家庭科教育専攻:
+  tag_id: 1189
+  tag_type: true
+  tag_name: 家庭科教育専攻
+  com_count: 0
+お茶の水女子大学:
+  tag_id: 1190
+  tag_type: true
+  tag_name: お茶の水女子大学
+  com_count: 0
+生活科学部:
+  tag_id: 1191
+  tag_type: true
+  tag_name: 生活科学部
+  com_count: 0
+人間・環境科学科:
+  tag_id: 1192
+  tag_type: true
+  tag_name: 人間・環境科学科
+  com_count: 0
+人間生活学科:
+  tag_id: 1193
+  tag_type: true
+  tag_name: 人間生活学科
+  com_count: 0
+心理学科:
+  tag_id: 1194
+  tag_type: true
+  tag_name: 心理学科
+  com_count: 0
+文教育学部:
+  tag_id: 1195
+  tag_type: true
+  tag_name: 文教育学部
+  com_count: 0
+芸術・表現行動学科:
+  tag_id: 1196
+  tag_type: true
+  tag_name: 芸術・表現行動学科
+  com_count: 0
+舞踊教育学コース:
+  tag_id: 1197
+  tag_type: true
+  tag_name: 舞踊教育学コース
+  com_count: 0
+音楽表現コース:
+  tag_id: 1198
+  tag_type: true
+  tag_name: 音楽表現コース
+  com_count: 0
+日本語・日本文学コース:
+  tag_id: 1199
+  tag_type: true
+  tag_name: 日本語・日本文学コース
+  com_count: 0
+中国語圏言語文化コース:
+  tag_id: 1200
+  tag_type: true
+  tag_name: 中国語圏言語文化コース
+  com_count: 0
+英語圏言語文化コース:
+  tag_id: 1201
+  tag_type: true
+  tag_name: 英語圏言語文化コース
+  com_count: 0
+仏語圏言語文化コース:
+  tag_id: 1202
+  tag_type: true
+  tag_name: 仏語圏言語文化コース
+  com_count: 0
+人間社会科学科:
+  tag_id: 1203
+  tag_type: true
+  tag_name: 人間社会科学科
+  com_count: 0
+社会学コース:
+  tag_id: 1204
+  tag_type: true
+  tag_name: 社会学コース
+  com_count: 0
+教育科学コース:
+  tag_id: 1205
+  tag_type: true
+  tag_name: 教育科学コース
+  com_count: 0
+子ども学コース:
+  tag_id: 1206
+  tag_type: true
+  tag_name: 子ども学コース
+  com_count: 0
+哲学・倫理学・美術史コース:
+  tag_id: 1207
+  tag_type: true
+  tag_name: 哲学・倫理学・美術史コース
+  com_count: 0
+比較歴史学コース:
+  tag_id: 1208
+  tag_type: true
+  tag_name: 比較歴史学コース
+  com_count: 0
+地理学コース:
+  tag_id: 1209
+  tag_type: true
+  tag_name: 地理学コース
+  com_count: 0
+京都大学:
+  tag_id: 1210
+  tag_type: true
+  tag_name: 京都大学
+  com_count: 0
+人間健康科学科:
+  tag_id: 1211
+  tag_type: true
+  tag_name: 人間健康科学科
+  com_count: 0
+先端看護科学コース:
+  tag_id: 1212
+  tag_type: true
+  tag_name: 先端看護科学コース
+  com_count: 0
+総合医療科学コース:
+  tag_id: 1213
+  tag_type: true
+  tag_name: 総合医療科学コース
+  com_count: 0
+先端リハビリテーション科学コース:
+  tag_id: 1214
+  tag_type: true
+  tag_name: 先端リハビリテーション科学コース
+  com_count: 0
+経済経営学科:
+  tag_id: 1215
+  tag_type: true
+  tag_name: 経済経営学科
+  com_count: 0
+工業化学科:
+  tag_id: 1216
+  tag_type: true
+  tag_name: 工業化学科
+  com_count: 0
+情報学科:
+  tag_id: 1217
+  tag_type: true
+  tag_name: 情報学科
+  com_count: 0
+地球工学科:
+  tag_id: 1218
+  tag_type: true
+  tag_name: 地球工学科
+  com_count: 0
+総合人間学部:
+  tag_id: 1219
+  tag_type: true
+  tag_name: 総合人間学部
+  com_count: 0
+総合人間学科:
+  tag_id: 1220
+  tag_type: true
+  tag_name: 総合人間学科
+  com_count: 0
+食品生物科学科:
+  tag_id: 1221
+  tag_type: true
+  tag_name: 食品生物科学科
+  com_count: 0
+食料・環境経済学科:
+  tag_id: 1222
+  tag_type: true
+  tag_name: 食料・環境経済学科
+  com_count: 0
+薬学科〈６年制〉:
+  tag_id: 1223
+  tag_type: true
+  tag_name: 薬学科〈６年制〉
+  com_count: 0
+薬科学科〈４年制〉:
+  tag_id: 1224
+  tag_type: true
+  tag_name: 薬科学科〈４年制〉
+  com_count: 0
+電気通信大学:
+  tag_id: 1225
+  tag_type: true
+  tag_name: 電気通信大学
+  com_count: 0
+情報理工学域:
+  tag_id: 1226
+  tag_type: true
+  tag_name: 情報理工学域
+  com_count: 0
+先端工学基礎課程（夜間主）:
+  tag_id: 1227
+  tag_type: true
+  tag_name: 先端工学基礎課程（夜間主）
+  com_count: 0
+Ｉ類（情報系）:
+  tag_id: 1228
+  tag_type: true
+  tag_name: Ｉ類（情報系）
+  com_count: 0
+メディア情報学プログラム:
+  tag_id: 1229
+  tag_type: true
+  tag_name: メディア情報学プログラム
+  com_count: 0
+経営・社会情報学プログラム:
+  tag_id: 1230
+  tag_type: true
+  tag_name: 経営・社会情報学プログラム
+  com_count: 0
+情報数理工学プログラム:
+  tag_id: 1231
+  tag_type: true
+  tag_name: 情報数理工学プログラム
+  com_count: 0
+コンピュータサイエンスプログラム:
+  tag_id: 1232
+  tag_type: true
+  tag_name: コンピュータサイエンスプログラム
+  com_count: 0
+ＩＩ類（融合系）:
+  tag_id: 1233
+  tag_type: true
+  tag_name: ＩＩ類（融合系）
+  com_count: 0
+セキュリティ情報学プログラム:
+  tag_id: 1234
+  tag_type: true
+  tag_name: セキュリティ情報学プログラム
+  com_count: 0
+情報通信工学プログラム:
+  tag_id: 1235
+  tag_type: true
+  tag_name: 情報通信工学プログラム
+  com_count: 0
+電子情報学プログラム:
+  tag_id: 1236
+  tag_type: true
+  tag_name: 電子情報学プログラム
+  com_count: 0
+計測・制御システムプログラム:
+  tag_id: 1237
+  tag_type: true
+  tag_name: 計測・制御システムプログラム
+  com_count: 0
+先端ロボティクスプログラム:
+  tag_id: 1238
+  tag_type: true
+  tag_name: 先端ロボティクスプログラム
+  com_count: 0
+ＩＩＩ類（理工系）:
+  tag_id: 1239
+  tag_type: true
+  tag_name: ＩＩＩ類（理工系）
+  com_count: 0
+機械システムプログラム:
+  tag_id: 1240
+  tag_type: true
+  tag_name: 機械システムプログラム
+  com_count: 0
+電子工学プログラム:
+  tag_id: 1241
+  tag_type: true
+  tag_name: 電子工学プログラム
+  com_count: 0
+光工学プログラム:
+  tag_id: 1242
+  tag_type: true
+  tag_name: 光工学プログラム
+  com_count: 0
+物理工学プログラム:
+  tag_id: 1243
+  tag_type: true
+  tag_name: 物理工学プログラム
+  com_count: 0
+化学生命工学プログラム:
+  tag_id: 1244
+  tag_type: true
+  tag_name: 化学生命工学プログラム
+  com_count: 0
+長岡技術科学大学:
+  tag_id: 1245
+  tag_type: true
+  tag_name: 長岡技術科学大学
+  com_count: 0
+環境社会基盤工学課程:
+  tag_id: 1246
+  tag_type: true
+  tag_name: 環境社会基盤工学課程
+  com_count: 0
+機械創造工学課程:
+  tag_id: 1247
+  tag_type: true
+  tag_name: 機械創造工学課程
+  com_count: 0
+情報・経営システム工学課程:
+  tag_id: 1248
+  tag_type: true
+  tag_name: 情報・経営システム工学課程
+  com_count: 0
+物質材料工学課程:
+  tag_id: 1249
+  tag_type: true
+  tag_name: 物質材料工学課程
+  com_count: 0
+生物機能工学課程:
+  tag_id: 1250
+  tag_type: true
+  tag_name: 生物機能工学課程
+  com_count: 0
+電気電子情報工学課程:
+  tag_id: 1251
+  tag_type: true
+  tag_name: 電気電子情報工学課程
+  com_count: 0
+岐阜大学:
+  tag_id: 1252
+  tag_type: true
+  tag_name: 岐阜大学
+  com_count: 0
+応用生物科学部:
+  tag_id: 1253
+  tag_type: true
+  tag_name: 応用生物科学部
+  com_count: 0
+生産環境科学課程:
+  tag_id: 1254
+  tag_type: true
+  tag_name: 生産環境科学課程
+  com_count: 0
+国語教育:
+  tag_id: 1255
+  tag_type: true
+  tag_name: 国語教育
+  com_count: 0
+社会科教育:
+  tag_id: 1256
+  tag_type: true
+  tag_name: 社会科教育
+  com_count: 0
+数学教育:
+  tag_id: 1257
+  tag_type: true
+  tag_name: 数学教育
+  com_count: 0
+理科教育:
+  tag_id: 1258
+  tag_type: true
+  tag_name: 理科教育
+  com_count: 0
+音楽教育:
+  tag_id: 1259
+  tag_type: true
+  tag_name: 音楽教育
+  com_count: 0
+美術教育:
+  tag_id: 1260
+  tag_type: true
+  tag_name: 美術教育
+  com_count: 0
+保健体育:
+  tag_id: 1261
+  tag_type: true
+  tag_name: 保健体育
+  com_count: 0
+技術教育:
+  tag_id: 1262
+  tag_type: true
+  tag_name: 技術教育
+  com_count: 0
+家政教育:
+  tag_id: 1263
+  tag_type: true
+  tag_name: 家政教育
+  com_count: 0
+英語教育:
+  tag_id: 1264
+  tag_type: true
+  tag_name: 英語教育
+  com_count: 0
+学校教育:
+  tag_id: 1265
+  tag_type: true
+  tag_name: 学校教育
+  com_count: 0
+特別支援学校教員養成課程:
+  tag_id: 1266
+  tag_type: true
+  tag_name: 特別支援学校教員養成課程
+  com_count: 0
+社会基盤工学科:
+  tag_id: 1267
+  tag_type: true
+  tag_name: 社会基盤工学科
+  com_count: 0
+環境コース:
+  tag_id: 1268
+  tag_type: true
+  tag_name: 環境コース
+  com_count: 0
+防災コース:
+  tag_id: 1269
+  tag_type: true
+  tag_name: 防災コース
+  com_count: 0
+機械コース:
+  tag_id: 1270
+  tag_type: true
+  tag_name: 機械コース
+  com_count: 0
+知能機械コース:
+  tag_id: 1271
+  tag_type: true
+  tag_name: 知能機械コース
+  com_count: 0
+化学・生命工学科:
+  tag_id: 1272
+  tag_type: true
+  tag_name: 化学・生命工学科
+  com_count: 0
+物質化学コース:
+  tag_id: 1273
+  tag_type: true
+  tag_name: 物質化学コース
+  com_count: 0
+生命化学コース:
+  tag_id: 1274
+  tag_type: true
+  tag_name: 生命化学コース
+  com_count: 0
+電気電子・情報工学科:
+  tag_id: 1275
+  tag_type: true
+  tag_name: 電気電子・情報工学科
+  com_count: 0
+電気電子コース:
+  tag_id: 1276
+  tag_type: true
+  tag_name: 電気電子コース
+  com_count: 0
+情報コース:
+  tag_id: 1277
+  tag_type: true
+  tag_name: 情報コース
+  com_count: 0
+応用物理コース:
+  tag_id: 1278
+  tag_type: true
+  tag_name: 応用物理コース
+  com_count: 0
+地域科学部:
+  tag_id: 1279
+  tag_type: true
+  tag_name: 地域科学部
+  com_count: 0
+地域政策学科:
+  tag_id: 1280
+  tag_type: true
+  tag_name: 地域政策学科
+  com_count: 0
+筑波技術大学:
+  tag_id: 1281
+  tag_type: true
+  tag_name: 筑波技術大学
+  com_count: 0
+産業技術学部:
+  tag_id: 1282
+  tag_type: true
+  tag_name: 産業技術学部
+  com_count: 0
+産業情報学科:
+  tag_id: 1283
+  tag_type: true
+  tag_name: 産業情報学科
+  com_count: 0
+情報科学専攻:
+  tag_id: 1284
+  tag_type: true
+  tag_name: 情報科学専攻
+  com_count: 0
+システム工学専攻:
+  tag_id: 1285
+  tag_type: true
+  tag_name: システム工学専攻
+  com_count: 0
+総合デザイン学科:
+  tag_id: 1286
+  tag_type: true
+  tag_name: 総合デザイン学科
+  com_count: 0
+保健科学部:
+  tag_id: 1287
+  tag_type: true
+  tag_name: 保健科学部
+  com_count: 0
+鍼灸学専攻:
+  tag_id: 1288
+  tag_type: true
+  tag_name: 鍼灸学専攻
+  com_count: 0
+情報システム学科:
+  tag_id: 1289
+  tag_type: true
+  tag_name: 情報システム学科
+  com_count: 0
+山口大学:
+  tag_id: 1290
+  tag_type: true
+  tag_name: 山口大学
+  com_count: 0
+教科教育コース英語教育選修:
+  tag_id: 1291
+  tag_type: true
+  tag_name: 教科教育コース英語教育選修
+  com_count: 0
+教科教育コース国語教育選修:
+  tag_id: 1292
+  tag_type: true
+  tag_name: 教科教育コース国語教育選修
+  com_count: 0
+教科教育コース数学教育選修:
+  tag_id: 1293
+  tag_type: true
+  tag_name: 教科教育コース数学教育選修
+  com_count: 0
+教科教育コース社会科教育選修:
+  tag_id: 1294
+  tag_type: true
+  tag_name: 教科教育コース社会科教育選修
+  com_count: 0
+教科教育コース理科教育選修:
+  tag_id: 1295
+  tag_type: true
+  tag_name: 教科教育コース理科教育選修
+  com_count: 0
+教科教育コース音楽教育選修:
+  tag_id: 1296
+  tag_type: true
+  tag_name: 教科教育コース音楽教育選修
+  com_count: 0
+教科教育コース美術教育選修:
+  tag_id: 1297
+  tag_type: true
+  tag_name: 教科教育コース美術教育選修
+  com_count: 0
+教科教育コース保健体育選修:
+  tag_id: 1298
+  tag_type: true
+  tag_name: 教科教育コース保健体育選修
+  com_count: 0
+教科教育コース技術教育選修:
+  tag_id: 1299
+  tag_type: true
+  tag_name: 教科教育コース技術教育選修
+  com_count: 0
+教科教育コース家政教育選修:
+  tag_id: 1300
+  tag_type: true
+  tag_name: 教科教育コース家政教育選修
+  com_count: 0
+小学校教育コース小学校総合選修:
+  tag_id: 1301
+  tag_type: true
+  tag_name: 小学校教育コース小学校総合選修
+  com_count: 0
+小学校教育コース教育学選修:
+  tag_id: 1302
+  tag_type: true
+  tag_name: 小学校教育コース教育学選修
+  com_count: 0
+小学校教育コース心理学選修:
+  tag_id: 1303
+  tag_type: true
+  tag_name: 小学校教育コース心理学選修
+  com_count: 0
+小学校教育コース国際理解教育選修:
+  tag_id: 1304
+  tag_type: true
+  tag_name: 小学校教育コース国際理解教育選修
+  com_count: 0
+情報教育コース:
+  tag_id: 1305
+  tag_type: true
+  tag_name: 情報教育コース
+  com_count: 0
+観光政策学科:
+  tag_id: 1306
+  tag_type: true
+  tag_name: 観光政策学科
+  com_count: 0
+感性デザイン工学科:
+  tag_id: 1307
+  tag_type: true
+  tag_name: 感性デザイン工学科
+  com_count: 0
+社会建設工学科:
+  tag_id: 1308
+  tag_type: true
+  tag_name: 社会建設工学科
+  com_count: 0
+循環環境工学科:
+  tag_id: 1309
+  tag_type: true
+  tag_name: 循環環境工学科
+  com_count: 0
+生物資源環境科学科:
+  tag_id: 1310
+  tag_type: true
+  tag_name: 生物資源環境科学科
+  com_count: 0
+生物機能科学科:
+  tag_id: 1311
+  tag_type: true
+  tag_name: 生物機能科学科
+  com_count: 0
+生物・化学科:
+  tag_id: 1312
+  tag_type: true
+  tag_name: 生物・化学科
+  com_count: 0
+物理・情報科学科:
+  tag_id: 1313
+  tag_type: true
+  tag_name: 物理・情報科学科
+  com_count: 0
+地球圏システム科学科:
+  tag_id: 1314
+  tag_type: true
+  tag_name: 地球圏システム科学科
+  com_count: 0
+国際総合科学部:
+  tag_id: 1315
+  tag_type: true
+  tag_name: 国際総合科学部
+  com_count: 0
+国際総合科学科:
+  tag_id: 1316
+  tag_type: true
+  tag_name: 国際総合科学科
+  com_count: 0
+熊本大学:
+  tag_id: 1317
+  tag_type: true
+  tag_name: 熊本大学
+  com_count: 0
+歴史学科:
+  tag_id: 1318
+  tag_type: true
+  tag_name: 歴史学科
+  com_count: 0
+文学科:
+  tag_id: 1319
+  tag_type: true
+  tag_name: 文学科
+  com_count: 0
+コミュニケーション情報学科:
+  tag_id: 1320
+  tag_type: true
+  tag_name: コミュニケーション情報学科
+  com_count: 0
+小学校教員養成課程:
+  tag_id: 1321
+  tag_type: true
+  tag_name: 小学校教員養成課程
+  com_count: 0
+中学校教員養成課程:
+  tag_id: 1322
+  tag_type: true
+  tag_name: 中学校教員養成課程
+  com_count: 0
+国語:
+  tag_id: 1323
+  tag_type: true
+  tag_name: 国語
+  com_count: 0
+社会:
+  tag_id: 1324
+  tag_type: true
+  tag_name: 社会
+  com_count: 0
+数学:
+  tag_id: 1325
+  tag_type: true
+  tag_name: 数学
+  com_count: 0
+理科:
+  tag_id: 1326
+  tag_type: true
+  tag_name: 理科
+  com_count: 0
+音楽:
+  tag_id: 1327
+  tag_type: true
+  tag_name: 音楽
+  com_count: 0
+美術:
+  tag_id: 1328
+  tag_type: true
+  tag_name: 美術
+  com_count: 0
+技術:
+  tag_id: 1329
+  tag_type: true
+  tag_name: 技術
+  com_count: 0
+家庭:
+  tag_id: 1330
+  tag_type: true
+  tag_name: 家庭
+  com_count: 0
+外国語（英語）:
+  tag_id: 1331
+  tag_type: true
+  tag_name: 外国語（英語）
+  com_count: 0
+創薬・生命薬科学科＜４年制＞:
+  tag_id: 1332
+  tag_type: true
+  tag_name: 創薬・生命薬科学科＜４年制＞
+  com_count: 0
+情報電気工学科:
+  tag_id: 1333
+  tag_type: true
+  tag_name: 情報電気工学科
+  com_count: 0
+土木建築学科:
+  tag_id: 1334
+  tag_type: true
+  tag_name: 土木建築学科
+  com_count: 0
+機械数理工学科:
+  tag_id: 1335
+  tag_type: true
+  tag_name: 機械数理工学科
+  com_count: 0
+材料・応用化学科:
+  tag_id: 1336
+  tag_type: true
+  tag_name: 材料・応用化学科
+  com_count: 0
+横浜国立大学:
+  tag_id: 1337
+  tag_type: true
+  tag_name: 横浜国立大学
+  com_count: 0
+教科教育コース:
+  tag_id: 1338
+  tag_type: true
+  tag_name: 教科教育コース
+  com_count: 0
+機械・材料・海洋系学科:
+  tag_id: 1339
+  tag_type: true
+  tag_name: 機械・材料・海洋系学科
+  com_count: 0
+機械工学教育プログラム:
+  tag_id: 1340
+  tag_type: true
+  tag_name: 機械工学教育プログラム
+  com_count: 0
+材料工学教育プログラム:
+  tag_id: 1341
+  tag_type: true
+  tag_name: 材料工学教育プログラム
+  com_count: 0
+海洋空間のシステムデザイン教育プログラム:
+  tag_id: 1342
+  tag_type: true
+  tag_name: 海洋空間のシステムデザイン教育プログラム
+  com_count: 0
+化学・生命系学科:
+  tag_id: 1343
+  tag_type: true
+  tag_name: 化学・生命系学科
+  com_count: 0
+バイオ教育プログラム:
+  tag_id: 1344
+  tag_type: true
+  tag_name: バイオ教育プログラム
+  com_count: 0
+化学教育プログラム:
+  tag_id: 1345
+  tag_type: true
+  tag_name: 化学教育プログラム
+  com_count: 0
+化学応用教育プログラム:
+  tag_id: 1346
+  tag_type: true
+  tag_name: 化学応用教育プログラム
+  com_count: 0
+数物・電子情報系学科:
+  tag_id: 1347
+  tag_type: true
+  tag_name: 数物・電子情報系学科
+  com_count: 0
+数理科学教育プログラム:
+  tag_id: 1348
+  tag_type: true
+  tag_name: 数理科学教育プログラム
+  com_count: 0
+物理工学教育プログラム:
+  tag_id: 1349
+  tag_type: true
+  tag_name: 物理工学教育プログラム
+  com_count: 0
+電子情報システム教育プログラム:
+  tag_id: 1350
+  tag_type: true
+  tag_name: 電子情報システム教育プログラム
+  com_count: 0
+情報工学教育プログラム:
+  tag_id: 1351
+  tag_type: true
+  tag_name: 情報工学教育プログラム
+  com_count: 0
+都市科学部:
+  tag_id: 1352
+  tag_type: true
+  tag_name: 都市科学部
+  com_count: 0
+都市社会共生学科:
+  tag_id: 1353
+  tag_type: true
+  tag_name: 都市社会共生学科
+  com_count: 0
+都市基盤学科:
+  tag_id: 1354
+  tag_type: true
+  tag_name: 都市基盤学科
+  com_count: 0
+環境リスク共生学科:
+  tag_id: 1355
+  tag_type: true
+  tag_name: 環境リスク共生学科
+  com_count: 0
+福岡教育大学:
+  tag_id: 1356
+  tag_type: true
+  tag_name: 福岡教育大学
+  com_count: 0
+初等教育部:
+  tag_id: 1357
+  tag_type: true
+  tag_name: 初等教育部
+  com_count: 0
+中等教育部:
+  tag_id: 1358
+  tag_type: true
+  tag_name: 中等教育部
+  com_count: 0
+社会科専攻:
+  tag_id: 1359
+  tag_type: true
+  tag_name: 社会科専攻
+  com_count: 0
+北見工業大学:
+  tag_id: 1360
+  tag_type: true
+  tag_name: 北見工業大学
+  com_count: 0
+地域未来デザイン工学科:
+  tag_id: 1361
+  tag_type: true
+  tag_name: 地域未来デザイン工学科
+  com_count: 0
+滋賀大学:
+  tag_id: 1362
+  tag_type: true
+  tag_name: 滋賀大学
+  com_count: 0
+ファイナンス学科:
+  tag_id: 1363
+  tag_type: true
+  tag_name: ファイナンス学科
+  com_count: 0
+会計情報学科:
+  tag_id: 1364
+  tag_type: true
+  tag_name: 会計情報学科
+  com_count: 0
+企業経営学科:
+  tag_id: 1365
+  tag_type: true
+  tag_name: 企業経営学科
+  com_count: 0
+社会システム学科:
+  tag_id: 1366
+  tag_type: true
+  tag_name: 社会システム学科
+  com_count: 0
+データサイエンス学部:
+  tag_id: 1367
+  tag_type: true
+  tag_name: データサイエンス学部
+  com_count: 0
+データサイエンス学科:
+  tag_id: 1368
+  tag_type: true
+  tag_name: データサイエンス学科
+  com_count: 0
+大分大学:
+  tag_id: 1369
+  tag_type: true
+  tag_name: 大分大学
+  com_count: 0
+経営システム学科:
+  tag_id: 1370
+  tag_type: true
+  tag_name: 経営システム学科
+  com_count: 0
+地域システム学科:
+  tag_id: 1371
+  tag_type: true
+  tag_name: 地域システム学科
+  com_count: 0
+社会イノベーション学科:
+  tag_id: 1372
+  tag_type: true
+  tag_name: 社会イノベーション学科
+  com_count: 0
+創生工学科:
+  tag_id: 1373
+  tag_type: true
+  tag_name: 創生工学科
+  com_count: 0
+福祉メカトロニクスコース:
+  tag_id: 1374
+  tag_type: true
+  tag_name: 福祉メカトロニクスコース
+  com_count: 0
+共創理工学科:
+  tag_id: 1375
+  tag_type: true
+  tag_name: 共創理工学科
+  com_count: 0
+知能情報システムコース:
+  tag_id: 1376
+  tag_type: true
+  tag_name: 知能情報システムコース
+  com_count: 0
+自然科学コース:
+  tag_id: 1377
+  tag_type: true
+  tag_name: 自然科学コース
+  com_count: 0
+福祉健康科学部:
+  tag_id: 1378
+  tag_type: true
+  tag_name: 福祉健康科学部
+  com_count: 0
+福祉健康科学科:
+  tag_id: 1379
+  tag_type: true
+  tag_name: 福祉健康科学科
+  com_count: 0
+理学療法コース:
+  tag_id: 1380
+  tag_type: true
+  tag_name: 理学療法コース
+  com_count: 0
+社会福祉実践コース:
+  tag_id: 1381
+  tag_type: true
+  tag_name: 社会福祉実践コース
+  com_count: 0
+徳島大学:
+  tag_id: 1382
+  tag_type: true
+  tag_name: 徳島大学
+  com_count: 0
+医科栄養学科:
+  tag_id: 1383
+  tag_type: true
+  tag_name: 医科栄養学科
+  com_count: 0
+〈昼間〉理工学科:
+  tag_id: 1384
+  tag_type: true
+  tag_name: 〈昼間〉理工学科
+  com_count: 0
+〈夜間主〉理工学科:
+  tag_id: 1385
+  tag_type: true
+  tag_name: 〈夜間主〉理工学科
+  com_count: 0
+社会総合科学科:
+  tag_id: 1386
+  tag_type: true
+  tag_name: 社会総合科学科
+  com_count: 0
+創製薬科学科〈４年制〉:
+  tag_id: 1387
+  tag_type: true
+  tag_name: 創製薬科学科〈４年制〉
+  com_count: 0
+生物資源産業学部:
+  tag_id: 1388
+  tag_type: true
+  tag_name: 生物資源産業学部
+  com_count: 0
+生物資源産業学科:
+  tag_id: 1389
+  tag_type: true
+  tag_name: 生物資源産業学科
+  com_count: 0
+福井大学:
+  tag_id: 1390
+  tag_type: true
+  tag_name: 福井大学
+  com_count: 0
+初等教育コース文系型:
+  tag_id: 1391
+  tag_type: true
+  tag_name: 初等教育コース文系型
+  com_count: 0
+初等教育コース理系型:
+  tag_id: 1392
+  tag_type: true
+  tag_name: 初等教育コース理系型
+  com_count: 0
+初等教育コース実技型（音楽）:
+  tag_id: 1393
+  tag_type: true
+  tag_name: 初等教育コース実技型（音楽）
+  com_count: 0
+初等教育コース実技型（美術）:
+  tag_id: 1394
+  tag_type: true
+  tag_name: 初等教育コース実技型（美術）
+  com_count: 0
+初等教育コース実技型（体育）:
+  tag_id: 1395
+  tag_type: true
+  tag_name: 初等教育コース実技型（体育）
+  com_count: 0
+中等教育コース文系型:
+  tag_id: 1396
+  tag_type: true
+  tag_name: 中等教育コース文系型
+  com_count: 0
+中等教育コース理系型:
+  tag_id: 1397
+  tag_type: true
+  tag_name: 中等教育コース理系型
+  com_count: 0
+中等教育コース実技型（音楽）:
+  tag_id: 1398
+  tag_type: true
+  tag_name: 中等教育コース実技型（音楽）
+  com_count: 0
+中等教育コース実技型（美術）:
+  tag_id: 1399
+  tag_type: true
+  tag_name: 中等教育コース実技型（美術）
+  com_count: 0
+中等教育コース実技型（体育）:
+  tag_id: 1400
+  tag_type: true
+  tag_name: 中等教育コース実技型（体育）
+  com_count: 0
+機械・システム工学科:
+  tag_id: 1401
+  tag_type: true
+  tag_name: 機械・システム工学科
+  com_count: 0
+建築・都市環境工学科:
+  tag_id: 1402
+  tag_type: true
+  tag_name: 建築・都市環境工学科
+  com_count: 0
+物質・生命化学科:
+  tag_id: 1403
+  tag_type: true
+  tag_name: 物質・生命化学科
+  com_count: 0
+応用物理学科:
+  tag_id: 1404
+  tag_type: true
+  tag_name: 応用物理学科
+  com_count: 0
+国際地域学部:
+  tag_id: 1405
+  tag_type: true
+  tag_name: 国際地域学部
+  com_count: 0
+愛媛大学:
+  tag_id: 1406
+  tag_type: true
+  tag_name: 愛媛大学
+  com_count: 0
+初等教育コース幼年教育サブコース:
+  tag_id: 1407
+  tag_type: true
+  tag_name: 初等教育コース幼年教育サブコース
+  com_count: 0
+初等教育コース小学校サブコース:
+  tag_id: 1408
+  tag_type: true
+  tag_name: 初等教育コース小学校サブコース
+  com_count: 0
+中等教育コース言語・社会教育系国語教育専攻:
+  tag_id: 1409
+  tag_type: true
+  tag_name: 中等教育コース言語・社会教育系国語教育専攻
+  com_count: 0
+中等教育コース言語・社会教育系社会科教育専攻:
+  tag_id: 1410
+  tag_type: true
+  tag_name: 中等教育コース言語・社会教育系社会科教育専攻
+  com_count: 0
+中等教育コース言語・社会教育系英語教育専攻:
+  tag_id: 1411
+  tag_type: true
+  tag_name: 中等教育コース言語・社会教育系英語教育専攻
+  com_count: 0
+中等教育コース自然科学系数学教育専攻:
+  tag_id: 1412
+  tag_type: true
+  tag_name: 中等教育コース自然科学系数学教育専攻
+  com_count: 0
+中等教育コース自然科学系理科教育専攻:
+  tag_id: 1413
+  tag_type: true
+  tag_name: 中等教育コース自然科学系理科教育専攻
+  com_count: 0
+中等教育コース自然科学系技術教育専攻:
+  tag_id: 1414
+  tag_type: true
+  tag_name: 中等教育コース自然科学系技術教育専攻
+  com_count: 0
+中等教育コース芸術・生活健康系音楽教育専攻:
+  tag_id: 1415
+  tag_type: true
+  tag_name: 中等教育コース芸術・生活健康系音楽教育専攻
+  com_count: 0
+中等教育コース芸術・生活健康系美術教育専攻:
+  tag_id: 1416
+  tag_type: true
+  tag_name: 中等教育コース芸術・生活健康系美術教育専攻
+  com_count: 0
+中等教育コース芸術・生活健康系保健体育専攻:
+  tag_id: 1417
+  tag_type: true
+  tag_name: 中等教育コース芸術・生活健康系保健体育専攻
+  com_count: 0
+中等教育コース芸術・生活健康系家政教育専攻:
+  tag_id: 1418
+  tag_type: true
+  tag_name: 中等教育コース芸術・生活健康系家政教育専攻
+  com_count: 0
+数学・数理情報コース:
+  tag_id: 1419
+  tag_type: true
+  tag_name: 数学・数理情報コース
+  com_count: 0
+地学コース:
+  tag_id: 1420
+  tag_type: true
+  tag_name: 地学コース
+  com_count: 0
+知能システム工学コース:
+  tag_id: 1421
+  tag_type: true
+  tag_name: 知能システム工学コース
+  com_count: 0
+コンピュータ科学コース:
+  tag_id: 1422
+  tag_type: true
+  tag_name: コンピュータ科学コース
+  com_count: 0
+材料デザイン工学コース:
+  tag_id: 1423
+  tag_type: true
+  tag_name: 材料デザイン工学コース
+  com_count: 0
+応用情報工学コース:
+  tag_id: 1424
+  tag_type: true
+  tag_name: 応用情報工学コース
+  com_count: 0
+化学・生命科学コース:
+  tag_id: 1425
+  tag_type: true
+  tag_name: 化学・生命科学コース
+  com_count: 0
+社会基盤工学コース:
+  tag_id: 1426
+  tag_type: true
+  tag_name: 社会基盤工学コース
+  com_count: 0
+社会デザインコース:
+  tag_id: 1427
+  tag_type: true
+  tag_name: 社会デザインコース
+  com_count: 0
+食料生産学科:
+  tag_id: 1428
+  tag_type: true
+  tag_name: 食料生産学科
+  com_count: 0
+生命機能学科:
+  tag_id: 1429
+  tag_type: true
+  tag_name: 生命機能学科
+  com_count: 0
+生物環境学科:
+  tag_id: 1430
+  tag_type: true
+  tag_name: 生物環境学科
+  com_count: 0
+スーパーサイエンス特別コース:
+  tag_id: 1431
+  tag_type: true
+  tag_name: スーパーサイエンス特別コース
+  com_count: 0
+社会共創学部:
+  tag_id: 1432
+  tag_type: true
+  tag_name: 社会共創学部
+  com_count: 0
+産業マネジメント学科:
+  tag_id: 1433
+  tag_type: true
+  tag_name: 産業マネジメント学科
+  com_count: 0
+産業マネジメントコース:
+  tag_id: 1434
+  tag_type: true
+  tag_name: 産業マネジメントコース
+  com_count: 0
+事業創造コース:
+  tag_id: 1435
+  tag_type: true
+  tag_name: 事業創造コース
+  com_count: 0
+産業イノベーション学科:
+  tag_id: 1436
+  tag_type: true
+  tag_name: 産業イノベーション学科
+  com_count: 0
+海洋生産科学コース:
+  tag_id: 1437
+  tag_type: true
+  tag_name: 海洋生産科学コース
+  com_count: 0
+紙産業コース:
+  tag_id: 1438
+  tag_type: true
+  tag_name: 紙産業コース
+  com_count: 0
+ものづくりコース:
+  tag_id: 1439
+  tag_type: true
+  tag_name: ものづくりコース
+  com_count: 0
+環境デザイン学科:
+  tag_id: 1440
+  tag_type: true
+  tag_name: 環境デザイン学科
+  com_count: 0
+環境サステナビリティコース:
+  tag_id: 1441
+  tag_type: true
+  tag_name: 環境サステナビリティコース
+  com_count: 0
+地域デザイン・防災コース:
+  tag_id: 1442
+  tag_type: true
+  tag_name: 地域デザイン・防災コース
+  com_count: 0
+地域資源マネジメント学科:
+  tag_id: 1443
+  tag_type: true
+  tag_name: 地域資源マネジメント学科
+  com_count: 0
+農山漁村マネジメントコース:
+  tag_id: 1444
+  tag_type: true
+  tag_name: 農山漁村マネジメントコース
+  com_count: 0
+文化資源マネジメントコース:
+  tag_id: 1445
+  tag_type: true
+  tag_name: 文化資源マネジメントコース
+  com_count: 0
+スポーツ健康マネジメントコース:
+  tag_id: 1446
+  tag_type: true
+  tag_name: スポーツ健康マネジメントコース
+  com_count: 0
+新潟大学:
+  tag_id: 1447
+  tag_type: true
+  tag_name: 新潟大学
+  com_count: 0
+学校教育コース学校教育学専修:
+  tag_id: 1448
+  tag_type: true
+  tag_name: 学校教育コース学校教育学専修
+  com_count: 0
+学校教育コース教育心理学専修:
+  tag_id: 1449
+  tag_type: true
+  tag_name: 学校教育コース教育心理学専修
+  com_count: 0
+学校教育コース特別支援教育専修:
+  tag_id: 1450
+  tag_type: true
+  tag_name: 学校教育コース特別支援教育専修
+  com_count: 0
+教科教育コース国語教育専修:
+  tag_id: 1451
+  tag_type: true
+  tag_name: 教科教育コース国語教育専修
+  com_count: 0
+教科教育コース社会科教育専修:
+  tag_id: 1452
+  tag_type: true
+  tag_name: 教科教育コース社会科教育専修
+  com_count: 0
+教科教育コース英語教育専修:
+  tag_id: 1453
+  tag_type: true
+  tag_name: 教科教育コース英語教育専修
+  com_count: 0
+教科教育コース数学教育専修:
+  tag_id: 1454
+  tag_type: true
+  tag_name: 教科教育コース数学教育専修
+  com_count: 0
+教科教育コース理科教育専修:
+  tag_id: 1455
+  tag_type: true
+  tag_name: 教科教育コース理科教育専修
+  com_count: 0
+教科教育コース家庭科教育専修:
+  tag_id: 1456
+  tag_type: true
+  tag_name: 教科教育コース家庭科教育専修
+  com_count: 0
+教科教育コース技術科教育専修:
+  tag_id: 1457
+  tag_type: true
+  tag_name: 教科教育コース技術科教育専修
+  com_count: 0
+教科教育コース音楽教育専修:
+  tag_id: 1458
+  tag_type: true
+  tag_name: 教科教育コース音楽教育専修
+  com_count: 0
+教科教育コース美術教育専修:
+  tag_id: 1459
+  tag_type: true
+  tag_name: 教科教育コース美術教育専修
+  com_count: 0
+教科教育コース保健体育専修:
+  tag_id: 1460
+  tag_type: true
+  tag_name: 教科教育コース保健体育専修
+  com_count: 0
+力学分野:
+  tag_id: 1461
+  tag_type: true
+  tag_name: 力学分野
+  com_count: 0
+情報電子分野:
+  tag_id: 1462
+  tag_type: true
+  tag_name: 情報電子分野
+  com_count: 0
+化学材料分野:
+  tag_id: 1463
+  tag_type: true
+  tag_name: 化学材料分野
+  com_count: 0
+建築分野:
+  tag_id: 1464
+  tag_type: true
+  tag_name: 建築分野
+  com_count: 0
+融合領域分野:
+  tag_id: 1465
+  tag_type: true
+  tag_name: 融合領域分野
+  com_count: 0
+口腔生命福祉学科:
+  tag_id: 1466
+  tag_type: true
+  tag_name: 口腔生命福祉学科
+  com_count: 0
+農学科:
+  tag_id: 1467
+  tag_type: true
+  tag_name: 農学科
+  com_count: 0
+創生学部:
+  tag_id: 1468
+  tag_type: true
+  tag_name: 創生学部
+  com_count: 0
+創生学修課程:
+  tag_id: 1469
+  tag_type: true
+  tag_name: 創生学修課程
+  com_count: 0
+高知大学:
+  tag_id: 1470
+  tag_type: true
+  tag_name: 高知大学
+  com_count: 0
+国際社会コース:
+  tag_id: 1471
+  tag_type: true
+  tag_name: 国際社会コース
+  com_count: 0
+社会科学コース:
+  tag_id: 1472
+  tag_type: true
+  tag_name: 社会科学コース
+  com_count: 0
+農林海洋科学部:
+  tag_id: 1473
+  tag_type: true
+  tag_name: 農林海洋科学部
+  com_count: 0
+農林資源環境科学科:
+  tag_id: 1474
+  tag_type: true
+  tag_name: 農林資源環境科学科
+  com_count: 0
+農芸化学科:
+  tag_id: 1475
+  tag_type: true
+  tag_name: 農芸化学科
+  com_count: 0
+海洋生物生産学コース:
+  tag_id: 1476
+  tag_type: true
+  tag_name: 海洋生物生産学コース
+  com_count: 0
+海底資源環境学コース:
+  tag_id: 1477
+  tag_type: true
+  tag_name: 海底資源環境学コース
+  com_count: 0
+海洋生命科学コース:
+  tag_id: 1478
+  tag_type: true
+  tag_name: 海洋生命科学コース
+  com_count: 0
+数学物理学科:
+  tag_id: 1479
+  tag_type: true
+  tag_name: 数学物理学科
+  com_count: 0
+化学生命理工学科:
+  tag_id: 1480
+  tag_type: true
+  tag_name: 化学生命理工学科
+  com_count: 0
+地域協働学部:
+  tag_id: 1481
+  tag_type: true
+  tag_name: 地域協働学部
+  com_count: 0
+地域協働学科:
+  tag_id: 1482
+  tag_type: true
+  tag_name: 地域協働学科
+  com_count: 0
+静岡大学:
+  tag_id: 1483
+  tag_type: true
+  tag_name: 静岡大学
+  com_count: 0
+初等学習開発学専攻:
+  tag_id: 1484
+  tag_type: true
+  tag_name: 初等学習開発学専攻
+  com_count: 0
+発達教育学専攻教育実践学専修:
+  tag_id: 1485
+  tag_type: true
+  tag_name: 発達教育学専攻教育実践学専修
+  com_count: 0
+発達教育学専攻教育心理学専修:
+  tag_id: 1486
+  tag_type: true
+  tag_name: 発達教育学専攻教育心理学専修
+  com_count: 0
+発達教育学専攻幼児教育専修:
+  tag_id: 1487
+  tag_type: true
+  tag_name: 発達教育学専攻幼児教育専修
+  com_count: 0
+教科教育学専攻国語教育専修:
+  tag_id: 1488
+  tag_type: true
+  tag_name: 教科教育学専攻国語教育専修
+  com_count: 0
+教科教育学専攻社会科教育専修:
+  tag_id: 1489
+  tag_type: true
+  tag_name: 教科教育学専攻社会科教育専修
+  com_count: 0
+教科教育学専攻数学教育専修:
+  tag_id: 1490
+  tag_type: true
+  tag_name: 教科教育学専攻数学教育専修
+  com_count: 0
+教科教育学専攻理科教育専修:
+  tag_id: 1491
+  tag_type: true
+  tag_name: 教科教育学専攻理科教育専修
+  com_count: 0
+教科教育学専攻音楽教育専修:
+  tag_id: 1492
+  tag_type: true
+  tag_name: 教科教育学専攻音楽教育専修
+  com_count: 0
+教科教育学専攻美術教育専修:
+  tag_id: 1493
+  tag_type: true
+  tag_name: 教科教育学専攻美術教育専修
+  com_count: 0
+教科教育学専攻保健体育教育専修:
+  tag_id: 1494
+  tag_type: true
+  tag_name: 教科教育学専攻保健体育教育専修
+  com_count: 0
+教科教育学専攻技術教育専修:
+  tag_id: 1495
+  tag_type: true
+  tag_name: 教科教育学専攻技術教育専修
+  com_count: 0
+教科教育学専攻家庭科教育専修:
+  tag_id: 1496
+  tag_type: true
+  tag_name: 教科教育学専攻家庭科教育専修
+  com_count: 0
+教科教育学専攻英語教育専修:
+  tag_id: 1497
+  tag_type: true
+  tag_name: 教科教育学専攻英語教育専修
+  com_count: 0
+電子物質科学科:
+  tag_id: 1498
+  tag_type: true
+  tag_name: 電子物質科学科
+  com_count: 0
+化学バイオ工学科:
+  tag_id: 1499
+  tag_type: true
+  tag_name: 化学バイオ工学科
+  com_count: 0
+数理システム工学科:
+  tag_id: 1500
+  tag_type: true
+  tag_name: 数理システム工学科
+  com_count: 0
+情報社会学科:
+  tag_id: 1501
+  tag_type: true
+  tag_name: 情報社会学科
+  com_count: 0
+行動情報学科:
+  tag_id: 1502
+  tag_type: true
+  tag_name: 行動情報学科
+  com_count: 0
+創造理学コース:
+  tag_id: 1503
+  tag_type: true
+  tag_name: 創造理学コース
+  com_count: 0
+地域創造学環:
+  tag_id: 1504
+  tag_type: true
+  tag_name: 地域創造学環
+  com_count: 0
+大阪大学:
+  tag_id: 1505
+  tag_type: true
+  tag_name: 大阪大学
+  com_count: 0
+基礎工学部:
+  tag_id: 1506
+  tag_type: true
+  tag_name: 基礎工学部
+  com_count: 0
+システム科学科:
+  tag_id: 1507
+  tag_type: true
+  tag_name: システム科学科
+  com_count: 0
+化学応用科学科:
+  tag_id: 1508
+  tag_type: true
+  tag_name: 化学応用科学科
+  com_count: 0
+電子物理科学科:
+  tag_id: 1509
+  tag_type: true
+  tag_name: 電子物理科学科
+  com_count: 0
+応用自然科学科:
+  tag_id: 1510
+  tag_type: true
+  tag_name: 応用自然科学科
+  com_count: 0
+応用理工学科:
+  tag_id: 1511
+  tag_type: true
+  tag_name: 応用理工学科
+  com_count: 0
+地球総合工学科:
+  tag_id: 1512
+  tag_type: true
+  tag_name: 地球総合工学科
+  com_count: 0
+環境・エネルギー工学科:
+  tag_id: 1513
+  tag_type: true
+  tag_name: 環境・エネルギー工学科
+  com_count: 0
+国際公共政策学科:
+  tag_id: 1514
+  tag_type: true
+  tag_name: 国際公共政策学科
+  com_count: 0
+生命理学コース:
+  tag_id: 1515
+  tag_type: true
+  tag_name: 生命理学コース
+  com_count: 0
+外国語学部:
+  tag_id: 1516
+  tag_type: true
+  tag_name: 外国語学部
+  com_count: 0
+外国語学科:
+  tag_id: 1517
+  tag_type: true
+  tag_name: 外国語学科
+  com_count: 0
+中国語専攻:
+  tag_id: 1518
+  tag_type: true
+  tag_name: 中国語専攻
+  com_count: 0
+朝鮮語専攻:
+  tag_id: 1519
+  tag_type: true
+  tag_name: 朝鮮語専攻
+  com_count: 0
+モンゴル語専攻:
+  tag_id: 1520
+  tag_type: true
+  tag_name: モンゴル語専攻
+  com_count: 0
+インドネシア語専攻:
+  tag_id: 1521
+  tag_type: true
+  tag_name: インドネシア語専攻
+  com_count: 0
+フィリピン語専攻:
+  tag_id: 1522
+  tag_type: true
+  tag_name: フィリピン語専攻
+  com_count: 0
+タイ語専攻:
+  tag_id: 1523
+  tag_type: true
+  tag_name: タイ語専攻
+  com_count: 0
+ベトナム語専攻:
+  tag_id: 1524
+  tag_type: true
+  tag_name: ベトナム語専攻
+  com_count: 0
+ビルマ語専攻:
+  tag_id: 1525
+  tag_type: true
+  tag_name: ビルマ語専攻
+  com_count: 0
+ヒンディー語専攻:
+  tag_id: 1526
+  tag_type: true
+  tag_name: ヒンディー語専攻
+  com_count: 0
+ウルドゥー語専攻:
+  tag_id: 1527
+  tag_type: true
+  tag_name: ウルドゥー語専攻
+  com_count: 0
+アラビア語専攻:
+  tag_id: 1528
+  tag_type: true
+  tag_name: アラビア語専攻
+  com_count: 0
+ペルシア語専攻:
+  tag_id: 1529
+  tag_type: true
+  tag_name: ペルシア語専攻
+  com_count: 0
+トルコ語専攻:
+  tag_id: 1530
+  tag_type: true
+  tag_name: トルコ語専攻
+  com_count: 0
+スワヒリ語専攻:
+  tag_id: 1531
+  tag_type: true
+  tag_name: スワヒリ語専攻
+  com_count: 0
+ロシア語専攻:
+  tag_id: 1532
+  tag_type: true
+  tag_name: ロシア語専攻
+  com_count: 0
+ハンガリー語専攻:
+  tag_id: 1533
+  tag_type: true
+  tag_name: ハンガリー語専攻
+  com_count: 0
+デンマーク語専攻:
+  tag_id: 1534
+  tag_type: true
+  tag_name: デンマーク語専攻
+  com_count: 0
+スウェーデン語専攻:
+  tag_id: 1535
+  tag_type: true
+  tag_name: スウェーデン語専攻
+  com_count: 0
+ドイツ語専攻:
+  tag_id: 1536
+  tag_type: true
+  tag_name: ドイツ語専攻
+  com_count: 0
+フランス語専攻:
+  tag_id: 1537
+  tag_type: true
+  tag_name: フランス語専攻
+  com_count: 0
+イタリア語専攻:
+  tag_id: 1538
+  tag_type: true
+  tag_name: イタリア語専攻
+  com_count: 0
+スペイン語専攻:
+  tag_id: 1539
+  tag_type: true
+  tag_name: スペイン語専攻
+  com_count: 0
+ポルトガル語専攻:
+  tag_id: 1540
+  tag_type: true
+  tag_name: ポルトガル語専攻
+  com_count: 0
+日本語専攻:
+  tag_id: 1541
+  tag_type: true
+  tag_name: 日本語専攻
+  com_count: 0
+愛知教育大学:
+  tag_id: 1542
+  tag_type: true
+  tag_name: 愛知教育大学
+  com_count: 0
+教育科学選修:
+  tag_id: 1543
+  tag_type: true
+  tag_name: 教育科学選修
+  com_count: 0
+情報選修:
+  tag_id: 1544
+  tag_type: true
+  tag_name: 情報選修
+  com_count: 0
+生活科選修:
+  tag_id: 1545
+  tag_type: true
+  tag_name: 生活科選修
+  com_count: 0
+日本語教育選修:
+  tag_id: 1546
+  tag_type: true
+  tag_name: 日本語教育選修
+  com_count: 0
+教育科学専攻:
+  tag_id: 1547
+  tag_type: true
+  tag_name: 教育科学専攻
+  com_count: 0
+情報専攻:
+  tag_id: 1548
+  tag_type: true
+  tag_name: 情報専攻
+  com_count: 0
+国語・書道専攻:
+  tag_id: 1549
+  tag_type: true
+  tag_name: 国語・書道専攻
+  com_count: 0
+教育支援専門職養成課程:
+  tag_id: 1550
+  tag_type: true
+  tag_name: 教育支援専門職養成課程
+  com_count: 0
+心理コース:
+  tag_id: 1551
+  tag_type: true
+  tag_name: 心理コース
+  com_count: 0
+福祉コース:
+  tag_id: 1552
+  tag_type: true
+  tag_name: 福祉コース
+  com_count: 0
+教育ガバナンスコース:
+  tag_id: 1553
+  tag_type: true
+  tag_name: 教育ガバナンスコース
+  com_count: 0
